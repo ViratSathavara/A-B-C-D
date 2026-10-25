@@ -1,0 +1,17 @@
+{
+  "name": "સનાતન ધર્મની A to Z",
+  "short_name": "A to Z",
+  "description": "બાળકો માટે સનાતન ધર્મની વાર્તાઓ: ચિત્ર, અવાજ અને ક્વિઝ સાથે.",
+  "lang": "gu",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#17124a",
+  "theme_color": "#17124a",
+  "icons": [
+    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png"},
+    {"src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
