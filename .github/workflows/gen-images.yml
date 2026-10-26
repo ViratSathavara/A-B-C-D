@@ -1,0 +1,33 @@
+name: Generate pictures (Gemini)
+on:
+  push:
+    branches: [v2-trilingual-scenes]
+    paths: ['.github/gen-trigger.txt']
+permissions:
+  contents: write
+concurrency: gen-images
+jobs:
+  gen:
+    runs-on: ubuntu-latest
+    timeout-minutes: 340
+    steps:
+      - uses: actions/checkout@v4
+        with: {ref: v2-trilingual-scenes}
+      - uses: actions/setup-python@v5
+        with: {python-version: '3.12'}
+      - run: pip install pillow
+      - name: Check secret
+        env: {GEMINI_API_KEY: '${{ secrets.GEMINI_API_KEY }}'}
+        run: test -n "$GEMINI_API_KEY" || (echo "Add repo secret GEMINI_API_KEY, then Re-run jobs"; exit 1)
+      - name: Generate (resumes, commits every 30 pictures)
+        env: {GEMINI_API_KEY: '${{ secrets.GEMINI_API_KEY }}'}
+        run: |
+          git config user.name "image-bot"; git config user.email "bot@users.noreply.github.com"
+          for i in $(seq 1 15); do
+            python3 scripts/make-images.py --limit 30 || true
+            git add art && (git diff --cached --quiet || git commit -m "Add generated pictures (batch $i)") && git pull --rebase -q origin v2-trilingual-scenes && git push -q origin v2-trilingual-scenes || true
+          done
+      - name: Final commit
+        if: always()
+        run: |
+          git add art && (git diff --cached --quiet || git commit -m "Add generated pictures") ; git pull --rebase -q origin v2-trilingual-scenes; git push -q origin v2-trilingual-scenes || true
