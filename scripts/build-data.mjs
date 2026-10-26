@@ -3,7 +3,7 @@
 //   data.bundle.js            what the app loads now (ui, characters, English-alphabet stories)
 //   data.sections.js          the other sections (Gujarati/Hindi akshar, numbers, deities, avatars) for the next app step
 //   art/prompts/*.md          picture prompts, one file per section
-//   art/IMAGE-LIST.csv        every picture in one table: file name, prompt, whether it exists yet
+//   art/IMAGE-LIST.xlsx       (made by scripts/make-xlsx.py) every picture in one Excel table
 //
 //   node scripts/build-data.mjs            -> check + build
 //   node scripts/build-data.mjs --strict   -> missing pictures/audio also count as errors (use before release)
@@ -158,8 +158,6 @@ for (const [sname, title] of Object.entries(titles)) {
   for (const im of list) md += `\n### \`${im.file}\`  ·  ${im.label}${im.have ? '  ✅ done' : ''}\n\n> ${im.prompt}\n`;
   fs.writeFileSync(path.join(root, 'art/prompts', titles[sname].replace(/ /g, '-').replace(/[^\w-]/g, '') + '.md'), md);
 }
-const csv = v => '"' + String(v).replace(/"/g, '""') + '"';
-fs.writeFileSync(path.join(root, 'art/IMAGE-LIST.csv'), '﻿' + 'section,file,label,done,prompt\n' + images.map(i => [i.section, i.file, i.label, i.have ? 'yes' : 'no', i.prompt].map(csv).join(',')).join('\n') + '\n');
 
 // studio list (used by studio.html)
 const refOf = f => { const m = f.match(/^(.*\/)(\d+)\.webp$/); return m && m[2] !== '1' ? m[1] + '1.webp' : null; };
@@ -168,7 +166,7 @@ fs.writeFileSync(path.join(root, 'art/images.json'), JSON.stringify(images.map(i
 // report
 const nSc = Object.values(stories).reduce((n, s) => n + s.scenes.length, 0);
 console.log(`characters: ${Object.keys(chars).length} · alphabet slots: ${slotCount} (abcd ${Object.keys(slots.abcd).length}, gu ${sec['akshar-gu'].items.length}, hi ${sec['akshar-hi'].items.length}) · stories: ${Object.keys(stories).length} (${nSc} scenes) · numbers ${sec.numbers.items.length} · deities ${sec.deities.items.length} · avatars ${sec.avatars.items.length}`);
-console.log(`pictures to make: ${images.filter(i => !i.have).length} of ${images.length}  (see art/IMAGE-LIST.csv and art/prompts/)`);
+console.log(`pictures to make: ${images.filter(i => !i.have).length} of ${images.length}  (see art/IMAGE-LIST.xlsx and art/prompts/)`);
 for (const [k, list] of Object.entries(missing)) if (list.length) {
   if (strict) list.forEach(m => errors.push(`${k} missing: ${m}`));
   else if (k === 'audio') console.log(`voice files not made yet: ${list.length} (run scripts/make-audio.py)`);
