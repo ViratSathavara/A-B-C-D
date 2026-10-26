@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="gu">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Image Studio</title>
+<style>
+:root{--bg:#fff7e8;--card:#fff;--ink:#3b2412;--mut:#8a6a4a;--acc:#e8731a;--ok:#2e9e5b;--line:#f0d9b5}
+@media (prefers-color-scheme:dark){:root{--bg:#1e140d;--card:#2b1d12;--ink:#f6e7cf;--mut:#c0a07c;--line:#4a3220}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.5 system-ui,"Noto Sans Gujarati","Noto Sans Devanagari",sans-serif}
+header{position:sticky;top:0;z-index:5;background:var(--bg);border-bottom:1px solid var(--line);padding:10px 16px}
+h1{margin:0 0 6px;font-size:1.15rem}
+.bar{height:10px;border-radius:6px;background:var(--line);overflow:hidden}
+.bar i{display:block;height:100%;background:var(--ok);width:0}
+.row{display:flex;gap:8px;flex-wrap:wrap;margin-top:8px;align-items:center}
+button,label.btn{font:inherit;border:0;border-radius:10px;padding:8px 12px;background:var(--acc);color:#fff;cursor:pointer;display:inline-block}
+button.alt,label.btn.alt{background:transparent;color:var(--ink);border:1px solid var(--line)}
+.tabs{display:flex;gap:6px;overflow-x:auto;padding:8px 16px}
+.tabs button{white-space:nowrap}
+.tabs button.on{background:var(--ink);color:var(--bg)}
+main{padding:8px 16px 80px;max-width:900px;margin:auto}
+.c{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:12px;margin:10px 0}
+.c.done{border-color:var(--ok)}
+.c h3{margin:0;font-size:1rem}
+.f{font:12px ui-monospace,monospace;color:var(--mut);word-break:break-all}
+.p{font-size:.85rem;color:var(--mut);max-height:4.2em;overflow:hidden;margin:6px 0;cursor:pointer}
+.p.open{max-height:none}
+.ref{font-size:.85rem;background:#fff0d6;color:#6b3d00;border-radius:8px;padding:4px 8px;margin:6px 0}
+@media (prefers-color-scheme:dark){.ref{background:#3a2a10;color:#ffd9a0}}
+img.t{width:100%;max-width:320px;border-radius:10px;display:block;margin-top:8px;aspect-ratio:16/9;object-fit:cover;background:var(--line)}
+.hint{font-size:.9rem;color:var(--mut);padding:0 16px}
+</style>
+</head>
+<body>
+<header>
+  <h1>🎨 Image Studio <span id="cnt" style="font-weight:400;font-size:.9rem"></span></h1>
+  <div class="bar"><i id="bar"></i></div>
+  <div class="row">
+    <button id="next">▶ આગળનું બાકી ચિત્ર</button>
+    <label class="btn alt">📥 ઘણા ચિત્રો ક્રમમાં ઉમેરો<input id="multi" type="file" accept="image/*" multiple hidden></label>
+    <button class="alt" id="zip">⬇ ZIP ડાઉનલોડ</button>
+  </div>
+</header>
+<div class="tabs" id="tabs"></div>
+<p class="hint">રીત: ① Copy prompt → Google Flow / Gemini માં paste → ચિત્ર બનાવો ② ચિત્ર અહીં અપલોડ કરો (આપમેળે webp માં સેવ થશે) ③ બધા થાય એટલે ZIP મને આપો. Scene 2, 3… માટે પહેલાં scene 1 નું ચિત્ર reference તરીકે જોડો.</p>
+<main id="list"></main>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"></script>
+<script>
+const NAMES={abcd:'A–Z વાર્તા','akshar-gu':'ગુજરાતી અક્ષર','akshar-hi':'હિન્દી અક્ષર',numbers:'ગણતરી',deities:'દેવી-દેવતા',avatars:'દશાવતાર'};
+let L=[],cur='abcd',db,done=new Set();
+const $=s=>document.querySelector(s);
+const open=()=>new Promise((res,rej)=>{const r=indexedDB.open('studio',1);r.onupgradeneeded=()=>r.result.createObjectStore('img');r.onsuccess=()=>res(r.result);r.onerror=rej});
+const tx=(m)=>db.transaction('img',m).objectStore('img');
+const put=(k,v)=>new Promise(r=>{const q=tx('readwrite').put(v,k);q.onsuccess=()=>r()});
+const get=k=>new Promise(r=>{const q=tx('readonly').get(k);q.onsuccess=()=>r(q.result)});
+const keys=()=>new Promise(r=>{const q=tx('readonly').getAllKeys();q.onsuccess=()=>r(q.result)});
+function toWebp(file){return new Promise((res,rej)=>{const u=URL.createObjectURL(file),im=new Image();im.onload=()=>{const w=Math.min(1600,im.width),h=Math.round(im.height*w/im.width),c=document.createElement('canvas');c.width=w;c.height=h;c.getContext('2d').drawImage(im,0,0,w,h);c.toBlob(b=>{URL.revokeObjectURL(u);b?res(b):rej()},'image/webp',.86)};im.onerror=rej;im.src=u})}
+async function save(f,file){const b=await toWebp(file);await put(f,b);done.add(f);}
+function esc(s){return s.replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]))}
+function stats(){const n=done.size,t=L.length;$('#cnt').textContent=`· ${n}/${t}`;$('#bar').style.width=(100*n/t)+'%'}
+function tabs(){$('#tabs').innerHTML=Object.keys(NAMES).map(k=>{const t=L.filter(i=>i.s===k),d=t.filter(i=>done.has(i.f)).length;return `<button class="${k===cur?'on':'alt'}" data-k="${k}">${NAMES[k]} ${d}/${t.length}</button>`}).join('')}
+async function render(){
+  tabs();stats();
+  const items=L.filter(i=>i.s===cur);
+  $('#list').innerHTML=items.map((i,n)=>`<div class="c ${done.has(i.f)?'done':''}" id="c${n}" data-f="${i.f}">
+    <h3>${done.has(i.f)?'✅ ':''}${esc(i.l)}</h3><div class="f">${i.f}</div>
+    ${i.r?`<div class="ref">📎 Reference: પહેલાં scene 1 નું ચિત્ર (${i.r.split('/').slice(-2).join('/')}) જોડો</div>`:''}
+    <div class="p">${esc(i.p)}</div>
+    <div class="row"><button data-copy="${n}">📋 Copy prompt</button>
+    <label class="btn alt">⬆ ચિત્ર અપલોડ<input type="file" accept="image/*" hidden data-up="${n}"></label>
+    ${done.has(i.f)?`<button class="alt" data-del="${n}">🗑</button>`:''}</div>
+    <img class="t" alt="" hidden></div>`).join('');
+  items.forEach(async(i,n)=>{if(done.has(i.f)){const b=await get(i.f),im=document.querySelector(`#c${n} img`);im.src=URL.createObjectURL(b);im.hidden=false}});
+}
+document.addEventListener('click',async e=>{
+  const t=e.target;
+  if(t.dataset.k){cur=t.dataset.k;render();scrollTo(0,0)}
+  else if(t.dataset.copy!==undefined){const i=L.filter(x=>x.s===cur)[t.dataset.copy];try{await navigator.clipboard.writeText(i.p);t.textContent='✔ Copied'}catch(_){prompt('Copy:',i.p)}setTimeout(()=>t.textContent='📋 Copy prompt',1500)}
+  else if(t.dataset.del!==undefined){const i=L.filter(x=>x.s===cur)[t.dataset.del];await new Promise(r=>{const q=tx('readwrite').delete(i.f);q.onsuccess=r});done.delete(i.f);render()}
+  else if(t.classList.contains('p'))t.classList.toggle('open');
+  else if(t.id==='next'){const n=L.filter(x=>x.s===cur).findIndex(x=>!done.has(x.f));if(n<0)return alert('આ વિભાગ પૂરો!');document.getElementById('c'+n).scrollIntoView({behavior:'smooth',block:'start'})}
+  else if(t.id==='zip'){
+    if(!done.size)return alert('હજી કોઈ ચિત્ર નથી');
+    t.textContent='⏳ બનાવું છું…';const z=new JSZip();
+    for(const f of done)z.file(f,await get(f));
+    const blob=await z.generateAsync({type:'blob'}),a=document.createElement('a');a.href=URL.createObjectURL(blob);a.download='sanatan-images.zip';a.click();t.textContent='⬇ ZIP ડાઉનલોડ';
+  }
+});
+document.addEventListener('change',async e=>{
+  const t=e.target;
+  if(t.dataset.up!==undefined&&t.files[0]){const i=L.filter(x=>x.s===cur)[t.dataset.up];await save(i.f,t.files[0]);render()}
+  else if(t.id==='multi'){const files=[...t.files].sort((a,b)=>a.name.localeCompare(b.name,undefined,{numeric:true}));const todo=L.filter(x=>x.s===cur&&!done.has(x.f));
+    if(files.length>todo.length&&!confirm(`${files.length} ચિત્રો પણ ${todo.length} જગ્યા બાકી. ચાલુ રાખું?`))return;
+    for(let k=0;k<Math.min(files.length,todo.length);k++)await save(todo[k].f,files[k]);t.value='';render()}
+});
+(async()=>{
+  db=await open();
+  try{L=await (await fetch('art/images.json')).json()}catch(e){$('#list').innerHTML='<p>art/images.json ખૂલતી નથી. સાઇટ server પરથી ખોલો (file:// થી નહીં).</p>';return}
+  (await keys()).forEach(k=>done.add(k));render();
+})();
+</script>
+</body>
+</html>

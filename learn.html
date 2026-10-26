@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="gu">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#17124a">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" type="image/png" href="icons/icon-192.png">
+<title>સનાતન ધર્મ શીખો</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Baloo+Bhai+2:wght@500;600;700;800&family=Hind+Vadodara:wght@400;500;600&family=Hind:wght@400;500;600&family=Baloo+2:wght@600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="app.css">
+</head>
+<body>
+<div class="stars" id="stars" aria-hidden="true"></div>
+<div class="bar"><a class="pill" href="./" aria-label="Home">🏠</a><span class="logo" id="logo"></span>
+  <button class="pill" id="lang" aria-label="ભાષા / भाषा / Language">🌐 <span id="langlbl">ગુ</span></button></div>
+<main class="wrap"><div class="tabs" id="tabs"></div><div class="cards" id="cards"></div></main>
+<div class="sheet" id="sheet" role="dialog" aria-modal="true"><div class="in" id="in"></div></div>
+<button class="pill x" id="x"></button>
+<div class="dock" id="dock"><button class="arrow" id="prev" aria-label="Previous">‹</button><button class="btn" id="listen"></button><button class="arrow" id="next" aria-label="Next">›</button></div>
+<script src="data.bundle.js"></script>
+<script src="data.sections.js"></script>
+<script src="app.js"></script>
+<script>
+const S=new URLSearchParams(location.search).get('s'),DATA=SEC[S];
+if(!DATA)location.replace('./');
+const items=DATA.items;
+const isLetters=S.startsWith('akshar');
+const VOW=13; // first 13 letters are the vowels (incl. anusvara / visarga)
+let tab=0,cur=-1,scene=0,speaking=false;
+const hue=i=>(i*37+20)%360;
+const picOf=(it,n)=>S==='deities'||S==='avatars'?`art/items/${S}/${it.id}/${n||1}.webp`:S==='numbers'?`art/items/numbers/${it.id}.webp`:`art/items/${S}/${it.char}.webp`;
+const keyOf=it=>it.id||it.char;
+const nameFor=it=>isLetters?nameOf(it.char):S==='numbers'?tr(it.names):nameOf(it.char);
+const bigFor=it=>isLetters?it.letter:S==='numbers'?it.n:(S==='avatars'?'🌼':'🕉️');
+const glyphFor=it=>isLetters?it.letter:S==='numbers'?it.n:'';
+function pic(src,h,ph){return `<div class="pic" style="--h:${h}"><div class="ph">${esc(ph)}</div><img alt="" loading="lazy" src="${src}" onerror="this.remove()"></div>`}
+function list(){
+  $('#logo').textContent=t(S);
+  const tabsOn=isLetters;
+  $('#tabs').innerHTML=tabsOn?[['vowels',0],['cons',1]].map(([k,n])=>`<button class="${tab===n?'on':''}" data-tab="${n}">${t(k)}</button>`).join(''):'';
+  const idx=items.map((_,i)=>i).filter(i=>!tabsOn||(tab===0?i<VOW:i>=VOW));
+  $('#cards').innerHTML=idx.map(i=>{const it=items[i];
+    const ph=isLetters?it.letter:S==='numbers'?it.n:(S==='avatars'?'🌼'+(it.order):'🕉️');
+    return `<button class="card" style="--h:${hue(i)}" data-i="${i}">${pic(picOf(it,1),hue(i),ph)}<div class="big">${isLetters?esc(it.letter):S==='numbers'?it.n:''}</div><div class="nm">${esc(S==='numbers'?tr(it.names):nameFor(it))}</div></button>`}).join('');
+}
+function openItem(i){
+  cur=i;scene=0;stopAll();
+  const it=items[i],h=hue(i),multi=!!it.scenes;
+  $('#sheet').style.setProperty('--h',h);
+  let head,body='';
+  const glyph=glyphFor(it);
+  head=`<div class="head">${glyph!==''?`<div class="glyph">${esc(glyph)}</div>`:''}<div><div class="ttl">${esc(S==='numbers'?tr(it.names):nameFor(it))}</div>${S==='avatars'?`<div class="stl">${t('order')} ${it.order} · ${esc(tr(it.yuga))}</div>`:''}${S==='numbers'?`<div class="stl">${esc(tr(it.stands))}</div>`:''}</div></div>`;
+  if(multi){
+    body+=`<div>${it.scenes.map((sc,k)=>`<p class="txt scn" data-k="${k}">${esc(tr(sc.text))}</p>`).join('')}</div>`;
+    const f=[];
+    if(S==='deities'){f.push(`${t('vahan')}: ${tr(it.vahan)}`,`${t('loves')}: ${tr(it.loves)}`)}
+    else{f.push(`${t('form')}: ${tr(it.form)}`,`${t('yuga')}: ${tr(it.yuga)}`)}
+    body+=`<div class="facts">${f.map(x=>`<span>${esc(x)}</span>`).join('')}</div>`;
+    if(it.mantra)body+=`<div class="mantra">${t('mantra')}<div class="sa">${esc(it.mantra.sa)}</div>${esc(tr(it.mantra.say))}<br>${esc(tr(it.mantra.meaning))}</div>`;
+    body+=`<div class="lesson">${esc(tr(it.lesson))}</div>`;
+  }else{
+    body+=`<p class="txt">${esc(tr(it.text))}</p>`;
+  }
+  $('#in').innerHTML=pic(picOf(it,1),h,glyph!==''?glyph:'🕉️').replace('class="pic"','class="pic" id="mainpic"')+`<div class="body">${head}${body}</div>`;
+  $('#sheet').classList.add('open');$('#sheet').scrollTop=0;document.body.style.overflow='hidden';
+  $('#prev').disabled=!visible(i,-1);$('#next').disabled=!visible(i,1);
+  $('#listen').textContent=t('listen');$('#listen').classList.remove('speaking');$('#x').textContent=t('close');
+  if(multi)markScene(0);
+  try{history.replaceState(null,'','?s='+S+'#'+i)}catch(e){}
+}
+// prev/next move through whatever is on the current tab
+const inTab=i=>!isLetters||(tab===0?i<VOW:i>=VOW);
+function visible(i,d){for(let j=i+d;j>=0&&j<items.length;j+=d)if(inTab(j))return j;return null}
+function closeItem(){stopAll();$('#sheet').classList.remove('open');document.body.style.overflow='';cur=-1}
+function stopAll(){stopSpeak();speaking=false;const b=$('#listen');b.classList.remove('speaking');b.textContent=t('listen')}
+function markScene(k){
+  scene=k;document.querySelectorAll('#in .scn').forEach((e,j)=>e.classList.toggle('on',j===k));
+  const it=items[cur];if(!it.scenes)return;
+  const p=$('#mainpic'),im=p&&p.querySelector('img');
+  const src=picOf(it,k+1),pr=new Image();
+  pr.onload=()=>{let el=p.querySelector('img');if(!el){el=document.createElement('img');el.alt='';p.appendChild(el)}el.classList.add('fade');setTimeout(()=>{el.src=src;el.classList.remove('fade')},200)};
+  pr.src=src;
+  const el=document.querySelector(`#in .scn[data-k="${k}"]`);el&&el.scrollIntoView({block:'nearest',behavior:'smooth'});
+}
+function listen(from){
+  if(speaking&&from===undefined){stopAll();return}
+  stopAll();speaking=true;const b=$('#listen');b.classList.add('speaking');b.textContent=t('pause');
+  const it=items[cur],id=keyOf(it),done=()=>{if(speaking)stopAll()};
+  if(it.scenes){
+    const step=k=>{if(!speaking)return;if(k>=it.scenes.length){speak(`audio/${lang}/${S}-${id}-lesson.mp3`,tr(it.lesson),done);return}
+      markScene(k);speak(`audio/${lang}/${S}-${id}-${k+1}.mp3`,tr(it.scenes[k].text),()=>step(k+1))};
+    step(from||0);
+  }else{
+    const nm=S==='numbers'?tr(it.names):nameFor(it);
+    speak(`audio/${lang}/${S}-${id}.mp3`,(isLetters?it.letter+'. ':'')+nm+'. '+tr(it.text),done);
+  }
+}
+document.addEventListener('click',e=>{
+  const b=e.target.closest('button');
+  const sc=e.target.closest('.scn');
+  if(sc){const k=+sc.dataset.k;if(speaking)listen(k);else markScene(k);return}
+  if(!b)return;
+  if(b.dataset.tab!==undefined){tab=+b.dataset.tab;list()}
+  else if(b.dataset.i!==undefined)openItem(+b.dataset.i);
+  else if(b.id==='x')closeItem();
+  else if(b.id==='listen')listen();
+  else if(b.id==='prev'){const j=visible(cur,-1);if(j!==null)openItem(j)}
+  else if(b.id==='next'){const j=visible(cur,1);if(j!==null)openItem(j)}
+});
+addEventListener('keydown',e=>{if(cur<0)return;if(e.key==='Escape')closeItem();if(e.key==='ArrowRight'){const j=visible(cur,1);if(j!==null)openItem(j)}if(e.key==='ArrowLeft'){const j=visible(cur,-1);if(j!==null)openItem(j)}});
+$('#lang').onclick=()=>{const keep=cur;cycleLang();list();if(keep>=0)openItem(keep)};
+setLang(lang);list();
+const h0=+location.hash.slice(1);if(location.hash&&items[h0]){tab=isLetters&&h0>=VOW?1:0;list();openItem(h0)}
+</script>
+</body>
+</html>

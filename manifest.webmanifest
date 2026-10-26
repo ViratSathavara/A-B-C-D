@@ -3,7 +3,7 @@
   "short_name": "A to Z",
   "description": "બાળકો માટે સનાતન ધર્મની વાર્તાઓ: ચિત્ર, અવાજ અને ક્વિઝ સાથે.",
   "lang": "gu",
-  "start_url": "./index.html",
+  "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "orientation": "any",

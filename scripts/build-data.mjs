@@ -161,6 +161,10 @@ for (const [sname, title] of Object.entries(titles)) {
 const csv = v => '"' + String(v).replace(/"/g, '""') + '"';
 fs.writeFileSync(path.join(root, 'art/IMAGE-LIST.csv'), '﻿' + 'section,file,label,done,prompt\n' + images.map(i => [i.section, i.file, i.label, i.have ? 'yes' : 'no', i.prompt].map(csv).join(',')).join('\n') + '\n');
 
+// studio list (used by studio.html)
+const refOf = f => { const m = f.match(/^(.*\/)(\d+)\.webp$/); return m && m[2] !== '1' ? m[1] + '1.webp' : null; };
+fs.writeFileSync(path.join(root, 'art/images.json'), JSON.stringify(images.map(i => ({ s: i.section, f: i.file, l: i.label, p: i.prompt, r: refOf(i.file) }))));
+
 // report
 const nSc = Object.values(stories).reduce((n, s) => n + s.scenes.length, 0);
 console.log(`characters: ${Object.keys(chars).length} · alphabet slots: ${slotCount} (abcd ${Object.keys(slots.abcd).length}, gu ${sec['akshar-gu'].items.length}, hi ${sec['akshar-hi'].items.length}) · stories: ${Object.keys(stories).length} (${nSc} scenes) · numbers ${sec.numbers.items.length} · deities ${sec.deities.items.length} · avatars ${sec.avatars.items.length}`);
