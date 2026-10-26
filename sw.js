@@ -1,5 +1,5 @@
 // Offline support: the page shell is cached on install, pictures and voice files are cached the first time they are used.
-const V='abcd-v1', SHELL=['./','index.html','content.js','manifest.webmanifest','icons/icon-192.png','icons/icon-512.png'];
+const V='abcd-v2', SHELL=['./','index.html','content.js','data.bundle.js','manifest.webmanifest','icons/icon-192.png','icons/icon-512.png'];
 self.addEventListener('install',e=>{e.waitUntil(caches.open(V).then(c=>c.addAll(SHELL)).then(()=>self.skipWaiting()))});
 self.addEventListener('activate',e=>{e.waitUntil(caches.keys().then(k=>Promise.all(k.filter(x=>x!==V).map(x=>caches.delete(x)))).then(()=>self.clients.claim()))});
 // Safari asks audio for byte ranges, so answer those from the cached copy

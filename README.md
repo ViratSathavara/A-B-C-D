@@ -1,5 +1,38 @@
-﻿# A-B-C-D of Sanatan Dharma
+﻿# Sanatan Dharma A to Z (Gujarati · हिन्दी · English)
 
-A Gujarati picture book for children, A to Z: one story, one picture and one lesson per letter, with a recorded Gujarati voice and a small quiz.
+A picture book app for children. Gujarati is the first language; Hindi and English are available with the 🌐 button.
+Each story is told in **scenes**: while it is read aloud, the picture changes to match what is being said.
 
-Open `index.html` in a browser. The text is in `content.js`, the pictures in `art/`, the voice files in `audio/`.
+Open `index.html` in a browser (or host the folder as a static site / PWA).
+
+## Where things live
+
+| Folder / file | What it is |
+|---|---|
+| `data/characters.json` | Every character once: names in gu/hi/en and a `look` (used to keep pictures consistent) |
+| `data/slots.json` | Which character owns which letter. **A character may own only one letter across all alphabets** |
+| `data/stories/abcd-<L>.json` | One story: scenes (text in 3 languages + picture brief), lesson, key points, new words, quiz |
+| `data/ui.json` | Button and label texts in 3 languages |
+| `data/style.json` | Picture style rules shared by every prompt |
+| `art/scenes/<L>/<n>.webp` | Scene pictures (16:9). If one is missing the letter's main picture is shown |
+| `audio/<lang>/<L>-<n>.mp3` | Voice for scene n; `<L>-lesson.mp3` for the lesson |
+| `data.bundle.js`, `art/SCENE-PROMPTS.md` | **Generated** — never edit by hand |
+
+## Everyday commands
+
+```
+node scripts/build-data.mjs            # check all data, rebuild data.bundle.js and picture prompts
+node scripts/build-data.mjs --strict   # also fail if a picture or voice file is missing (before release)
+pip install edge-tts && python scripts/make-audio.py     # make the voice files (needs internet)
+```
+
+## Adding a new story (e.g. letter B)
+
+1. Add the character to `data/characters.json` (3 names + `look`), check `data/slots.json`.
+2. Copy `data/stories/abcd-A.json` to `abcd-B.json` and write the scenes in all 3 languages.
+3. `node scripts/build-data.mjs` — fix anything it reports.
+4. Make pictures from `art/SCENE-PROMPTS.md` (scene 1 first, then use it as the reference for the rest), save as `art/scenes/B/1.webp` …
+5. `python scripts/make-audio.py --only B`
+6. Open the app and check the story in all three languages.
+
+Letters that have no `data/stories` file yet still show their old single-paragraph Gujarati story (the app falls back to Gujarati).

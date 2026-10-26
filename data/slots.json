@@ -1,0 +1,8 @@
+{
+  "_rule": "Every character id may appear in only ONE alphabet slot across ALL alphabets (English, Gujarati, Hindi). scripts/build-data.mjs fails if it does not hold.",
+  "abcd": {
+    "A":"arjun","B":"bhishma","C":"chanakya","D":"dronacharya","E":"eklavya","F":"shabari","G":"ganesh","H":"hanuman",
+    "I":"indra","J":"janak","K":"krishna","L":"laxman","M":"meera","N":"narad","O":"om","P":"prahlad","Q":"sita",
+    "R":"ram","S":"shravan","T":"tapasya","U":"uma","V":"vishwakarma","W":"puja","X":"kshama","Y":"yudhishthira","Z":"rashi"
+  }
+}
