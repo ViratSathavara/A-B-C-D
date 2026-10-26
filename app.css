@@ -68,5 +68,17 @@ p.sub{font-family:var(--gu);text-align:center;color:#ffe9b8;font-weight:700;marg
 @keyframes pulse{50%{box-shadow:0 0 0 8px rgba(58,167,255,.35),0 5px 0 rgba(0,0,0,.28)}}
 .x{position:fixed;top:calc(10px + env(safe-area-inset-top));right:12px;z-index:70;display:none}
 .sheet.open~.x{display:inline-flex}
-@media (min-width:821px){.sheet .pic{position:relative;border-radius:0 0 26px 26px;max-height:56vh}.card .big{font-size:2.3rem}}
+@media (min-width:821px){.card .big{font-size:2.3rem}}
 @media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
+
+/* laptops / tablets landscape: picture on the left, story on the right */
+@media (min-width:900px){
+  .sheet .in{max-width:1180px;display:grid;grid-template-columns:minmax(0,1.15fr) minmax(0,1fr);gap:22px;align-items:start;padding:70px 22px 120px}
+  .sheet .pic{position:sticky;top:70px;border-radius:26px;max-height:none;box-shadow:0 14px 34px rgba(0,0,0,.45);border:6px solid #fff}
+  .sheet .body{margin:0;padding:22px 24px}
+  .txt{font-size:1.3rem}
+  .tiles{grid-template-columns:repeat(4,1fr)}
+  .wrap{padding-top:28px}
+  .cards{grid-template-columns:repeat(auto-fill,minmax(150px,1fr))}
+}
+@media (max-width:360px){.tile{min-height:140px}.tile b{font-size:1.1rem}.glyph{min-width:68px;height:68px;font-size:2.4rem}}
