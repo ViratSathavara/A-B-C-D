@@ -1,0 +1,56 @@
+{
+  "id": "abcd-W", "char": "puja",
+  "source": "General Sanatan household practice: puja, aarti, prasad (common to many traditions)",
+  "status": "draft-reviewed-by-claude",
+  "tag": {"gu": "પ્રેમથી પૂજા", "hi": "प्रेम से पूजा", "en": "Worship With Love"},
+  "scenes": [
+    {"id": 1, "mood": "fresh-morning",
+     "text": {
+       "gu": "સવારે ઊઠીને નહાઈ-ધોઈને ઘરમાં પૂજા કરવાની શરૂઆત થાય છે. નાનાં બાળકો પણ ફૂલો ચૂંટીને લાવે છે અને ઘરના મંદિરને સાફ કરે છે.",
+       "hi": "सुबह उठकर स्नान करके घर में पूजा की शुरुआत होती है। छोटे बच्चे भी फूल चुनकर लाते हैं और घर के मंदिर को साफ़ करते हैं।",
+       "en": "Worship at home begins in the morning after waking up and bathing. Even small children pick flowers and help clean the home temple."},
+     "shot": {"who": ["puja"], "setting": "a bright family home at sunrise with a small wooden temple corner", "action": "a child in clean clothes carries a plate of marigold flowers, while the grandmother wipes the small temple", "expression": "child: eager; grandmother: warm", "camera": "medium shot in warm morning light"}},
+    {"id": 2, "mood": "calm-warm",
+     "text": {
+       "gu": "પૂજા માટે આપણે દીવો, અગરબત્તી, ફૂલ, ફળ અને પ્રસાદ તૈયાર કરીએ છીએ. દીવો પ્રજ્વલિત થાય છે અને અગરબત્તીની સુગંધ ફેલાય છે. બધું શાંતિથી અને ભક્તિથી ગોઠવાય છે.",
+       "hi": "पूजा के लिए हम दीया, अगरबत्ती, फूल, फल और प्रसाद तैयार करते हैं। दीया जलता है और अगरबत्ती की सुगंध फैलती है। सब कुछ शांति और भक्ति से सजाया जाता है।",
+       "en": "For puja we prepare a diya, incense, flowers, fruit and prasad. The diya is lit and the fragrance of incense spreads. Everything is arranged calmly and with devotion."},
+     "shot": {"who": ["puja"], "setting": "a puja thali on a low wooden table with diya, incense, flowers and fruit", "action": "the child carefully lights a small diya with help from the grandmother while a thin trail of incense smoke rises", "expression": "both: focused and gentle", "camera": "close medium shot, warm lamp glow"}},
+    {"id": 3, "mood": "devotional-joy",
+     "text": {
+       "gu": "પછી આખું કુટુંબ ભેગું થઈને આરતી કરે છે. ઘંટડી વાગે છે, શંખનાદ થાય છે અને બધા મળીને ભગવાનનાં ગીત ગાય છે. એ સમયે ઘરમાં ખૂબ આનંદ અને શાંતિ હોય છે.",
+       "hi": "फिर पूरा परिवार इकट्ठा होकर आरती करता है। घंटी बजती है, शंख बजता है और सब मिलकर भगवान के गीत गाते हैं। उस समय घर में बहुत आनंद और शांति होती है।",
+       "en": "Then the whole family gathers for aarti. A bell rings, a conch is blown and everyone sings songs for God together. At that moment the home is full of joy and peace."},
+     "shot": {"who": ["puja"], "setting": "the same family home with a decorated temple corner and family standing in front", "action": "family members wave the aarti lamp in a circle and ring a bell while the child claps along", "expression": "all: joyful", "camera": "wide warm shot"}},
+    {"id": 4, "mood": "sharing-sweet",
+     "text": {
+       "gu": "આરતી પછી આપણે પ્રસાદ વહેંચીએ છીએ. પ્રસાદ એટલે ભગવાનને ધરાવેલું ભોજન, જે આશીર્વાદ તરીકે બધાને મળે છે. આપણે પ્રસાદ પડોશીઓ અને મિત્રોને પણ આપીએ છીએ.",
+       "hi": "आरती के बाद हम प्रसाद बाँटते हैं। प्रसाद यानी भगवान को अर्पित भोजन, जो आशीर्वाद के रूप में सबको मिलता है। हम प्रसाद पड़ोसियों और मित्रों को भी देते हैं।",
+       "en": "After aarti we share prasad. Prasad is food offered to God which everyone receives as a blessing. We also give prasad to our neighbours and friends."},
+     "shot": {"who": ["puja"], "setting": "the doorstep of the home with a plate of laddoos and neighbours", "action": "the child offers a laddoo to a neighbour with both hands while the neighbour smiles", "expression": "child: happy giving; neighbour: delighted", "camera": "medium shot, friendly"}},
+    {"id": 5, "mood": "peaceful-grateful",
+     "text": {
+       "gu": "પૂજા આપણને શાંતિ, આભાર અને પ્રેમની ભાવના શીખવે છે. ભગવાનને યાદ કરવાની સાચી રીત એ છે કે આપણે સારા વિચારો રાખીએ અને બધા સાથે પ્રેમથી વર્તીએ.",
+       "hi": "पूजा हमें शांति, आभार और प्रेम की भावना सिखाती है। भगवान को याद करने का सच्चा तरीका है कि हम अच्छे विचार रखें और सबके साथ प्रेम से व्यवहार करें।",
+       "en": "Puja teaches us peace, gratitude and love. The truest way to remember God is to keep good thoughts and treat everyone with love."},
+     "shot": {"who": ["puja"], "setting": "the family home temple corner at golden evening light with a lit diya", "action": "the child closes eyes with folded hands near the diya, a soft glow around them", "expression": "calm gratitude", "camera": "close gentle shot"}}
+  ],
+  "lesson": {"gu": "પૂજા આપણને શીખવે છે: આભાર માનો, શુદ્ધ રહો અને પ્રેમથી ભગવાનને યાદ કરો.", "hi": "पूजा हमें सिखाती है: आभार मानो, पवित्र रहो और प्रेम से भगवान को याद करो।", "en": "Puja teaches us: be thankful, stay clean and remember God with love."},
+  "points": [
+    {"gu": "સ્વચ્છતા: સાફસુથરા રહેવું", "hi": "स्वच्छता: साफ़-सुथरा रहना", "en": "Cleanliness: stay neat"},
+    {"gu": "આભાર: ભગવાન અને વડીલોનો", "hi": "आभार: भगवान और बड़ों का", "en": "Gratitude: to God and elders"},
+    {"gu": "વહેંચવું: પ્રસાદ", "hi": "बाँटना: प्रसाद", "en": "Sharing: prasad"}
+  ],
+  "words": [
+    {"gu": "આરતી = દીવાથી ભગવાનની ઉપાસના", "hi": "आरती = दीप से भगवान की उपासना", "en": "Aarti = worship with a lamp"},
+    {"gu": "પ્રસાદ = ભગવાનને ધરાવેલું ભોજન", "hi": "प्रसाद = भगवान को अर्पित भोजन", "en": "Prasad = food offered to God"}
+  ],
+  "quiz": [
+    {"q": {"gu": "પૂજા પછી શું વહેંચાય છે?", "hi": "पूजा के बाद क्या बाँटा जाता है?", "en": "What is shared after puja?"},
+     "a": {"gu": ["પ્રસાદ", "પતંગ", "રંગ"], "hi": ["प्रसाद", "पतंग", "रंग"], "en": ["Prasad", "Kites", "Colours"]}},
+    {"q": {"gu": "આરતીમાં શું ફેરવાય છે?", "hi": "आरती में क्या घुमाया जाता है?", "en": "What is waved during aarti?"},
+     "a": {"gu": ["દીવો", "પંખો", "ફૂલ"], "hi": ["दीया", "पंखा", "फूल"], "en": ["A lamp", "A fan", "Flowers"]}},
+    {"q": {"gu": "પૂજા આપણને શું શીખવે છે?", "hi": "पूजा हमें क्या सिखाती है?", "en": "What does puja teach us?"},
+     "a": {"gu": ["આભાર અને પ્રેમ", "ગુસ્સો", "ઝઘડો"], "hi": ["आभार और प्रेम", "क्रोध", "झगड़ा"], "en": ["Gratitude and love", "Anger", "Fighting"]}}
+  ]
+}

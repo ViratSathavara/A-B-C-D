@@ -1,0 +1,56 @@
+{
+  "id": "abcd-Z", "char": "rashi",
+  "source": "Jyotish (Vedanga): twelve rashis of the zodiac; Surya, Chandra and the Navagraha as taught in tradition",
+  "status": "draft-reviewed-by-claude",
+  "tag": {"gu": "આકાશના બાર તારા-સમૂહ", "hi": "आकाश के बारह तारा-समूह", "en": "Twelve Groups of Stars"},
+  "scenes": [
+    {"id": 1, "mood": "wonder-night",
+     "text": {
+       "gu": "પ્રાચીન ઋષિઓ રાત્રે આકાશના તારા જોઈને શીખ્યા. તેમણે જોયું કે સૂર્ય એક વર્ષમાં તારાઓના બાર સમૂહોમાંથી પસાર થાય છે. આ બાર સમૂહોને ‘રાશિ’ કહે છે.",
+       "hi": "प्राचीन ऋषियों ने रात में आकाश के तारे देखकर सीखा। उन्होंने देखा कि सूर्य एक वर्ष में तारों के बारह समूहों से होकर गुज़रता है। इन बारह समूहों को ‘राशि’ कहते हैं।",
+       "en": "Ancient sages learned by watching the stars at night. They saw that over a year the Sun passes through twelve groups of stars. These twelve groups are called ‘rashis’."},
+     "shot": {"who": ["tapasya"], "setting": "a hilltop at night with a star-filled sky and a glowing circular band of twelve star groups", "action": "an old sage points at the sky while a child sits beside him looking up in wonder", "expression": "sage: patient; child: wide-eyed", "camera": "wide starry shot"}},
+    {"id": 2, "mood": "playful-learning",
+     "text": {
+       "gu": "બાર રાશિઓનાં નામ છે: મેષ, વૃષભ, મિથુન, કર્ક, સિંહ, કન્યા, તુલા, વૃશ્ચિક, ધનુ, મકર, કુંભ અને મીન. દરેક રાશિ એક ચિત્ર સાથે જોડાયેલી છે, જેમ કે સિંહ અને માછલી.",
+       "hi": "बारह राशियों के नाम हैं: मेष, वृषभ, मिथुन, कर्क, सिंह, कन्या, तुला, वृश्चिक, धनु, मकर, कुंभ और मीन। हर राशि एक चित्र से जुड़ी है, जैसे सिंह और मछली।",
+       "en": "The twelve rashis are: Mesh, Vrishabh, Mithun, Kark, Singh, Kanya, Tula, Vrishchik, Dhanu, Makar, Kumbh and Meen. Each rashi is linked to a picture, like a lion and a fish."},
+     "shot": {"who": ["tapasya"], "setting": "a soft night sky where twelve friendly glowing star-pictures (ram, bull, twins, crab, lion, maiden, scales, scorpion, archer, sea-goat, water pot, fish) float in a circle", "action": "the sage and the child greet each star picture with a smile and wave", "expression": "playful wonder", "camera": "wide colourful night shot"}},
+    {"id": 3, "mood": "curious-bright",
+     "text": {
+       "gu": "સૂર્ય, ચંદ્ર અને બીજા ગ્રહો આ તારાઓ વચ્ચે ધીમે ધીમે ફરે છે. તેને જોઈને ઋષિઓએ દિવસ, મહિના, ઋતુઓ અને તહેવારોનો સમય ગણવાનું શીખ્યા.",
+       "hi": "सूर्य, चंद्र और अन्य ग्रह इन तारों के बीच धीरे-धीरे चलते हैं। इन्हें देखकर ऋषियों ने दिन, महीने, ऋतुएँ और त्योहारों का समय गिनना सीखा।",
+       "en": "The Sun, Moon and other planets move slowly among these stars. By watching them the sages learned to count days, months, seasons and festival times."},
+     "shot": {"who": ["tapasya"], "setting": "an open-air observatory of stone with a sunrise and the faint moon", "action": "the sage and a child use a stick and a shadow-dial to mark the Sun's place while the Moon fades in the dawn sky", "expression": "both: curious and happy", "camera": "wide dawn shot"}},
+    {"id": 4, "mood": "kind-wise",
+     "text": {
+       "gu": "જ્યોતિષ એ સમય અને આકાશનું જ્ઞાન છે. પણ ઋષિઓ શીખવે છે કે આપણું જીવન આપણા સારા વિચારો, મહેનત અને કર્મ પર ટકેલું છે. તારાઓ આપણું ભાગ્ય નક્કી કરતા નથી.",
+       "hi": "ज्योतिष समय और आकाश का ज्ञान है। पर ऋषि सिखाते हैं कि हमारा जीवन हमारे अच्छे विचारों, परिश्रम और कर्म पर टिका है। तारे हमारा भाग्य तय नहीं करते।",
+       "en": "Jyotish is the knowledge of time and the sky. But the sages teach that our life rests on our good thoughts, hard work and actions. The stars do not decide our fate."},
+     "shot": {"who": ["tapasya"], "setting": "a warm sunrise on a hilltop with a village in the valley", "action": "the sage places a gentle hand on the child's shoulder while the child holds a small book and a lamp", "expression": "sage: kind; child: confident", "camera": "medium shot at sunrise"}},
+    {"id": 5, "mood": "peaceful-hopeful",
+     "text": {
+       "gu": "રાત્રે તારા જોવાનું બાળકોને ખૂબ ગમે છે. આપણે પ્રકૃતિને સમજીએ, આકાશનો આભાર માનીએ અને સારા કર્મ કરીએ. આ જ સાચી શીખ છે.",
+       "hi": "रात में तारे देखना बच्चों को बहुत पसंद है। हम प्रकृति को समझें, आकाश का आभार मानें और अच्छे कर्म करें। यही सच्ची सीख है।",
+       "en": "Children love watching stars at night. Let us understand nature, thank the sky and do good deeds. This is the real lesson."},
+     "shot": {"who": ["tapasya"], "setting": "a rooftop at night with a family of grandfather, parents and children looking up at a star-filled sky", "action": "the family sits together on a mat, the grandfather pointing to the stars while the children giggle", "expression": "all: peaceful and happy", "camera": "wide cosy night shot"}}
+  ],
+  "lesson": {"gu": "રાશિઓ આપણને શીખવે છે: પ્રકૃતિને સમજો, જિજ્ઞાસા રાખો અને સારા કર્મ કરો.", "hi": "राशियाँ हमें सिखाती हैं: प्रकृति को समझो, जिज्ञासा रखो और अच्छे कर्म करो।", "en": "The rashis teach us: understand nature, stay curious and do good deeds."},
+  "points": [
+    {"gu": "રાશિ: બાર તારા-સમૂહ", "hi": "राशि: बारह तारा-समूह", "en": "Rashi: twelve star groups"},
+    {"gu": "કર્મ: મહેનતથી ભાગ્ય", "hi": "कर्म: परिश्रम से भाग्य", "en": "Karma: effort shapes fate"},
+    {"gu": "જિજ્ઞાસા: આકાશ જોવું", "hi": "जिज्ञासा: आकाश देखना", "en": "Curiosity: watch the sky"}
+  ],
+  "words": [
+    {"gu": "રાશિ = તારાઓનો સમૂહ", "hi": "राशि = तारों का समूह", "en": "Rashi = a group of stars"},
+    {"gu": "ગ્રહ = આકાશમાં ફરતો પિંડ", "hi": "ग्रह = आकाश में घूमने वाला पिंड", "en": "Graha = a planet or heavenly body"}
+  ],
+  "quiz": [
+    {"q": {"gu": "કુલ કેટલી રાશિઓ છે?", "hi": "कुल कितनी राशियाँ हैं?", "en": "How many rashis are there?"},
+     "a": {"gu": ["બાર", "નવ", "સાત"], "hi": ["बारह", "नौ", "सात"], "en": ["Twelve", "Nine", "Seven"]}},
+    {"q": {"gu": "નીચેમાંથી કઈ રાશિ છે?", "hi": "इनमें से कौन-सी राशि है?", "en": "Which of these is a rashi?"},
+     "a": {"gu": ["સિંહ", "ગંગા", "હંસ"], "hi": ["सिंह", "गंगा", "हंस"], "en": ["Singh (Leo)", "Ganga", "Hans"]}},
+    {"q": {"gu": "ઋષિઓ આપણું જીવન શાના પર ટકેલું કહે છે?", "hi": "ऋषि हमारा जीवन किस पर टिका बताते हैं?", "en": "On what do the sages say our life rests?"},
+     "a": {"gu": ["કર્મ અને મહેનત", "માત્ર તારા", "ભાગ્ય"], "hi": ["कर्म और परिश्रम", "केवल तारे", "भाग्य"], "en": ["Good deeds and effort", "Only stars", "Luck"]}}
+  ]
+}

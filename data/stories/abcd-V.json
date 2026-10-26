@@ -1,0 +1,56 @@
+{
+  "id": "abcd-V", "char": "vishwakarma",
+  "source": "Puranas (Skanda, Vishnu, Mahabharata Adi Parva): Vishwakarma as divine architect; Vishwakarma Puja tradition",
+  "status": "draft-reviewed-by-claude",
+  "tag": {"gu": "દેવોના શિલ્પી", "hi": "देवताओं के शिल्पी", "en": "The Divine Architect"},
+  "scenes": [
+    {"id": 1, "mood": "creative-bright",
+     "text": {
+       "gu": "ભગવાન વિશ્વકર્મા દેવોના શિલ્પી અને સર્જક છે. તેમને બધા શિલ્પકારો, કારીગરો અને એન્જિનિયરોના દેવ માનવામાં આવે છે. તેઓ પોતાના હાથથી સુંદર વસ્તુઓ બનાવતા.",
+       "hi": "भगवान विश्वकर्मा देवताओं के शिल्पी और रचनाकार हैं। उन्हें सभी शिल्पकारों, कारीगरों और इंजीनियरों का देवता माना जाता है। वे अपने हाथों से सुंदर वस्तुएँ बनाते थे।",
+       "en": "Lord Vishwakarma is the architect and creator of the gods. He is regarded as the god of all craftsmen, artisans and engineers. He made beautiful things with his own hands."},
+     "shot": {"who": ["vishwakarma"], "setting": "a heavenly workshop with golden tools, glowing blueprints and floating designs in the air", "action": "Vishwakarma stands at a worktable holding a hammer and a compass with a bright creative smile", "expression": "focused joy", "camera": "medium shot with golden glow"}},
+    {"id": 2, "mood": "wonder-golden",
+     "text": {
+       "gu": "માન્યતા છે કે વિશ્વકર્માજીએ દ્વારકા નગરી, સ્વર્ગલોક અને શ્રીકૃષ્ણનો મહેલ બનાવ્યાં. તેઓ દેવોનાં શસ્ત્રો, રથ અને ભવનો પણ બનાવતા.",
+       "hi": "मान्यता है कि विश्वकर्मा जी ने द्वारका नगरी, स्वर्गलोक और श्रीकृष्ण का महल बनाया। वे देवताओं के अस्त्र-शस्त्र, रथ और भवन भी बनाते थे।",
+       "en": "It is believed that Vishwakarma built the city of Dwarka, the heavenly worlds and Shri Krishna's palace. He also made the chariots, weapons and mansions of the gods."},
+     "shot": {"who": ["vishwakarma"], "setting": "a shimmering city of golden towers and arched bridges rising from the sea at sunrise", "action": "Vishwakarma stands on a hill pointing to the glowing city of Dwarka while little builders and sages watch in wonder", "expression": "Vishwakarma: proud and happy; others: amazed", "camera": "wide shot with ocean and golden city"}},
+    {"id": 3, "mood": "cheerful-hardworking",
+     "text": {
+       "gu": "વિશ્વકર્માજી શીખવે છે કે દરેક કારીગરનું કામ મહત્વનું છે. સુથાર, લુહાર, કુંભાર, શિલ્પી અને બધા જ આપણા માટે ઉપયોગી વસ્તુઓ બનાવે છે. એટલે દરેક કામનું સન્માન કરવું જોઈએ.",
+       "hi": "विश्वकर्मा जी सिखाते हैं कि हर कारीगर का काम महत्वपूर्ण है। बढ़ई, लोहार, कुम्हार, शिल्पी और सभी हमारे लिए उपयोगी वस्तुएँ बनाते हैं। इसलिए हर काम का सम्मान करना चाहिए।",
+       "en": "Vishwakarma teaches that every craftsman's work is important. Carpenters, blacksmiths, potters, sculptors and all others make useful things for us. So every work deserves respect."},
+     "shot": {"who": ["vishwakarma"], "setting": "a village workshop street with a carpenter, a blacksmith and a potter busy at work", "action": "Vishwakarma blesses the craftsmen with raised hand while they smile and continue working", "expression": "all: proud and happy", "camera": "wide cheerful shot"}},
+    {"id": 4, "mood": "festive-grateful",
+     "text": {
+       "gu": "દર વર્ષે લોકો વિશ્વકર્મા પૂજા કરે છે. આ દિવસે લોકો પોતાના ઓજારો, મશીનો અને કામની જગ્યા સાફ કરીને તેમની પૂજા કરે છે અને આભાર માને છે.",
+       "hi": "हर साल लोग विश्वकर्मा पूजा करते हैं। इस दिन लोग अपने औज़ारों, मशीनों और कार्यस्थल को साफ़ करके उनकी पूजा करते हैं और आभार प्रकट करते हैं।",
+       "en": "Every year people celebrate Vishwakarma Puja. On this day people clean their tools, machines and workplaces, worship them and say thank you."},
+     "shot": {"who": ["vishwakarma", "puja"], "setting": "a small factory or workshop decorated with marigold garlands, rangoli and incense", "action": "workers and a child place flowers on tools and machines, and light a diya before a Vishwakarma picture", "expression": "all: grateful and cheerful", "camera": "medium warm shot"}},
+    {"id": 5, "mood": "inspiring-hopeful",
+     "text": {
+       "gu": "વિશ્વકર્માજી આપણને શીખવે છે કે કલ્પના, મહેનત અને કુશળતાથી સુંદર દુનિયા બનાવી શકાય છે. નવી વસ્તુઓ બનાવવામાં અને શીખવામાં આપણે પણ ખુશ રહેવું જોઈએ.",
+       "hi": "विश्वकर्मा जी हमें सिखाते हैं कि कल्पना, परिश्रम और कुशलता से सुंदर दुनिया बनाई जा सकती है। नई चीज़ें बनाने और सीखने में हमें भी प्रसन्न रहना चाहिए।",
+       "en": "Vishwakarma teaches us that imagination, hard work and skill can build a beautiful world. We too should enjoy making and learning new things."},
+     "shot": {"who": ["vishwakarma", "puja"], "setting": "a bright classroom or craft corner at sunrise with paper models, clay and tools", "action": "children build a little model house with Vishwakarma smiling gently from a glow above them", "expression": "children: delighted; Vishwakarma: warm", "camera": "medium cheerful shot"}}
+  ],
+  "lesson": {"gu": "વિશ્વકર્માજી આપણને શીખવે છે: દરેક કામનું સન્માન કરો અને કુશળતાથી સુંદર વસ્તુઓ બનાવો.", "hi": "विश्वकर्मा जी हमें सिखाते हैं: हर काम का सम्मान करो और कुशलता से सुंदर चीज़ें बनाओ।", "en": "Vishwakarma teaches us: respect every kind of work and make beautiful things with skill."},
+  "points": [
+    {"gu": "કુશળતા: કામ સારી રીતે કરવું", "hi": "कुशलता: काम अच्छे से करना", "en": "Skill: do work well"},
+    {"gu": "સન્માન: દરેક કામનું", "hi": "सम्मान: हर काम का", "en": "Respect: for every work"},
+    {"gu": "કલ્પના: નવું બનાવવું", "hi": "कल्पना: कुछ नया बनाना", "en": "Imagination: create new things"}
+  ],
+  "words": [
+    {"gu": "શિલ્પી = નિર્માણ કરનાર કલાકાર", "hi": "शिल्पी = निर्माण करने वाला कलाकार", "en": "Shilpi = a skilled builder-artist"},
+    {"gu": "ઓજાર = કામ કરવાનું સાધન", "hi": "औज़ार = काम करने का साधन", "en": "Tool = something used to work"}
+  ],
+  "quiz": [
+    {"q": {"gu": "વિશ્વકર્માજીને કોના દેવ માનવામાં આવે છે?", "hi": "विश्वकर्मा जी को किसका देवता माना जाता है?", "en": "Of whom is Vishwakarma regarded as the god?"},
+     "a": {"gu": ["કારીગરો અને શિલ્પીઓના", "ખેડૂતોના", "નાવિકોના"], "hi": ["कारीगरों और शिल्पियों का", "किसानों का", "नाविकों का"], "en": ["Craftsmen and artisans", "Farmers", "Sailors"]}},
+    {"q": {"gu": "વિશ્વકર્મા પૂજામાં શાની પૂજા થાય છે?", "hi": "विश्वकर्मा पूजा में किसकी पूजा होती है?", "en": "What is worshipped in Vishwakarma Puja?"},
+     "a": {"gu": ["ઓજારો અને મશીનો", "સિક્કા", "ગાયો"], "hi": ["औज़ार और मशीनें", "सिक्के", "गायें"], "en": ["Tools and machines", "Coins", "Cows"]}},
+    {"q": {"gu": "માન્યતા મુજબ વિશ્વકર્માએ કયું નગર બનાવ્યું?", "hi": "मान्यता के अनुसार विश्वकर्मा ने कौन-सा नगर बनाया?", "en": "Which city did Vishwakarma build, according to belief?"},
+     "a": {"gu": ["દ્વારકા", "કાશી", "મથુરા"], "hi": ["द्वारका", "काशी", "मथुरा"], "en": ["Dwarka", "Kashi", "Mathura"]}}
+  ]
+}

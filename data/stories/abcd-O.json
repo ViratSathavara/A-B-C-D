@@ -1,0 +1,56 @@
+{
+  "id": "abcd-O", "char": "om",
+  "source": "Upanishads (Mandukya, Chandogya, Taittiriya): Om / Pranava; common practice of Om chanting",
+  "status": "draft-reviewed-by-claude",
+  "tag": {"gu": "પવિત્ર ધ્વનિ", "hi": "पवित्र ध्वनि", "en": "The Sacred Sound"},
+  "scenes": [
+    {"id": 1, "mood": "mystical-calm",
+     "text": {
+       "gu": "ઓમ સનાતન ધર્મનો સૌથી પવિત્ર શબ્દ અને ધ્વનિ છે. માનવામાં આવે છે કે સૃષ્ટિની શરૂઆતમાં સૌથી પહેલો અવાજ ઓમનો હતો. તેને પ્રણવ પણ કહે છે.",
+       "hi": "ॐ सनातन धर्म का सबसे पवित्र शब्द और ध्वनि है। माना जाता है कि सृष्टि के आरंभ में सबसे पहली ध्वनि ॐ की थी। इसे प्रणव भी कहते हैं।",
+       "en": "Om is the most sacred word and sound in Sanatan Dharma. It is believed that the very first sound at the beginning of creation was Om. It is also called Pranav."},
+     "shot": {"who": ["tapasya"], "setting": "a deep blue cosmic sky full of soft stars and swirling golden light, a calm lake reflecting it below", "action": "a glowing golden Om symbol rises slowly above the water, light rays spreading; a sage sits by the lake shore watching with folded hands", "expression": "sage: wonder and peace", "camera": "wide calm shot with the golden Om in the centre"}},
+    {"id": 2, "mood": "curious-learning",
+     "text": {
+       "gu": "ઓમ ત્રણ અવાજોથી બન્યો છે: અ, ઉ અને મ. ઋષિઓ કહે છે કે આ ત્રણ અવાજ આખા જગતનું સર્જન, પાલન અને શાંતિનું પ્રતીક છે. ચોથો ભાગ ચૂપ શાંતિ છે.",
+       "hi": "ॐ तीन ध्वनियों से बना है: अ, उ और म। ऋषि कहते हैं कि ये तीन ध्वनियाँ पूरे जगत की रचना, पालन और विश्राम का प्रतीक हैं। चौथा भाग मौन शांति है।",
+       "en": "Om is made of three sounds: A, U and M. The sages say these three sounds stand for creation, preservation and rest of the whole universe. The fourth part is silent peace."},
+     "shot": {"who": ["tapasya"], "setting": "a hermitage clearing with three glowing golden circles in the air, each carrying a soft light", "action": "a sage points at three glowing light circles labelled by their glow (no text) while three children watch and say the sounds with open mouths", "expression": "sage: patient teacher; children: curious", "camera": "medium shot, bright and friendly"}},
+    {"id": 3, "mood": "calm-practice",
+     "text": {
+       "gu": "ઓમ બોલવાની રીત સહેલી છે. સીધા બેસો, આંખો બંધ કરો અને ઊંડો શ્વાસ લો. પછી ધીમે ધીમે “ઓઓઓમ્” બોલો અને પેટ-છાતીમાં તેનો ગુંજારવ અનુભવો.",
+       "hi": "ॐ बोलने का तरीका आसान है। सीधे बैठो, आँखें बंद करो और गहरी साँस लो। फिर धीरे-धीरे “ओऽऽऽम्” बोलो और पेट-छाती में उसकी गूँज महसूस करो।",
+       "en": "Chanting Om is easy. Sit straight, close your eyes and take a deep breath. Then slowly say “Ooooom” and feel its hum in your tummy and chest."},
+     "shot": {"who": ["puja"], "setting": "a cosy family living room with a small lit diya and soft morning sun", "action": "a child sits cross-legged with eyes closed and hands on knees, a soft golden ripple of sound waves floating from the mouth, a grandmother sits next to them doing the same", "expression": "child: calm and focused; grandmother: serene smile", "camera": "medium shot, cosy warm light"}},
+    {"id": 4, "mood": "peaceful-focused",
+     "text": {
+       "gu": "ઓમ બોલવાથી મન શાંત થાય છે અને ધ્યાન લગાવવું સહેલું બને છે. ભણવા બેસતાં પહેલાં ત્રણ વાર ઓમ બોલવાથી ધ્યાન સારું લાગે છે.",
+       "hi": "ॐ बोलने से मन शांत होता है और ध्यान लगाना आसान हो जाता है। पढ़ने बैठने से पहले तीन बार ॐ बोलने से एकाग्रता अच्छी लगती है।",
+       "en": "Chanting Om calms the mind and makes it easier to concentrate. Saying Om three times before you sit down to study helps you focus."},
+     "shot": {"who": ["puja"], "setting": "a child's study desk by a window with books, a plant and a small diya, morning light", "action": "the child closes eyes for a moment and chants, then opens eyes with a bright smile and picks up a book", "expression": "calm, then bright and ready", "camera": "medium shot with soft sunlight"}},
+    {"id": 5, "mood": "united-joyful",
+     "text": {
+       "gu": "પ્રાર્થના, મંત્ર, ધ્યાન અને યજ્ઞની શરૂઆત ઓમથી થાય છે. મંદિરોમાં, યોગમાં અને ઘરોમાં ઓમ સંભળાય છે. ઓમ આપણને શાંતિ, એકતા અને ભગવાન સાથેનું જોડાણ અનુભવ કરાવે છે.",
+       "hi": "प्रार्थना, मंत्र, ध्यान और यज्ञ की शुरुआत ॐ से होती है। मंदिरों, योग और घरों में ॐ सुनाई देता है। ॐ हमें शांति, एकता और भगवान से जुड़ाव का अनुभव कराता है।",
+       "en": "Prayers, mantras, meditation and yajnas begin with Om. Om is heard in temples, in yoga and at home. Om gives us a feeling of peace, unity and connection with God."},
+     "shot": {"who": ["tapasya"], "setting": "a bright temple courtyard at sunrise where people of all ages sit in rows, a golden Om glowing over the temple", "action": "families, elders and children chant together with folded hands, a soft golden Om symbol glowing above them", "expression": "everyone: peaceful and united", "camera": "wide uplifting shot at sunrise"}}
+  ],
+  "lesson": {"gu": "ઓમ આપણને શીખવે છે: શાંત રહો, ધ્યાન રાખો અને બધાની સાથે એકતા રાખો.", "hi": "ॐ हमें सिखाता है: शांत रहो, ध्यान रखो और सबके साथ एकता रखो।", "en": "Om teaches us: stay calm, stay focused and live in unity with everyone."},
+  "points": [
+    {"gu": "શાંતિ: ઊંડો શ્વાસ, શાંત મન", "hi": "शांति: गहरी साँस, शांत मन", "en": "Peace: deep breath, calm mind"},
+    {"gu": "એકાગ્રતા: ભણતાં પહેલાં ઓમ", "hi": "एकाग्रता: पढ़ने से पहले ॐ", "en": "Focus: Om before studying"},
+    {"gu": "એકતા: બધા સાથે", "hi": "एकता: सब साथ", "en": "Unity: all together"}
+  ],
+  "words": [
+    {"gu": "પ્રણવ = ઓમનું બીજું નામ", "hi": "प्रणव = ॐ का दूसरा नाम", "en": "Pranav = another name of Om"},
+    {"gu": "ધ્યાન = મનને એક જગ્યાએ રાખવું", "hi": "ध्यान = मन को एक जगह लगाना", "en": "Dhyan = keeping the mind in one place"}
+  ],
+  "quiz": [
+    {"q": {"gu": "ઓમ કેટલા અવાજોથી બન્યો છે?", "hi": "ॐ कितनी ध्वनियों से बना है?", "en": "How many sounds make up Om?"},
+     "a": {"gu": ["ત્રણ", "બે", "સાત"], "hi": ["तीन", "दो", "सात"], "en": ["Three", "Two", "Seven"]}},
+    {"q": {"gu": "ઓમ બોલવાથી શું થાય છે?", "hi": "ॐ बोलने से क्या होता है?", "en": "What happens when we chant Om?"},
+     "a": {"gu": ["મન શાંત થાય છે", "ભૂખ લાગે છે", "ઊંઘ ઊડી જાય છે"], "hi": ["मन शांत होता है", "भूख लगती है", "नींद उड़ जाती है"], "en": ["The mind becomes calm", "We feel hungry", "Sleep goes away"]}},
+    {"q": {"gu": "ઓમનું બીજું નામ શું છે?", "hi": "ॐ का दूसरा नाम क्या है?", "en": "What is another name of Om?"},
+     "a": {"gu": ["પ્રણવ", "ગંગા", "દીવો"], "hi": ["प्रणव", "गंगा", "दीया"], "en": ["Pranav", "Ganga", "Diya"]}}
+  ]
+}

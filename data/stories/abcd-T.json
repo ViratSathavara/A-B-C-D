@@ -1,0 +1,56 @@
+{
+  "id": "abcd-T", "char": "tapasya",
+  "source": "Valmiki Ramayana (Bala Kanda, Ganga avataran); Puranas: Bhagirath's penance",
+  "status": "draft-reviewed-by-claude",
+  "tag": {"gu": "ધીરજથી મળેલી ગંગા", "hi": "धैर्य से मिली गंगा", "en": "Ganga Through Patience"},
+  "scenes": [
+    {"id": 1, "mood": "sad-caring",
+     "text": {
+       "gu": "રાજા ભગીરથના પૂર્વજો ઘણાં વર્ષો પહેલાં મુક્તિ વગર અટવાઈ ગયા હતા. ભગીરથને પોતાના પૂર્વજોની ખૂબ ચિંતા હતી. તેમણે નક્કી કર્યું કે તેઓ સ્વર્ગની નદી ગંગાને ધરતી પર લાવશે.",
+       "hi": "राजा भगीरथ के पूर्वज बहुत वर्ष पहले मुक्ति के बिना रुक गए थे। भगीरथ को अपने पूर्वजों की बहुत चिंता थी। उन्होंने निश्चय किया कि वे स्वर्ग की नदी गंगा को धरती पर लाएँगे।",
+       "en": "King Bhagirath's ancestors had been left without liberation many years ago. Bhagirath cared deeply about them. He decided to bring the heavenly river Ganga down to earth."},
+     "shot": {"who": ["bhagirath"], "setting": "a royal palace balcony at dawn overlooking a dry riverbed", "action": "Bhagirath looks at the empty riverbed and then folds his hands towards the sky with a determined face", "expression": "determined, caring", "camera": "medium shot at sunrise"}},
+    {"id": 2, "mood": "determined-still",
+     "text": {
+       "gu": "ભગીરથે રાજ્ય છોડીને હિમાલયમાં કઠિન તપસ્યા શરૂ કરી. ઘણાં વર્ષો સુધી તેમણે ભૂખ-તરસ સહન કરીને શાંતિથી ધ્યાન કર્યું. તેમનું મન એક જ લક્ષ્ય પર ટકેલું હતું.",
+       "hi": "भगीरथ ने राज्य छोड़कर हिमालय में कठिन तपस्या आरंभ की। कई वर्षों तक उन्होंने भूख-प्यास सहकर शांत भाव से ध्यान किया। उनका मन एक ही लक्ष्य पर टिका था।",
+       "en": "Bhagirath left his kingdom and began a hard penance in the Himalayas. For many years he bore hunger and thirst and meditated peacefully. His mind stayed fixed on a single goal."},
+     "shot": {"who": ["bhagirath"], "setting": "snowy Himalayan peaks with pine trees and a soft pink dawn", "action": "Bhagirath sits in meditation with closed eyes and a glowing aura, snow around him, birds resting nearby", "expression": "serene, deeply focused", "camera": "wide shot with mountains"}},
+    {"id": 3, "mood": "divine-gentle",
+     "text": {
+       "gu": "ભગીરથની તપસ્યાથી ખુશ થઈને ભગવાન બ્રહ્માજી પ્રગટ થયા અને ગંગાને ધરતી પર મોકલવા તૈયાર થયા. પણ ગંગાનો પ્રવાહ બહુ શક્તિશાળી હતો, એટલે ધરતી તેને ઝીલી શકે તેમ ન હતી.",
+       "hi": "भगीरथ की तपस्या से प्रसन्न होकर भगवान ब्रह्मा जी प्रकट हुए और गंगा को धरती पर भेजने के लिए तैयार हुए। पर गंगा का प्रवाह बहुत शक्तिशाली था, इसलिए धरती उसे सँभाल नहीं सकती थी।",
+       "en": "Pleased by Bhagirath's penance, Lord Brahma appeared and agreed to send Ganga to earth. But the flow of Ganga was so mighty that the earth could not hold it."},
+     "shot": {"who": ["bhagirath", "brahma"], "setting": "a glowing cloud above the snowy peaks with golden light", "action": "Brahma appears with raised blessing hand while Bhagirath opens his eyes and bows with folded hands", "expression": "Brahma: kind; Bhagirath: grateful and thoughtful", "camera": "medium shot with divine glow"}},
+    {"id": 4, "mood": "powerful-calm",
+     "text": {
+       "gu": "ભગીરથે ફરી ભગવાન શિવજીની તપસ્યા કરી. શિવજીએ ગંગાનો વેગ પોતાની જટામાં ઝીલી લીધો અને ગંગા ધીમે ધીમે ધરતી પર ઊતરી.",
+       "hi": "भगीरथ ने फिर भगवान शिव की तपस्या की। शिव जी ने गंगा का वेग अपनी जटाओं में सँभाल लिया और गंगा धीरे-धीरे धरती पर उतरीं।",
+       "en": "Bhagirath then prayed to Lord Shiva. Shiva caught the force of Ganga in his matted locks, and Ganga descended gently to the earth."},
+     "shot": {"who": ["bhagirath", "shiva"], "setting": "Kailash-like snowy mountain at dawn with a silver river descending from the sky", "action": "Shiva stands calmly with the Ganga flowing softly through his hair while Bhagirath bows with folded hands", "expression": "Shiva: calm and kind; Bhagirath: awe and gratitude", "camera": "wide majestic shot"}},
+    {"id": 5, "mood": "joyful-sacred",
+     "text": {
+       "gu": "ગંગા ભગીરથની પાછળ પાછળ વહેતી ગઈ અને તેમના પૂર્વજોને મુક્તિ મળી. ભગીરથનું નામ સાંભળતાં જ ‘ભગીરથ પ્રયત્ન’ યાદ આવે છે, એટલે કે મોટું લક્ષ્ય પૂરું કરવા અડગ મહેનત.",
+       "hi": "गंगा भगीरथ के पीछे-पीछे बहती चली गईं और उनके पूर्वजों को मुक्ति मिली। भगीरथ का नाम सुनते ही ‘भगीरथ प्रयत्न’ याद आता है, यानी बड़े लक्ष्य के लिए अडिग परिश्रम।",
+       "en": "Ganga flowed behind Bhagirath and his ancestors found liberation. His name reminds us of the phrase ‘Bhagirath effort’, meaning steady hard work for a great goal."},
+     "shot": {"who": ["bhagirath"], "setting": "a green plain at sunrise where a bright silver river winds toward the sea with temples on its banks", "action": "Bhagirath walks ahead and looks back smiling at the shining river following him, villagers fold their hands on the banks", "expression": "Bhagirath: happy, fulfilled", "camera": "wide hopeful shot"}}
+  ],
+  "lesson": {"gu": "ભગીરથ આપણને શીખવે છે: મોટું લક્ષ્ય પૂરું કરવા ધીરજ અને સતત મહેનત જોઈએ.", "hi": "भगीरथ हमें सिखाते हैं: बड़ा लक्ष्य पाने के लिए धैर्य और लगातार परिश्रम चाहिए।", "en": "Bhagirath teaches us: a great goal needs patience and steady hard work."},
+  "points": [
+    {"gu": "તપસ્યા: ધીરજથી પ્રયત્ન", "hi": "तपस्या: धैर्य से प्रयास", "en": "Tapasya: effort with patience"},
+    {"gu": "પરિવારની ચિંતા", "hi": "परिवार की चिंता", "en": "Care for family"},
+    {"gu": "ગંગા: પવિત્ર નદી", "hi": "गंगा: पवित्र नदी", "en": "Ganga: the holy river"}
+  ],
+  "words": [
+    {"gu": "તપસ્યા = ધીરજથી કરેલી સાધના", "hi": "तपस्या = धैर्य से की गई साधना", "en": "Tapasya = disciplined effort with patience"},
+    {"gu": "જટા = શિવજીના ગૂંથેલા વાળ", "hi": "जटा = शिव जी के गूँथे हुए बाल", "en": "Jata = Shiva's matted locks"}
+  ],
+  "quiz": [
+    {"q": {"gu": "ભગીરથ કઈ નદીને ધરતી પર લાવ્યા?", "hi": "भगीरथ किस नदी को धरती पर लाए?", "en": "Which river did Bhagirath bring to earth?"},
+     "a": {"gu": ["ગંગા", "યમુના", "નર્મદા"], "hi": ["गंगा", "यमुना", "नर्मदा"], "en": ["Ganga", "Yamuna", "Narmada"]}},
+    {"q": {"gu": "ગંગાનો વેગ કોણે ઝીલ્યો?", "hi": "गंगा का वेग किसने सँभाला?", "en": "Who held the force of Ganga?"},
+     "a": {"gu": ["શિવજી", "ઇન્દ્ર", "હનુમાનજી"], "hi": ["शिव जी", "इन्द्र", "हनुमान जी"], "en": ["Lord Shiva", "Indra", "Hanuman"]}},
+    {"q": {"gu": "‘ભગીરથ પ્રયત્ન’ એટલે શું?", "hi": "‘भगीरथ प्रयत्न’ का अर्थ क्या है?", "en": "What does ‘Bhagirath effort’ mean?"},
+     "a": {"gu": ["ખૂબ અડગ મહેનત", "ઝડપથી દોડવું", "આરામ કરવો"], "hi": ["बहुत अडिग परिश्रम", "तेज़ दौड़ना", "आराम करना"], "en": ["Very steady hard work", "Running fast", "Taking rest"]}}
+  ]
+}

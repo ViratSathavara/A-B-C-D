@@ -1,0 +1,56 @@
+{
+  "id": "abcd-I", "char": "indra",
+  "source": "Vedas and Puranas (Indra, Airavat, Vajra); Bhagavata Purana (Govardhan lila)",
+  "status": "draft-reviewed-by-claude",
+  "tag": {"gu": "દેવોના રાજા", "hi": "देवों के राजा", "en": "King of the Gods"},
+  "scenes": [
+    {"id": 1, "mood": "majestic-proud",
+     "text": {
+       "gu": "ઇન્દ્ર સ્વર્ગના રાજા અને દેવોના નાયક માનવામાં આવે છે. તેમનું શસ્ત્ર વજ્ર છે અને તેમનું વાહન સફેદ ઐરાવત હાથી છે. ઇન્દ્રની રાજસભા અમરાવતીમાં આવેલી છે.",
+       "hi": "इन्द्र स्वर्ग के राजा और देवताओं के नायक माने जाते हैं। उनका शस्त्र वज्र है और उनका वाहन सफ़ेद ऐरावत हाथी है। इन्द्र की राजसभा अमरावती में है।",
+       "en": "Indra is regarded as the king of heaven and the leader of the gods. His weapon is the vajra and his vehicle is the white elephant Airavat. His royal court is in Amaravati."},
+     "shot": {"who": ["indra"], "setting": "a shining heavenly city Amaravati above the clouds with golden palaces, rainbows and flower gardens", "action": "Indra sits proudly on the white elephant Airavat, holding his golden vajra, with other gods and celestial musicians around", "expression": "regal, confident, slightly proud", "camera": "wide majestic shot from slightly below"}},
+    {"id": 2, "mood": "joyful-giving",
+     "text": {
+       "gu": "ઇન્દ્ર વરસાદના દેવ પણ છે. જ્યારે વરસાદ પડે છે ત્યારે ખેતરો લીલાં થાય છે અને બધાને અનાજ અને પાણી મળે છે. તેથી લોકો સમયસર વરસાદ માટે તેમની પ્રાર્થના કરતા.",
+       "hi": "इन्द्र वर्षा के देवता भी हैं। जब वर्षा होती है तब खेत हरे-भरे हो जाते हैं और सबको अनाज और पानी मिलता है। इसलिए लोग समय पर वर्षा के लिए उनकी प्रार्थना करते थे।",
+       "en": "Indra is also the god of rain. When rain falls, the fields turn green and everyone gets grain and water. So people prayed to him for rain at the right time."},
+     "shot": {"who": ["indra"], "setting": "a village with green fields in the rain, rainbow in the sky, farmers smiling and kids dancing in puddles", "action": "Indra watches from the clouds as rain falls on happy farmers and children below", "expression": "Indra: kindly satisfied; villagers: joyful", "camera": "wide aerial shot looking down from the clouds"}},
+    {"id": 3, "mood": "playful-wise",
+     "text": {
+       "gu": "ગોકુળમાં લોકો દર વર્ષે ઇન્દ્રની પૂજા કરતા. બાળ કૃષ્ણે કહ્યું, “આપણને ગાયો, ઘાસ અને પાણી ગોવર્ધન પર્વતથી મળે છે, તો આપણે પ્રકૃતિ અને ગોવર્ધનની પણ પૂજા કરવી જોઈએ.” લોકોને વાત ગમી.",
+       "hi": "गोकुल में लोग हर साल इन्द्र की पूजा करते थे। बालकृष्ण ने कहा, “हमें गायों के लिए घास और पानी गोवर्धन पर्वत से मिलते हैं, इसलिए हमें प्रकृति और गोवर्धन की भी पूजा करनी चाहिए।” लोगों को यह बात अच्छी लगी।",
+       "en": "In Gokul people worshipped Indra every year. Little Krishna said, “We get grass and water for our cows from Mount Govardhan, so we should also honour nature and Govardhan.” The people liked this idea."},
+     "shot": {"who": ["krishna"], "setting": "village of Gokul near Mount Govardhan, cows, cowherd boys and girls, decorated puja plates, morning sunlight", "action": "child Krishna speaks cheerfully to the villagers while pointing to the green Govardhan hill, cows around him", "expression": "Krishna: wise, bright smile; villagers: thoughtful, happy", "camera": "medium-wide shot with the hill behind"}},
+    {"id": 4, "mood": "stormy-protective",
+     "text": {
+       "gu": "ઇન્દ્રને અભિમાન થયું અને તેમણે ગુસ્સે થઈને ખૂબ વરસાદ મોકલ્યો. ત્યારે કૃષ્ણે ટચલી આંગળી પર ગોવર્ધન પર્વત ઉપાડી લીધો અને બધા ગોકુળવાસીઓ અને ગાયો તેની નીચે સુરક્ષિત રહ્યા.",
+       "hi": "इन्द्र को अभिमान हुआ और उन्होंने क्रोधित होकर बहुत वर्षा भेजी। तब कृष्ण ने छोटी उँगली पर गोवर्धन पर्वत उठा लिया और सभी गोकुलवासी और गायें उसके नीचे सुरक्षित रहे।",
+       "en": "Indra became proud and in anger sent heavy rain. Then Krishna lifted Mount Govardhan on his little finger, and all the villagers and cows stayed safe beneath it."},
+     "shot": {"who": ["krishna"], "setting": "Gokul under dark rain clouds with lightning in the far sky, a huge green mountain lifted high", "action": "child Krishna holds up Govardhan hill with one little finger, villagers and cows huddled safely and smiling beneath it", "expression": "Krishna: calm gentle smile; villagers: wonder and relief", "camera": "wide dramatic shot from below the hill"}},
+    {"id": 5, "mood": "humble-apologetic",
+     "text": {
+       "gu": "ઇન્દ્ર સમજી ગયા કે તેમને અભિમાન થયું હતું. તેઓ ઐરાવત પર આવીને કૃષ્ણ પાસે નમી ગયા અને ક્ષમા માંગી. કૃષ્ણે પ્રેમથી તેમને માફ કર્યા. આ કથા આપણને નમ્ર રહેવાનું શીખવે છે.",
+       "hi": "इन्द्र समझ गए कि उन्हें अभिमान हो गया था। वे ऐरावत पर आकर कृष्ण के सामने झुके और क्षमा माँगी। कृष्ण ने प्रेम से उन्हें क्षमा कर दिया। यह कथा हमें विनम्र रहना सिखाती है।",
+       "en": "Indra realised that he had become proud. He came down on Airavat, bowed before Krishna and asked for forgiveness. Krishna forgave him lovingly. This story teaches us to stay humble."},
+     "shot": {"who": ["indra", "krishna"], "setting": "Gokul meadow after the rain, rainbow in the sky, cows grazing, soft golden light", "action": "Indra bows with folded hands before Krishna, with Airavat standing behind him; Krishna smiles and places a blessing hand on Indra", "expression": "Indra: humble and sorry; Krishna: forgiving and kind", "camera": "medium shot with the rainbow behind"}}
+  ],
+  "lesson": {"gu": "ઇન્દ્ર આપણને શીખવે છે: અભિમાન ન કરવું, ભૂલ સમજાય તો ક્ષમા માંગવી અને પ્રકૃતિનું સન્માન કરવું.", "hi": "इन्द्र हमें सिखाते हैं: अभिमान मत करो, भूल समझ में आए तो क्षमा माँगो और प्रकृति का सम्मान करो।", "en": "Indra teaches us: do not be proud, say sorry when you realise a mistake, and respect nature."},
+  "points": [
+    {"gu": "નમ્રતા: મોટા હો ત્યારે પણ સરળ", "hi": "विनम्रता: बड़े होकर भी सरल", "en": "Humility: stay simple even when great"},
+    {"gu": "ક્ષમા: ભૂલ સ્વીકારવી", "hi": "क्षमा: भूल स्वीकार करना", "en": "Sorry: accept your mistake"},
+    {"gu": "પ્રકૃતિ: પર્વત, નદી, વરસાદનો આદર", "hi": "प्रकृति: पर्वत, नदी, वर्षा का आदर", "en": "Nature: respect hills, rivers and rain"}
+  ],
+  "words": [
+    {"gu": "વજ્ર = ઇન્દ્રનું શસ્ત્ર", "hi": "वज्र = इन्द्र का शस्त्र", "en": "Vajra = Indra's thunderbolt"},
+    {"gu": "ઐરાવત = ઇન્દ્રનો હાથી", "hi": "ऐरावत = इन्द्र का हाथी", "en": "Airavat = Indra's elephant"}
+  ],
+  "quiz": [
+    {"q": {"gu": "ઇન્દ્રનું વાહન કયું છે?", "hi": "इन्द्र का वाहन कौन-सा है?", "en": "What is Indra's vehicle?"},
+     "a": {"gu": ["ઐરાવત હાથી", "ઉંદર", "ગરુડ"], "hi": ["ऐरावत हाथी", "चूहा", "गरुड़"], "en": ["Airavat the elephant", "A mouse", "Garuda"]}},
+    {"q": {"gu": "ઇન્દ્ર કઈ વસ્તુના દેવ છે?", "hi": "इन्द्र किसके देवता हैं?", "en": "Indra is the god of what?"},
+     "a": {"gu": ["વરસાદ", "અગ્નિ", "સમુદ્ર"], "hi": ["वर्षा", "अग्नि", "समुद्र"], "en": ["Rain", "Fire", "The ocean"]}},
+    {"q": {"gu": "કૃષ્ણે કયો પર્વત ઉપાડ્યો?", "hi": "कृष्ण ने कौन-सा पर्वत उठाया?", "en": "Which mountain did Krishna lift?"},
+     "a": {"gu": ["ગોવર્ધન", "હિમાલય", "કૈલાસ"], "hi": ["गोवर्धन", "हिमालय", "कैलाश"], "en": ["Govardhan", "Himalaya", "Kailash"]}}
+  ]
+}

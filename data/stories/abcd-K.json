@@ -1,0 +1,56 @@
+{
+  "id": "abcd-K", "char": "krishna",
+  "source": "Bhagavata Purana (Krishna's birth and childhood, Kaliya), Mahabharata (Gita); Sudama tradition",
+  "status": "draft-reviewed-by-claude",
+  "tag": {"gu": "ગીતાના ઉપદેશક", "hi": "गीता के उपदेशक", "en": "The Teacher of the Gita"},
+  "scenes": [
+    {"id": 1, "mood": "tender-miraculous",
+     "text": {
+       "gu": "ભગવાન શ્રીકૃષ્ણ વિષ્ણુના આઠમા અવતાર છે. તેમનો જન્મ મથુરામાં માતા દેવકી અને પિતા વસુદેવને ત્યાં થયો. પછી તેમને સુરક્ષિત રીતે ગોકુળ લઈ જવામાં આવ્યા, જ્યાં નંદબાબા અને માતા યશોદાએ તેમને પ્રેમથી ઉછેર્યા.",
+       "hi": "भगवान श्रीकृष्ण विष्णु के आठवें अवतार हैं। उनका जन्म मथुरा में माता देवकी और पिता वसुदेव के यहाँ हुआ। फिर उन्हें सुरक्षित रूप से गोकुल ले जाया गया, जहाँ नंदबाबा और माता यशोदा ने उन्हें प्रेम से पाला।",
+       "en": "Lord Shri Krishna is the eighth avatar of Vishnu. He was born in Mathura to Mother Devaki and Father Vasudev. He was then carried safely to Gokul, where Nand Baba and Mother Yashoda raised him with love."},
+     "shot": {"who": ["krishna"], "setting": "the Yamuna river at night with a glowing full moon, a basket carried across the water, Mathura in the distance", "action": "Vasudev carefully carries baby Krishna in a basket across the shallow river under a large protective multi-headed snake canopy and a glowing moon", "expression": "baby Krishna: peaceful smile; Vasudev: hopeful and loving", "camera": "medium wide shot with moonlight reflecting on the water"}},
+    {"id": 2, "mood": "mischievous-sweet",
+     "text": {
+       "gu": "બાળ કૃષ્ણ બહુ નટખટ હતા. તેઓ મિત્રો સાથે માખણ ચોરતા, તેથી તેમને માખણચોર કહેતા. માતા યશોદા પ્રેમથી ગુસ્સે થતાં, પણ કૃષ્ણનું મોહક સ્મિત જોઈને તરત હસી પડતાં.",
+       "hi": "बालकृष्ण बहुत नटखट थे। वे मित्रों के साथ माखन चुराते थे, इसलिए उन्हें माखनचोर कहते थे। माता यशोदा प्यार से नाराज़ होतीं, पर कृष्ण की मोहक मुस्कान देखकर तुरंत हँस पड़तीं।",
+       "en": "Little Krishna was very naughty. He and his friends would steal butter, so he was called Makhanchor, the butter thief. Mother Yashoda would be lovingly cross, but when she saw his charming smile she burst into laughter."},
+     "shot": {"who": ["krishna"], "setting": "a rustic Gokul kitchen with clay pots hanging from the ceiling, sunlight through a window", "action": "child Krishna stands on his friend's shoulders reaching into a hanging butter pot, butter on his cheeks, while Mother Yashoda stands with a ladle pretending to scold with a smile", "expression": "Krishna: cheeky grin; Yashoda: amused, loving", "camera": "medium shot, warm kitchen light"}},
+    {"id": 3, "mood": "musical-friendly",
+     "text": {
+       "gu": "કૃષ્ણ યમુનાના કિનારે ગાયો ચરાવતા અને વાંસળી વગાડતા. તેમની વાંસળીનો મીઠો સૂર સાંભળીને ગાયો, પક્ષીઓ, મોર અને ગોપ-ગોપીઓ બધા ખુશ થઈ જતા. કૃષ્ણ બધાના પ્રિય મિત્ર હતા.",
+       "hi": "कृष्ण यमुना के किनारे गायें चराते और बाँसुरी बजाते थे। उनकी बाँसुरी की मीठी धुन सुनकर गायें, पक्षी, मोर और गोप-गोपियाँ सब खुश हो जाते थे। कृष्ण सबके प्रिय मित्र थे।",
+       "en": "Krishna grazed the cows on the banks of the Yamuna and played his flute. Hearing its sweet tune, the cows, birds, peacocks and cowherd friends all became happy. Krishna was everyone's dear friend."},
+     "shot": {"who": ["krishna"], "setting": "the banks of the Yamuna with kadamba trees, green grass, sunset glow, cows and peacocks", "action": "Krishna stands cross-legged under a kadamba tree playing the flute, peacocks dancing and cows listening, gopa friends sitting around", "expression": "Krishna: serene joy; animals and friends: enchanted", "camera": "wide shot with golden evening light"}},
+    {"id": 4, "mood": "brave-calm",
+     "text": {
+       "gu": "યમુના નદીમાં કાલિય નામનો એક ઝેરી નાગ રહેતો હતો, જેનાથી પાણી ઝેરી થઈ ગયું હતું. નાનકડા કૃષ્ણ નદીમાં કૂદ્યા અને નાગના ફણા પર નાચ્યા. નાગે માફી માંગી અને યમુના ફરી શુદ્ધ થઈ.",
+       "hi": "यमुना नदी में कालिय नाम का एक विषैला नाग रहता था, जिससे पानी ज़हरीला हो गया था। छोटे कृष्ण नदी में कूदे और नाग के फनों पर नृत्य किया। नाग ने क्षमा माँगी और यमुना फिर से शुद्ध हो गई।",
+       "en": "A poisonous serpent named Kaliya lived in the river Yamuna and had made the water unsafe. Little Krishna jumped in and danced on the serpent's hoods. The serpent asked for forgiveness and the Yamuna became pure again."},
+     "shot": {"who": ["krishna"], "setting": "the Yamuna river with clear blue water, a giant friendly-looking multi-hooded serpent, villagers watching from the bank", "action": "child Krishna dances gracefully on the serpent's heads, one foot raised, flute in hand, the water sparkling", "expression": "Krishna: calm dancing smile; Kaliya: humble; villagers: anxious then relieved", "camera": "wide dynamic shot with sparkling water"}},
+    {"id": 5, "mood": "wise-loving",
+     "text": {
+       "gu": "મોટા થઈને શ્રીકૃષ્ણે ગરીબ મિત્ર સુદામાને પ્રેમથી ગળે લગાવ્યા અને સાચી મિત્રતા શીખવી. મહાભારતના યુદ્ધમાં અર્જુનના સારથિ બનીને તેમણે ગીતાનો ઉપદેશ આપ્યો કે કર્તવ્ય કરતા રહો અને ફળની ચિંતા ન કરો.",
+       "hi": "बड़े होकर श्रीकृष्ण ने गरीब मित्र सुदामा को प्रेम से गले लगाया और सच्ची मित्रता सिखाई। महाभारत के युद्ध में अर्जुन के सारथी बनकर उन्होंने गीता का उपदेश दिया कि कर्तव्य करते रहो और फल की चिंता मत करो।",
+       "en": "When he grew up, Shri Krishna lovingly hugged his poor friend Sudama and taught true friendship. In the Mahabharata war, as Arjun's charioteer, he taught the Gita: keep doing your duty and do not worry about the result."},
+     "shot": {"who": ["krishna"], "setting": "the golden palace of Dwarka with white marble steps and sea breeze, soft sunlight", "action": "Krishna warmly hugs a thin humble Sudama in simple clothes at the palace gate, a small bundle of puffed rice in Sudama's hand", "expression": "Krishna: tender and joyful; Sudama: shy tears of happiness", "camera": "warm medium shot"}}
+  ],
+  "lesson": {"gu": "શ્રીકૃષ્ણ આપણને શીખવે છે: પ્રેમ કરો, સાચા મિત્ર બનો અને ફળની ચિંતા વગર પોતાનું કામ કરતા રહો.", "hi": "श्रीकृष्ण हमें सिखाते हैं: प्रेम करो, सच्चे मित्र बनो और फल की चिंता किए बिना अपना काम करते रहो।", "en": "Shri Krishna teaches us: love everyone, be a true friend, and keep doing your work without worrying about the result."},
+  "points": [
+    {"gu": "પ્રેમ: બધાને ચાહવા", "hi": "प्रेम: सबसे स्नेह", "en": "Love: care for all"},
+    {"gu": "મિત્રતા: ગરીબ-અમીર સરખા", "hi": "मित्रता: गरीब-अमीर बराबर", "en": "Friendship: rich and poor are equal"},
+    {"gu": "કર્મ: કર્તવ્ય કરતા રહેવું", "hi": "कर्म: कर्तव्य करते रहना", "en": "Karma: keep doing your duty"}
+  ],
+  "words": [
+    {"gu": "અવતાર = ભગવાનનું પૃથ્વી પર આવવું", "hi": "अवतार = भगवान का पृथ्वी पर आना", "en": "Avatar = God coming to Earth"},
+    {"gu": "ગીતા = શ્રીકૃષ્ણનો ઉપદેશ", "hi": "गीता = श्रीकृष्ण का उपदेश", "en": "Gita = Krishna's teaching"}
+  ],
+  "quiz": [
+    {"q": {"gu": "બાળ કૃષ્ણ શું વગાડતા?", "hi": "बालकृष्ण क्या बजाते थे?", "en": "What did child Krishna play?"},
+     "a": {"gu": ["વાંસળી", "વીણા", "તબલા"], "hi": ["बाँसुरी", "वीणा", "तबला"], "en": ["The flute", "The veena", "The tabla"]}},
+    {"q": {"gu": "કૃષ્ણને માખણચોર કેમ કહેતા?", "hi": "कृष्ण को माखनचोर क्यों कहते थे?", "en": "Why was Krishna called the butter thief?"},
+     "a": {"gu": ["તેઓ માખણ ચોરતા", "તેઓ દુકાન ચલાવતા", "તેઓ ખેતી કરતા"], "hi": ["वे माखन चुराते थे", "वे दुकान चलाते थे", "वे खेती करते थे"], "en": ["He stole butter", "He ran a shop", "He was a farmer"]}},
+    {"q": {"gu": "કૃષ્ણના ગરીબ મિત્રનું નામ શું હતું?", "hi": "कृष्ण के गरीब मित्र का नाम क्या था?", "en": "What was Krishna's poor friend's name?"},
+     "a": {"gu": ["સુદામા", "અર્જુન", "ભીષ્મ"], "hi": ["सुदामा", "अर्जुन", "भीष्म"], "en": ["Sudama", "Arjun", "Bhishma"]}}
+  ]
+}

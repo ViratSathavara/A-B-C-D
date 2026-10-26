@@ -1,0 +1,744 @@
+{
+ "items": [
+  {
+   "id": "matsya",
+   "char": "matsya",
+   "order": 1,
+   "yuga": {
+    "gu": "સત્યયુગ",
+    "hi": "सत्ययुग",
+    "en": "Satya Yuga"
+   },
+   "form": {
+    "gu": "માછલી",
+    "hi": "मछली",
+    "en": "Fish"
+   },
+   "scenes": [
+    {
+     "id": 1,
+     "text": {
+      "gu": "પ્રલય આવવાનો હતો ત્યારે નાની માછલીએ રાજા મનુ પાસે મદદ માંગી. મનુએ તેને પ્રેમથી બચાવી.",
+      "hi": "जब प्रलय आने वाला था तब एक छोटी मछली ने राजा मनु से मदद माँगी। मनु ने उसे प्रेम से बचाया।",
+      "en": "When a great flood was about to come, a small fish asked King Manu for help. Manu lovingly saved it."
+     },
+     "shot": {
+      "who": [
+       "matsya"
+      ],
+      "setting": "a river bank at sunrise",
+      "action": "King Manu (simple saffron robes, sage-like) cups a tiny glowing golden fish in his hands",
+      "expression": "Manu: kind; fish: trusting",
+      "camera": "medium gentle shot"
+     }
+    },
+    {
+     "id": 2,
+     "text": {
+      "gu": "માછલી મોટી થતી ગઈ અને પછી તે ભગવાન વિષ્ણુનો અવતાર બની. તેણે મનુને હોડી બનાવવા કહ્યું.",
+      "hi": "मछली बड़ी होती गई और फिर भगवान विष्णु का अवतार निकली। उसने मनु से नाव बनाने को कहा।",
+      "en": "The fish grew bigger and turned out to be Lord Vishnu's avatar. It told Manu to build a boat."
+     },
+     "shot": {
+      "who": [
+       "matsya"
+      ],
+      "setting": "a vast ocean at dawn",
+      "action": "a huge golden fish with a horn rises from the sea while Manu looks in awe on a boat",
+      "expression": "Manu: wonder",
+      "camera": "wide magical shot"
+     }
+    },
+    {
+     "id": 3,
+     "text": {
+      "gu": "મત્સ્ય ભગવાને વેદ અને સપ્તર્ષિઓને હોડીમાં બચાવ્યા. નવી સૃષ્ટિ ફરી શરૂ થઈ.",
+      "hi": "मत्स्य भगवान ने वेदों और सप्तर्षियों को नाव में बचाया। नई सृष्टि फिर आरंभ हुई।",
+      "en": "Lord Matsya saved the Vedas and the seven sages in the boat. A new creation began."
+     },
+     "shot": {
+      "who": [
+       "matsya"
+      ],
+      "setting": "a calm sea at sunrise",
+      "action": "the boat with sages is gently pulled by the golden fish, a rainbow overhead",
+      "expression": "hopeful",
+      "camera": "wide hopeful shot"
+     }
+    }
+   ],
+   "lesson": {
+    "gu": "મત્સ્ય અવતાર શીખવે છે: નાનાની મદદ કરો, ભગવાન ફળ આપશે.",
+    "hi": "मत्स्य अवतार सिखाता है: छोटों की मदद करो, ईश्वर फल देंगे।",
+    "en": "Matsya teaches us: help the small, and God will reward."
+   }
+  },
+  {
+   "id": "kurma",
+   "char": "kurma",
+   "order": 2,
+   "yuga": {
+    "gu": "સત્યયુગ",
+    "hi": "सत्ययुग",
+    "en": "Satya Yuga"
+   },
+   "form": {
+    "gu": "કાચબો",
+    "hi": "कछुआ",
+    "en": "Tortoise"
+   },
+   "scenes": [
+    {
+     "id": 1,
+     "text": {
+      "gu": "દેવો અને અસુરો સમુદ્રમંથન કરતા હતા. મંદરાચલ પર્વત મથાણી હતો પણ તે સમુદ્રમાં ડૂબવા લાગ્યો.",
+      "hi": "देवता और असुर समुद्र मंथन कर रहे थे। मंदराचल पर्वत मथानी था पर वह समुद्र में डूबने लगा।",
+      "en": "Gods and asuras were churning the ocean. Mount Mandar was the churning rod but it began to sink."
+     },
+     "shot": {
+      "who": [
+       "kurma"
+      ],
+      "setting": "a vast ocean with a big mountain",
+      "action": "gods and asuras pull a snake-rope around a mountain as it tilts",
+      "expression": "gods: worried",
+      "camera": "wide shot"
+     }
+    },
+    {
+     "id": 2,
+     "text": {
+      "gu": "ભગવાન વિષ્ણુએ કાચબાનું રૂપ લીધું અને પર્વતને પોતાની પીઠ પર ઊંચકી લીધો.",
+      "hi": "भगवान विष्णु ने कछुए का रूप लिया और पर्वत को अपनी पीठ पर उठा लिया।",
+      "en": "Lord Vishnu took the form of a tortoise and lifted the mountain on his back."
+     },
+     "shot": {
+      "who": [
+       "kurma"
+      ],
+      "setting": "the ocean at dawn",
+      "action": "a giant golden tortoise holds the mountain steady on its shell",
+      "expression": "calm strong",
+      "camera": "dramatic wide shot"
+     }
+    },
+    {
+     "id": 3,
+     "text": {
+      "gu": "મંથનથી અમૃત, લક્ષ્મીજી અને ધન્વંતરિ જેવા રત્નો નીકળ્યા. બધાને સંયમ અને સાથ કામ કરવાનું શીખવા મળ્યું.",
+      "hi": "मंथन से अमृत, लक्ष्मी जी और धन्वंतरि जैसे रत्न निकले। सबको संयम और साथ मिलकर काम करने की सीख मिली।",
+      "en": "From the churning came nectar, Lakshmi and Dhanvantari. Everyone learned patience and teamwork."
+     },
+     "shot": {
+      "who": [
+       "kurma",
+       "lakshmi"
+      ],
+      "setting": "a glowing sea with lotus",
+      "action": "Lakshmi rises from the sea on a lotus as gods bow with joy",
+      "expression": "all: joyful",
+      "camera": "wide divine shot"
+     }
+    }
+   ],
+   "lesson": {
+    "gu": "કૂર્મ અવતાર શીખવે છે: ધીરજ અને સહકારથી મોટા કામ થાય છે.",
+    "hi": "कूर्म अवतार सिखाता है: धैर्य और सहयोग से बड़े काम होते हैं।",
+    "en": "Kurma teaches us: patience and teamwork accomplish great things."
+   }
+  },
+  {
+   "id": "varaha",
+   "char": "varaha",
+   "order": 3,
+   "yuga": {
+    "gu": "સત્યયુગ",
+    "hi": "सत्ययुग",
+    "en": "Satya Yuga"
+   },
+   "form": {
+    "gu": "વરાહ (ભૂંડ)",
+    "hi": "वराह (सूअर)",
+    "en": "Varaha (boar)"
+   },
+   "scenes": [
+    {
+     "id": 1,
+     "text": {
+      "gu": "એક અસુર હિરણ્યાક્ષ પૃથ્વીને સમુદ્રમાં લઈ ગયો. બધા દેવો ચિંતામાં આવ્યા.",
+      "hi": "एक असुर हिरण्याक्ष पृथ्वी को समुद्र में ले गया। सब देवता चिंतित हुए।",
+      "en": "An asura named Hiranyaksha took the Earth into the ocean. The gods were worried."
+     },
+     "shot": {
+      "who": [
+       "varaha"
+      ],
+      "setting": "a deep cosmic sea",
+      "action": "a small glowing Earth lies at the bottom of a clear ocean as gods look from above",
+      "expression": "worried",
+      "camera": "wide shot"
+     }
+    },
+    {
+     "id": 2,
+     "text": {
+      "gu": "ભગવાન વિષ્ણુએ વરાહનું રૂપ લીધું અને સમુદ્રમાં ડૂબકી મારી. તેમણે પૃથ્વીને પોતાના દાંત પર ઊંચકી.",
+      "hi": "भगवान विष्णु ने वराह का रूप लिया और समुद्र में गोता लगाया। उन्होंने पृथ्वी को अपने दाँतों पर उठा लिया।",
+      "en": "Lord Vishnu took the form of Varaha and dived into the ocean. He lifted the Earth on his tusks."
+     },
+     "shot": {
+      "who": [
+       "varaha"
+      ],
+      "setting": "the ocean surface at sunrise",
+      "action": "a great golden boar carries a small glowing Earth on its tusks",
+      "expression": "strong and gentle",
+      "camera": "dramatic shot"
+     }
+    },
+    {
+     "id": 3,
+     "text": {
+      "gu": "પૃથ્વી ફરી પોતાની જગ્યાએ સ્થાપિત થઈ. બધા જીવોએ આનંદ કર્યો અને ભગવાનનો આભાર માન્યો.",
+      "hi": "पृथ्वी फिर अपने स्थान पर स्थापित हुई। सब जीवों ने आनंद मनाया और भगवान का धन्यवाद किया।",
+      "en": "The Earth was set back in her place. All beings rejoiced and thanked God."
+     },
+     "shot": {
+      "who": [
+       "varaha"
+      ],
+      "setting": "a blooming earth",
+      "action": "animals and people bow with thanks around Varaha",
+      "expression": "happy",
+      "camera": "wide shot"
+     }
+    }
+   ],
+   "lesson": {
+    "gu": "વરાહ અવતાર શીખવે છે: પૃથ્વીની રક્ષા કરવી એ આપણી ફરજ છે.",
+    "hi": "वराह अवतार सिखाता है: पृथ्वी की रक्षा करना हमारा कर्तव्य है।",
+    "en": "Varaha teaches us: protecting the Earth is our duty."
+   }
+  },
+  {
+   "id": "narasimha",
+   "char": "narasimha",
+   "order": 4,
+   "yuga": {
+    "gu": "સત્યયુગ",
+    "hi": "सत्ययुग",
+    "en": "Satya Yuga"
+   },
+   "form": {
+    "gu": "અડધા સિંહ, અડધા માનવ",
+    "hi": "आधे सिंह, आधे मानव",
+    "en": "Half lion, half man"
+   },
+   "scenes": [
+    {
+     "id": 1,
+     "text": {
+      "gu": "નાનકડા ભક્ત પ્રહ્લાદ ભગવાન વિષ્ણુનું નામ લેતા અને તેમના પિતા હિરણ્યકશિપુ આ પસંદ કરતા ન હતા.",
+      "hi": "नन्हे भक्त प्रह्लाद भगवान विष्णु का नाम लेते थे और उनके पिता हिरण्यकशिपु को यह पसंद नहीं था।",
+      "en": "Little Prahlad chanted Lord Vishnu's name and his father Hiranyakashipu did not like it."
+     },
+     "shot": {
+      "who": [
+       "prahlad"
+      ],
+      "setting": "a royal court",
+      "action": "Prahlad stands steady with folded hands before his father",
+      "expression": "fearless",
+      "camera": "medium shot"
+     }
+    },
+    {
+     "id": 2,
+     "text": {
+      "gu": "હિરણ્યકશિપુએ પૂછ્યું, “તારો ભગવાન ક્યાં છે?” પ્રહ્લાદે કહ્યું, “તે બધે છે, આ થાંભલામાં પણ.”",
+      "hi": "हिरण्यकशिपु ने पूछा, “तेरा भगवान कहाँ है?” प्रह्लाद ने कहा, “वे हर जगह हैं, इस खंभे में भी।”",
+      "en": "Hiranyakashipu asked, “Where is your God?” Prahlad said, “He is everywhere, even in this pillar.”"
+     },
+     "shot": {
+      "who": [
+       "prahlad"
+      ],
+      "setting": "a grand hall with a pillar",
+      "action": "Prahlad points calmly to a stone pillar",
+      "expression": "calm faith",
+      "camera": "medium shot"
+     }
+    },
+    {
+     "id": 3,
+     "text": {
+      "gu": "થાંભલામાંથી નૃસિંહ ભગવાન પ્રગટ થયા અને ભક્તની રક્ષા કરી. સાંજના સમયે, બારણાની વચ્ચે, ન તો માણસ ન પશુ — એ રીતે અસુરનો અંત થયો.",
+      "hi": "खंभे से नृसिंह भगवान प्रकट हुए और भक्त की रक्षा की। संध्या के समय, द्वार की चौखट पर, न मनुष्य न पशु — इस तरह असुर का अंत हुआ।",
+      "en": "Lord Narasimha appeared from the pillar and protected the devotee. At twilight, at the doorway, neither man nor beast — the asura met his end."
+     },
+     "shot": {
+      "who": [
+       "narasimha",
+       "prahlad"
+      ],
+      "setting": "a hall with golden twilight light",
+      "action": "Narasimha appears from the pillar in a burst of light, Prahlad bows safe",
+      "expression": "Prahlad: peaceful",
+      "camera": "dramatic gentle shot (no violence)"
+     }
+    }
+   ],
+   "lesson": {
+    "gu": "નૃસિંહ અવતાર શીખવે છે: સાચા ભક્તની ભગવાન હંમેશાં રક્ષા કરે છે.",
+    "hi": "नृसिंह अवतार सिखाता है: सच्चे भक्त की भगवान सदा रक्षा करते हैं।",
+    "en": "Narasimha teaches us: God always protects a true devotee."
+   }
+  },
+  {
+   "id": "vamana",
+   "char": "vamana",
+   "order": 5,
+   "yuga": {
+    "gu": "ત્રેતાયુગ",
+    "hi": "त्रेतायुग",
+    "en": "Treta Yuga"
+   },
+   "form": {
+    "gu": "નાના બ્રાહ્મણ બાળક",
+    "hi": "छोटे ब्राह्मण बालक",
+    "en": "Small brahmin boy"
+   },
+   "scenes": [
+    {
+     "id": 1,
+     "text": {
+      "gu": "રાજા બલિ દાનવીર અને શક્તિશાળી હતા પણ તેમને અભિમાન આવ્યું. દેવો ચિંતામાં આવ્યા.",
+      "hi": "राजा बलि दानवीर और शक्तिशाली थे पर उन्हें अभिमान आ गया। देवता चिंतित हुए।",
+      "en": "King Bali was generous and powerful but he became proud. The gods were worried."
+     },
+     "shot": {
+      "who": [
+       "vamana"
+      ],
+      "setting": "a grand yajna hall",
+      "action": "King Bali sits generously giving gifts to many",
+      "expression": "proud",
+      "camera": "wide shot"
+     }
+    },
+    {
+     "id": 2,
+     "text": {
+      "gu": "ભગવાન વિષ્ણુ નાના વામન બનીને બલિ પાસે ગયા અને ત્રણ પગલાં જમીન માંગી. બલિએ હસીને હા કહી.",
+      "hi": "भगवान विष्णु छोटे वामन बनकर बलि के पास गए और तीन पग भूमि माँगी। बलि ने हँसकर हाँ कह दी।",
+      "en": "Lord Vishnu came to Bali as small Vamana and asked for three steps of land. Bali smilingly agreed."
+     },
+     "shot": {
+      "who": [
+       "vamana"
+      ],
+      "setting": "the yajna hall",
+      "action": "a small boy with an umbrella and a staff stands before the king",
+      "expression": "humble",
+      "camera": "medium shot"
+     }
+    },
+    {
+     "id": 3,
+     "text": {
+      "gu": "વામન વિશાળ થયા. એક પગલે પૃથ્વી, બીજાએ આકાશ માપ્યું અને ત્રીજું પગલું બલિના માથે મૂક્યું. નમ્ર બલિ સુતલ લોકના રાજા બન્યા.",
+      "hi": "वामन विशाल हो गए। एक पग में पृथ्वी, दूसरे में आकाश नापा और तीसरा पग बलि के मस्तक पर रखा। विनम्र बलि सुतल लोक के राजा बने।",
+      "en": "Vamana grew huge. With one step he measured the earth, with the second the sky, and he placed the third on Bali's head. The humble Bali became ruler of the Sutal Loka."
+     },
+     "shot": {
+      "who": [
+       "vamana"
+      ],
+      "setting": "a cosmic sky",
+      "action": "a giant golden Vamana strides across the sky as Bali bows",
+      "expression": "Bali: humble",
+      "camera": "wide divine shot"
+     }
+    }
+   ],
+   "lesson": {
+    "gu": "વામન અવતાર શીખવે છે: અભિમાન ન કરો, નમ્ર રહો.",
+    "hi": "वामन अवतार सिखाता है: अभिमान मत करो, विनम्र रहो।",
+    "en": "Vamana teaches us: do not be proud; stay humble."
+   }
+  },
+  {
+   "id": "parshurama",
+   "char": "parshurama",
+   "order": 6,
+   "yuga": {
+    "gu": "ત્રેતાયુગ",
+    "hi": "त्रेतायुग",
+    "en": "Treta Yuga"
+   },
+   "form": {
+    "gu": "ઋષિ યોદ્ધા, ફરસીધારી",
+    "hi": "ऋषि योद्धा, फरसाधारी",
+    "en": "Sage-warrior with an axe"
+   },
+   "scenes": [
+    {
+     "id": 1,
+     "text": {
+      "gu": "પરશુરામ ઋષિ જમદગ્નિ અને રેણુકાના પુત્ર હતા. નાનપણથી જ તેઓ બહુ તેજસ્વી અને માતા-પિતાના આજ્ઞાકારી હતા.",
+      "hi": "परशुराम ऋषि जमदग्नि और रेणुका के पुत्र थे। बचपन से ही वे बहुत तेजस्वी और माता-पिता के आज्ञाकारी थे।",
+      "en": "Parshurama was the son of sage Jamadagni and Renuka. From childhood he was bright and obeyed his parents."
+     },
+     "shot": {
+      "who": [
+       "parshurama"
+      ],
+      "setting": "a forest hermitage",
+      "action": "young Parshurama bows to his parents",
+      "expression": "respectful",
+      "camera": "medium shot"
+     }
+    },
+    {
+     "id": 2,
+     "text": {
+      "gu": "ભગવાન શિવ પાસેથી તેમને ફરસી મળી. તેમણે અન્યાય કરનારા અહંકારી રાજાઓ સામે ધર્મની રક્ષા કરી.",
+      "hi": "भगवान शिव से उन्हें फरसा मिला। उन्होंने अन्याय करने वाले अहंकारी राजाओं के विरुद्ध धर्म की रक्षा की।",
+      "en": "He received an axe from Lord Shiva. He protected dharma against proud kings who did injustice."
+     },
+     "shot": {
+      "who": [
+       "parshurama",
+       "shiva"
+      ],
+      "setting": "a Himalayan hermitage",
+      "action": "Shiva hands a shining axe to Parshurama who bows",
+      "expression": "humble",
+      "camera": "medium shot"
+     }
+    },
+    {
+     "id": 3,
+     "text": {
+      "gu": "પરશુરામ ચિરંજીવી મનાય છે. તેમણે શ્રીરામ અને કૃષ્ણ બંનેને મળીને આશીર્વાદ આપ્યા એવું કહેવાય છે.",
+      "hi": "परशुराम चिरंजीवी माने जाते हैं। कहा जाता है कि उन्होंने श्रीराम और कृष्ण दोनों से मिलकर आशीर्वाद दिया।",
+      "en": "Parshurama is believed to be immortal. It is said he met and blessed both Shri Ram and Krishna."
+     },
+     "shot": {
+      "who": [
+       "parshurama",
+       "ram"
+      ],
+      "setting": "a green mountain",
+      "action": "Parshurama blesses Ram with a raised hand",
+      "expression": "wise",
+      "camera": "medium shot"
+     }
+    }
+   ],
+   "lesson": {
+    "gu": "પરશુરામ શીખવે છે: અન્યાય સામે ઊભા રહો, માતા-પિતાની આજ્ઞા માનો.",
+    "hi": "परशुराम सिखाते हैं: अन्याय के विरुद्ध खड़े रहो, माता-पिता की आज्ञा मानो।",
+    "en": "Parshurama teaches us: stand against injustice; obey your parents."
+   }
+  },
+  {
+   "id": "ram",
+   "char": "ram",
+   "order": 7,
+   "yuga": {
+    "gu": "ત્રેતાયુગ",
+    "hi": "त्रेतायुग",
+    "en": "Treta Yuga"
+   },
+   "form": {
+    "gu": "આદર્શ રાજકુમાર",
+    "hi": "आदर्श राजकुमार",
+    "en": "The ideal prince"
+   },
+   "scenes": [
+    {
+     "id": 1,
+     "text": {
+      "gu": "અયોધ્યામાં શ્રીરામનો જન્મ થયો. તેઓ સત્ય અને ધર્મ પર ચાલતા હતા એટલે ‘મર્યાદા પુરુષોત્તમ’ કહેવાયા.",
+      "hi": "अयोध्या में श्रीराम का जन्म हुआ। वे सत्य और धर्म पर चलते थे इसलिए ‘मर्यादा पुरुषोत्तम’ कहलाए।",
+      "en": "Shri Ram was born in Ayodhya. He walked the path of truth and dharma so he is called ‘Maryada Purushottam’."
+     },
+     "shot": {
+      "who": [
+       "ram"
+      ],
+      "setting": "Ayodhya palace",
+      "action": "baby Ram in Kaushalya's lap with Dasharath",
+      "expression": "joyful",
+      "camera": "medium warm shot"
+     }
+    },
+    {
+     "id": 2,
+     "text": {
+      "gu": "પિતાના વચન માટે રામ વનમાં ગયા અને ત્યાં રાવણને હરાવી સીતાજીને પાછા લાવ્યા.",
+      "hi": "पिता के वचन के लिए राम वन गए और वहाँ रावण को हराकर सीता जी को वापस लाए।",
+      "en": "For his father's word Ram went to the forest and defeated Ravan and brought Sita back."
+     },
+     "shot": {
+      "who": [
+       "ram",
+       "sita",
+       "laxman"
+      ],
+      "setting": "a forest road",
+      "action": "Ram, Sita and Laxman walking in the forest calmly",
+      "expression": "calm",
+      "camera": "wide shot"
+     }
+    },
+    {
+     "id": 3,
+     "text": {
+      "gu": "ચૌદ વર્ષ પછી અયોધ્યા પાછા ફર્યા અને રામરાજ્ય સ્થાપ્યું. એ યાદમાં આપણે દિવાળી ઊજવીએ છીએ.",
+      "hi": "चौदह वर्ष बाद अयोध्या लौटकर रामराज्य स्थापित किया। उसी की याद में हम दीवाली मनाते हैं।",
+      "en": "After fourteen years he returned to Ayodhya and established Ramrajya. In its memory we celebrate Diwali."
+     },
+     "shot": {
+      "who": [
+       "ram",
+       "sita",
+       "laxman",
+       "hanuman"
+      ],
+      "setting": "Ayodhya with diyas",
+      "action": "Ram on the throne with family and Hanuman",
+      "expression": "joyful",
+      "camera": "wide festive shot"
+     }
+    }
+   ],
+   "lesson": {
+    "gu": "શ્રીરામ શીખવે છે: સત્ય બોલો, વચન નિભાવો અને બધા સાથે પ્રેમથી વર્તો.",
+    "hi": "श्रीराम सिखाते हैं: सत्य बोलो, वचन निभाओ और सबसे प्रेम से व्यवहार करो।",
+    "en": "Shri Ram teaches us: speak truth, keep your word and treat all with love."
+   }
+  },
+  {
+   "id": "krishna",
+   "char": "krishna",
+   "order": 8,
+   "yuga": {
+    "gu": "દ્વાપરયુગ",
+    "hi": "द्वापरयुग",
+    "en": "Dwapar Yuga"
+   },
+   "form": {
+    "gu": "ગોવાળ, સારથિ",
+    "hi": "ग्वाला, सारथी",
+    "en": "Cowherd and charioteer"
+   },
+   "scenes": [
+    {
+     "id": 1,
+     "text": {
+      "gu": "મથુરામાં જન્મ્યા અને ગોકુળમાં ઉછર્યા. માખણચોર કાન્હા બધાનો પ્રિય હતો.",
+      "hi": "मथुरा में जन्मे और गोकुल में पले। माखनचोर कान्हा सबका प्रिय था।",
+      "en": "Born in Mathura and raised in Gokul, the butter-loving Kanha was everyone's favourite."
+     },
+     "shot": {
+      "who": [
+       "krishna"
+      ],
+      "setting": "a Gokul village",
+      "action": "little Krishna with a pot of butter, laughing",
+      "expression": "naughty",
+      "camera": "medium cheerful shot"
+     }
+    },
+    {
+     "id": 2,
+     "text": {
+      "gu": "કૃષ્ણે ગોવર્ધન પર્વત ઊંચકી ગામવાસીઓને વરસાદથી બચાવ્યા. વાંસળીથી બધાને મોહિત કર્યા.",
+      "hi": "कृष्ण ने गोवर्धन पर्वत उठाकर गाँववालों को वर्षा से बचाया। बाँसुरी से सबको मोहित किया।",
+      "en": "Krishna lifted Mount Govardhan to protect villagers from rain. He charmed everyone with his flute."
+     },
+     "shot": {
+      "who": [
+       "krishna"
+      ],
+      "setting": "a rainy hill",
+      "action": "Krishna holds the hill on his little finger as villagers shelter under it",
+      "expression": "calm",
+      "camera": "wide shot"
+     }
+    },
+    {
+     "id": 3,
+     "text": {
+      "gu": "મહાભારતમાં કૃષ્ણ અર્જુનના સારથિ બન્યા અને તેને ગીતાનો ઉપદેશ આપ્યો — કર્મ કરો, ફળની ચિંતા ન કરો.",
+      "hi": "महाभारत में कृष्ण अर्जुन के सारथी बने और उसे गीता का उपदेश दिया — कर्म करो, फल की चिंता न करो।",
+      "en": "In the Mahabharata Krishna became Arjun's charioteer and taught him the Gita — do your duty without worrying about the fruit."
+     },
+     "shot": {
+      "who": [
+       "krishna",
+       "arjun"
+      ],
+      "setting": "a golden chariot at dawn",
+      "action": "Krishna holds reins and speaks calmly to Arjun",
+      "expression": "wise",
+      "camera": "medium shot"
+     }
+    }
+   ],
+   "lesson": {
+    "gu": "શ્રીકૃષ્ણ શીખવે છે: કર્મ કરો, ફળની ચિંતા ન કરો અને હંમેશાં ખુશ રહો.",
+    "hi": "श्रीकृष्ण सिखाते हैं: कर्म करो, फल की चिंता मत करो और सदा प्रसन्न रहो।",
+    "en": "Shri Krishna teaches us: do your duty, don't worry about results and stay cheerful."
+   }
+  },
+  {
+   "id": "buddha",
+   "char": "buddha",
+   "order": 9,
+   "yuga": {
+    "gu": "કલિયુગની શરૂઆતમાં (માન્યતા મુજબ)",
+    "hi": "कलियुग के आरंभ में (मान्यता अनुसार)",
+    "en": "Early Kali Yuga (according to tradition)"
+   },
+   "form": {
+    "gu": "શાંત સાધુ",
+    "hi": "शांत साधु",
+    "en": "A peaceful monk"
+   },
+   "scenes": [
+    {
+     "id": 1,
+     "text": {
+      "gu": "પરંપરા મુજબ બુદ્ધને વિષ્ણુનો નવમો અવતાર માનવામાં આવે છે. તેઓ રાજકુમાર હતા પણ સંસારનાં દુઃખ જોઈ ચિંતિત થયા.",
+      "hi": "परंपरा के अनुसार बुद्ध को विष्णु का नौवाँ अवतार माना जाता है। वे राजकुमार थे पर संसार के दुःख देखकर चिंतित हुए।",
+      "en": "According to tradition Buddha is considered Vishnu's ninth avatar. He was a prince but grew thoughtful on seeing the world's sorrows."
+     },
+     "shot": {
+      "who": [
+       "buddha"
+      ],
+      "setting": "a palace garden at dawn",
+      "action": "young prince Buddha looks at a distant road thoughtfully",
+      "expression": "thoughtful",
+      "camera": "medium shot"
+     }
+    },
+    {
+     "id": 2,
+     "text": {
+      "gu": "તેમણે ધ્યાન કરી જ્ઞાન મેળવ્યું અને લોકોને અહિંસા, કરુણા અને શાંતિનો માર્ગ બતાવ્યો.",
+      "hi": "उन्होंने ध्यान करके ज्ञान पाया और लोगों को अहिंसा, करुणा और शांति का मार्ग बताया।",
+      "en": "He gained enlightenment through meditation and showed people the way of non-violence, compassion and peace."
+     },
+     "shot": {
+      "who": [
+       "buddha"
+      ],
+      "setting": "a bodhi tree at dawn",
+      "action": "Buddha meditates peacefully under a bodhi tree",
+      "expression": "serene",
+      "camera": "wide shot"
+     }
+    },
+    {
+     "id": 3,
+     "text": {
+      "gu": "બુદ્ધનો સંદેશ ભારતથી આખા એશિયામાં ફેલાયો. કરુણા અને શાંતિ આજે પણ બધા માટે જરૂરી છે.",
+      "hi": "बुद्ध का संदेश भारत से पूरे एशिया में फैला। करुणा और शांति आज भी सबके लिए आवश्यक हैं।",
+      "en": "Buddha's message spread from India across Asia. Compassion and peace are still needed by all."
+     },
+     "shot": {
+      "who": [
+       "buddha"
+      ],
+      "setting": "a hillside monastery",
+      "action": "monks and children sit with palms together in peace",
+      "expression": "peaceful",
+      "camera": "wide shot"
+     }
+    }
+   ],
+   "lesson": {
+    "gu": "બુદ્ધ શીખવે છે: કરુણા રાખો, હિંસા ન કરો અને શાંત રહો.",
+    "hi": "बुद्ध सिखाते हैं: करुणा रखो, हिंसा मत करो और शांत रहो।",
+    "en": "Buddha teaches us: be compassionate, avoid violence and stay calm."
+   }
+  },
+  {
+   "id": "kalki",
+   "char": "kalki",
+   "order": 10,
+   "yuga": {
+    "gu": "કલિયુગના અંતે (ભવિષ્યમાં)",
+    "hi": "कलियुग के अंत में (भविष्य में)",
+    "en": "End of Kali Yuga (in the future)"
+   },
+   "form": {
+    "gu": "સફેદ ઘોડા પર સવાર",
+    "hi": "श्वेत अश्व पर सवार",
+    "en": "Riding a white horse"
+   },
+   "scenes": [
+    {
+     "id": 1,
+     "text": {
+      "gu": "પુરાણો કહે છે કે કલિયુગના અંતે જ્યારે અધર્મ બહુ વધશે ત્યારે ભગવાન વિષ્ણુ કલ્કિ રૂપે આવશે.",
+      "hi": "पुराण कहते हैं कि कलियुग के अंत में जब अधर्म बहुत बढ़ेगा तब भगवान विष्णु कल्कि रूप में आएँगे।",
+      "en": "The Puranas say that at the end of Kali Yuga, when adharma grows too much, Lord Vishnu will come as Kalki."
+     },
+     "shot": {
+      "who": [
+       "kalki"
+      ],
+      "setting": "a calm future sky at dawn",
+      "action": "a bright vision of Kalki on a white horse appears above hills",
+      "expression": "hopeful",
+      "camera": "wide shot"
+     }
+    },
+    {
+     "id": 2,
+     "text": {
+      "gu": "તેઓ સફેદ ઘોડા પર સવાર થશે અને હાથમાં તેજસ્વી તલવાર હશે. તેઓ અસત્યનો નાશ કરી સત્યને સ્થાપિત કરશે.",
+      "hi": "वे श्वेत अश्व पर सवार होंगे और हाथ में तेजस्वी तलवार होगी। वे असत्य का नाश कर सत्य की स्थापना करेंगे।",
+      "en": "He will ride a white horse with a shining sword in hand. He will end untruth and establish truth."
+     },
+     "shot": {
+      "who": [
+       "kalki"
+      ],
+      "setting": "a golden dawn",
+      "action": "Kalki rides a white horse across a bright field",
+      "expression": "calm strength",
+      "camera": "wide shot"
+     }
+    },
+    {
+     "id": 3,
+     "text": {
+      "gu": "ત્યારે ફરી સત્યયુગ શરૂ થશે. આ કથા આપણને આશા આપે છે કે અંતે સત્યની જીત થાય છે.",
+      "hi": "तब फिर सत्ययुग आरंभ होगा। यह कथा हमें आशा देती है कि अंत में सत्य की जीत होती है।",
+      "en": "Then Satya Yuga will begin again. This story gives hope that truth wins in the end."
+     },
+     "shot": {
+      "who": [
+       "kalki"
+      ],
+      "setting": "a blooming landscape",
+      "action": "a peaceful world with children playing and flowers everywhere",
+      "expression": "joyful",
+      "camera": "wide shot"
+     }
+    }
+   ],
+   "lesson": {
+    "gu": "કલ્કિ અવતાર શીખવે છે: સત્યમાં વિશ્વાસ રાખો, આશા ન છોડો.",
+    "hi": "कल्कि अवतार सिखाता है: सत्य में विश्वास रखो, आशा मत छोड़ो।",
+    "en": "Kalki teaches us: have faith in truth and never lose hope."
+   }
+  }
+ ]
+}

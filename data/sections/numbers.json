@@ -1,0 +1,303 @@
+{
+ "items": [
+  {
+   "id": "n1",
+   "n": 1,
+   "names": {
+    "gu": "એક",
+    "hi": "एक",
+    "en": "One"
+   },
+   "stands": {
+    "gu": "ઈશ્વર એક છે",
+    "hi": "ईश्वर एक हैं",
+    "en": "God is One"
+   },
+   "text": {
+    "gu": "એક ઈશ્વર સૌનું ધ્યાન રાખે છે. એક સૂર્ય આખી દુનિયાને પ્રકાશ આપે છે, અને એક મનથી કરેલું કામ સફળ થાય છે.",
+    "hi": "एक ईश्वर सबका ध्यान रखते हैं। एक सूर्य पूरी दुनिया को प्रकाश देता है, और एक मन से किया काम सफल होता है।",
+    "en": "One God looks after everyone. One Sun lights the whole world, and work done with one focused mind succeeds."
+   },
+   "shot": {
+    "subject": "a single glowing diya with a big number 1 shape formed by its flame",
+    "setting": "a calm dark background with a soft golden halo"
+   }
+  },
+  {
+   "id": "n2",
+   "n": 2,
+   "names": {
+    "gu": "બે",
+    "hi": "दो",
+    "en": "Two"
+   },
+   "stands": {
+    "gu": "જોડી: સીતા-રામ, રાધા-કૃષ્ણ",
+    "hi": "जोड़ी: सीता-राम, राधा-कृष्ण",
+    "en": "Pairs: Sita-Ram, Radha-Krishna"
+   },
+   "text": {
+    "gu": "બે હાથ જોડીને નમસ્તે કરીએ છીએ. સીતા-રામ અને રાધા-કૃષ્ણ જેવી જોડીઓ પ્રેમ અને સાથનું પ્રતીક છે.",
+    "hi": "दो हाथ जोड़कर हम नमस्ते करते हैं। सीता-राम और राधा-कृष्ण जैसी जोड़ियाँ प्रेम और साथ का प्रतीक हैं।",
+    "en": "We greet with two folded hands. Pairs like Sita-Ram and Radha-Krishna stand for love and togetherness."
+   },
+   "shot": {
+    "subject": "two small hands folded in namaste with two flower buds",
+    "setting": "a soft pink and cream background"
+   }
+  },
+  {
+   "id": "n3",
+   "n": 3,
+   "names": {
+    "gu": "ત્રણ",
+    "hi": "तीन",
+    "en": "Three"
+   },
+   "stands": {
+    "gu": "ત્રિમૂર્તિ: બ્રહ્મા, વિષ્ણુ, મહેશ",
+    "hi": "त्रिमूर्ति: ब्रह्मा, विष्णु, महेश",
+    "en": "Trimurti: Brahma, Vishnu, Mahesh"
+   },
+   "text": {
+    "gu": "ભગવાનના ત્રણ રૂપો છે: બ્રહ્મા સર્જન કરે, વિષ્ણુ પાલન કરે અને મહેશ (શિવ) પરિવર્તન કરે છે.",
+    "hi": "भगवान के तीन रूप हैं: ब्रह्मा सृजन करते हैं, विष्णु पालन करते हैं और महेश (शिव) परिवर्तन करते हैं।",
+    "en": "God has three forms: Brahma creates, Vishnu preserves and Mahesh (Shiva) transforms."
+   },
+   "shot": {
+    "subject": "three glowing lotuses of different colours in a row",
+    "setting": "a gentle blue-gold sky"
+   }
+  },
+  {
+   "id": "n4",
+   "n": 4,
+   "names": {
+    "gu": "ચાર",
+    "hi": "चार",
+    "en": "Four"
+   },
+   "stands": {
+    "gu": "ચાર વેદ",
+    "hi": "चार वेद",
+    "en": "The four Vedas"
+   },
+   "text": {
+    "gu": "ઋગ્વેદ, યજુર્વેદ, સામવેદ અને અથર્વવેદ — આ ચાર વેદ જ્ઞાનનો ભંડાર છે.",
+    "hi": "ऋग्वेद, यजुर्वेद, सामवेद और अथर्ववेद — ये चार वेद ज्ञान का भंडार हैं।",
+    "en": "Rigveda, Yajurveda, Samaveda and Atharvaveda — the four Vedas are a treasure of knowledge."
+   },
+   "shot": {
+    "subject": "four palm-leaf books tied with threads of four colours",
+    "setting": "a warm sandalwood background"
+   }
+  },
+  {
+   "id": "n5",
+   "n": 5,
+   "names": {
+    "gu": "પાંચ",
+    "hi": "पाँच",
+    "en": "Five"
+   },
+   "stands": {
+    "gu": "પાંચ પાંડવ, પંચ તત્વ",
+    "hi": "पाँच पांडव, पंच तत्व",
+    "en": "Five Pandavas, five elements"
+   },
+   "text": {
+    "gu": "યુધિષ્ઠિર, ભીમ, અર્જુન, નકુલ અને સહદેવ — પાંચ પાંડવો. પૃથ્વી, જળ, અગ્નિ, વાયુ અને આકાશ — પાંચ તત્વો.",
+    "hi": "युधिष्ठिर, भीम, अर्जुन, नकुल और सहदेव — पाँच पांडव। पृथ्वी, जल, अग्नि, वायु और आकाश — पाँच तत्व।",
+    "en": "Yudhishthira, Bhima, Arjun, Nakul and Sahadev are the five Pandavas. Earth, water, fire, air and sky are the five elements."
+   },
+   "shot": {
+    "subject": "five small symbols in a ring: leaf, water drop, flame, wind swirl, star",
+    "setting": "a calm earthy background"
+   }
+  },
+  {
+   "id": "n6",
+   "n": 6,
+   "names": {
+    "gu": "છ",
+    "hi": "छह",
+    "en": "Six"
+   },
+   "stands": {
+    "gu": "છ ઋતુઓ",
+    "hi": "छह ऋतुएँ",
+    "en": "Six seasons"
+   },
+   "text": {
+    "gu": "વસંત, ગ્રીષ્મ, વર્ષા, શરદ, હેમંત અને શિશિર — છ ઋતુઓ આપણને કુદરતની ભેટ આપે છે.",
+    "hi": "वसंत, ग्रीष्म, वर्षा, शरद, हेमंत और शिशिर — छह ऋतुएँ हमें प्रकृति का उपहार देती हैं।",
+    "en": "Spring, summer, monsoon, autumn, early winter and winter — six seasons are nature's gift."
+   },
+   "shot": {
+    "subject": "six small scene medallions of flowers, sun, rain, harvest, mist and snow",
+    "setting": "a bright colourful background"
+   }
+  },
+  {
+   "id": "n7",
+   "n": 7,
+   "names": {
+    "gu": "સાત",
+    "hi": "सात",
+    "en": "Seven"
+   },
+   "stands": {
+    "gu": "સપ્તર્ષિ, સાત સૂર, સપ્ત નદી",
+    "hi": "सप्तर्षि, सात सुर, सप्त नदी",
+    "en": "Seven sages, seven notes, seven rivers"
+   },
+   "text": {
+    "gu": "સાત ઋષિઓ આકાશમાં સપ્તર્ષિ તારા-સમૂહ તરીકે ચમકે છે. સંગીતમાં સાત સૂર છે: સા રે ગ મ પ ધ ની.",
+    "hi": "सात ऋषि आकाश में सप्तर्षि तारा-समूह बनकर चमकते हैं। संगीत में सात सुर हैं: सा रे ग म प ध नी।",
+    "en": "Seven sages shine in the sky as the Saptarishi star group. Music has seven notes: Sa Re Ga Ma Pa Dha Ni."
+   },
+   "shot": {
+    "subject": "seven glowing stars forming a gentle ladle shape",
+    "setting": "a deep blue night sky"
+   }
+  },
+  {
+   "id": "n8",
+   "n": 8,
+   "names": {
+    "gu": "આઠ",
+    "hi": "आठ",
+    "en": "Eight"
+   },
+   "stands": {
+    "gu": "અષ્ટલક્ષ્મી",
+    "hi": "अष्टलक्ष्मी",
+    "en": "Ashtalakshmi"
+   },
+   "text": {
+    "gu": "લક્ષ્મીજીનાં આઠ રૂપ છે, જે ધન, ધાન્ય, હિંમત, જ્ઞાન, સંતાન, વિજય, કૃપા અને શક્તિ આપે છે.",
+    "hi": "लक्ष्मी जी के आठ रूप हैं, जो धन, धान्य, साहस, ज्ञान, संतान, विजय, कृपा और शक्ति देते हैं।",
+    "en": "Lakshmi has eight forms that give wealth, grain, courage, knowledge, children, victory, grace and strength."
+   },
+   "shot": {
+    "subject": "an eight-petalled lotus glowing in gold",
+    "setting": "a soft golden background"
+   }
+  },
+  {
+   "id": "n9",
+   "n": 9,
+   "names": {
+    "gu": "નવ",
+    "hi": "नौ",
+    "en": "Nine"
+   },
+   "stands": {
+    "gu": "નવરાત્રિ, નવ દુર્ગા",
+    "hi": "नवरात्रि, नवदुर्गा",
+    "en": "Navratri, Navdurga"
+   },
+   "text": {
+    "gu": "નવ રાત્રિ સુધી માતા દુર્ગાનાં નવ રૂપોની પૂજા થાય છે અને ગરબા રમાય છે.",
+    "hi": "नौ रातों तक माँ दुर्गा के नौ रूपों की पूजा होती है और गरबा खेला जाता है।",
+    "en": "For nine nights the nine forms of Goddess Durga are worshipped and garba is danced."
+   },
+   "shot": {
+    "subject": "nine small diyas in a circle with a garba pot (garbo) at the centre",
+    "setting": "a festive red-orange background"
+   }
+  },
+  {
+   "id": "n10",
+   "n": 10,
+   "names": {
+    "gu": "દસ",
+    "hi": "दस",
+    "en": "Ten"
+   },
+   "stands": {
+    "gu": "દશાવતાર, દશેરા, દસ દિશા",
+    "hi": "दशावतार, दशहरा, दस दिशाएँ",
+    "en": "Dashavatar, Dussehra, ten directions"
+   },
+   "text": {
+    "gu": "ભગવાન વિષ્ણુના દસ અવતાર છે. દશેરાએ સત્યની જીત ઊજવાય છે. દસ દિશાઓ આપણને ચારે તરફ જોવાનું શીખવે છે.",
+    "hi": "भगवान विष्णु के दस अवतार हैं। दशहरे पर सत्य की जीत मनाई जाती है। दस दिशाएँ हमें चारों ओर देखना सिखाती हैं।",
+    "en": "Lord Vishnu has ten avatars. Dussehra celebrates the victory of truth. Ten directions teach us to look all around."
+   },
+   "shot": {
+    "subject": "ten tiny lotus petals arranged like a wheel",
+    "setting": "a bright sunrise background"
+   }
+  },
+  {
+   "id": "n12",
+   "n": 12,
+   "names": {
+    "gu": "બાર",
+    "hi": "बारह",
+    "en": "Twelve"
+   },
+   "stands": {
+    "gu": "બાર જ્યોતિર્લિંગ, બાર રાશિ",
+    "hi": "बारह ज्योतिर्लिंग, बारह राशि",
+    "en": "Twelve Jyotirlingas, twelve rashis"
+   },
+   "text": {
+    "gu": "શિવજીનાં બાર પવિત્ર જ્યોતિર્લિંગ ભારતમાં છે, જેમ કે સોમનાથ અને કેદારનાથ. વર્ષમાં બાર મહિના પણ છે.",
+    "hi": "शिव जी के बारह पवित्र ज्योतिर्लिंग भारत में हैं, जैसे सोमनाथ और केदारनाथ। वर्ष में बारह महीने भी हैं।",
+    "en": "The twelve holy Jyotirlingas of Shiva are in India, such as Somnath and Kedarnath. A year also has twelve months."
+   },
+   "shot": {
+    "subject": "twelve small glowing Shivlings arranged in a ring",
+    "setting": "a soft indigo background"
+   }
+  },
+  {
+   "id": "n18",
+   "n": 18,
+   "names": {
+    "gu": "અઢાર",
+    "hi": "अठारह",
+    "en": "Eighteen"
+   },
+   "stands": {
+    "gu": "ગીતાના 18 અધ્યાય, 18 પુરાણ",
+    "hi": "गीता के 18 अध्याय, 18 पुराण",
+    "en": "18 chapters of the Gita, 18 Puranas"
+   },
+   "text": {
+    "gu": "ભગવદ્ગીતામાં 18 અધ્યાય છે. 18 મુખ્ય પુરાણ પણ છે, જે સારી વાર્તાઓ અને જ્ઞાન આપે છે.",
+    "hi": "भगवद्गीता में 18 अध्याय हैं। 18 मुख्य पुराण भी हैं, जो अच्छी कथाएँ और ज्ञान देते हैं।",
+    "en": "The Bhagavad Gita has 18 chapters. There are also 18 main Puranas that give good stories and wisdom."
+   },
+   "shot": {
+    "subject": "an open Gita book with a small peacock feather on it",
+    "setting": "a warm saffron background"
+   }
+  },
+  {
+   "id": "n108",
+   "n": 108,
+   "names": {
+    "gu": "એકસો આઠ",
+    "hi": "एक सौ आठ",
+    "en": "One hundred eight"
+   },
+   "stands": {
+    "gu": "જપમાળાના 108 મણકા",
+    "hi": "जपमाला के 108 मनके",
+    "en": "108 beads of the japa mala"
+   },
+   "text": {
+    "gu": "જપમાળામાં 108 મણકા હોય છે. તે ગણીને આપણે ભગવાનનું નામ ધ્યાનથી લઈએ છીએ.",
+    "hi": "जपमाला में 108 मनके होते हैं। उन्हें गिनकर हम ध्यान से भगवान का नाम लेते हैं।",
+    "en": "A japa mala has 108 beads. Counting them, we chant God's name with focus."
+   },
+   "shot": {
+    "subject": "a rudraksh japa mala forming a circle",
+    "setting": "a quiet calm background"
+   }
+  }
+ ]
+}

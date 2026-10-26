@@ -1,0 +1,621 @@
+{
+ "items": [
+  {
+   "letter": "અ",
+   "char": "agni",
+   "text": {
+    "gu": "અગ્નિ પવિત્ર છે. દીવા અને યજ્ઞમાં અગ્નિની પૂજા થાય છે. તે અંધારું દૂર કરી પ્રકાશ આપે છે.",
+    "hi": "अग्नि पवित्र है। दीपक और यज्ञ में अग्नि की पूजा होती है। वह अंधेरा दूर कर प्रकाश देती है।",
+    "en": "Agni, the sacred fire, is honoured in the lamp and in yajna. It removes darkness and gives light."
+   },
+   "shot": {
+    "subject": "a calm sacred fire with golden flames rising from a brass fire-pit",
+    "setting": "a simple yajna ground at dawn with flowers and a ghee pot"
+   }
+  },
+  {
+   "letter": "આ",
+   "char": "aarti",
+   "text": {
+    "gu": "આરતીમાં દીવો ફેરવીને ભગવાનને યાદ કરીએ છીએ. ઘંટડી વાગે છે અને બધા સાથે ગાય છે.",
+    "hi": "आरती में दीपक घुमाकर हम भगवान को याद करते हैं। घंटी बजती है और सब साथ गाते हैं।",
+    "en": "In aarti we wave a lamp and remember God. A bell rings and everyone sings together."
+   },
+   "shot": {
+    "subject": "a hand waving a lit aarti plate with a diya, flowers and incense",
+    "setting": "a cosy home temple corner in the evening"
+   }
+  },
+  {
+   "letter": "ઇ",
+   "char": "ikshvaku",
+   "text": {
+    "gu": "રાજા ઇક્ષ્વાકુ સૂર્યવંશના પહેલા રાજા હતા. શ્રીરામ આ જ વંશમાં જન્મ્યા હતા.",
+    "hi": "राजा इक्ष्वाकु सूर्यवंश के पहले राजा थे। श्रीराम इसी वंश में जन्मे थे।",
+    "en": "King Ikshvaku was the first king of the Surya dynasty. Shri Ram was born in this same family."
+   },
+   "shot": {
+    "subject": "a kind ancient king in a golden crown with a sun symbol on his chest",
+    "setting": "a royal garden with a glowing sun rising behind a palace"
+   }
+  },
+  {
+   "letter": "ઈ",
+   "char": "ishwar",
+   "text": {
+    "gu": "ઈશ્વર એટલે ભગવાન. તે બધે છે અને બધાની રક્ષા કરે છે. આપણે રોજ તેમનો આભાર માનીએ છીએ.",
+    "hi": "ईश्वर यानी भगवान। वे हर जगह हैं और सबकी रक्षा करते हैं। हम रोज़ उनका आभार मानते हैं।",
+    "en": "Ishwar means God. God is everywhere and protects everyone. We thank God every day."
+   },
+   "shot": {
+    "subject": "a child with folded hands looking up at a soft golden light with a glowing Om above",
+    "setting": "a sunrise hill with clouds and a small temple"
+   }
+  },
+  {
+   "letter": "ઉ",
+   "char": "upanishad",
+   "text": {
+    "gu": "ઉપનિષદ ઋષિઓએ આપેલા જ્ઞાનના ગ્રંથો છે. ગુરુ પાસે બેસીને શીખવાથી જ્ઞાન મળે છે.",
+    "hi": "उपनिषद ऋषियों द्वारा दिए गए ज्ञान के ग्रंथ हैं। गुरु के पास बैठकर सीखने से ज्ञान मिलता है।",
+    "en": "The Upanishads are books of wisdom given by sages. We gain knowledge by sitting near a teacher and learning."
+   },
+   "shot": {
+    "subject": "a sage teaching two children under a banyan tree with palm-leaf books",
+    "setting": "a forest ashram with a quiet stream"
+   }
+  },
+  {
+   "letter": "ઊ",
+   "char": "urmila",
+   "text": {
+    "gu": "ઊર્મિલા લક્ષ્મણજીનાં પત્ની હતાં. તેમણે ધીરજથી પતિની રાહ જોઈ અને ત્યાગ કર્યો.",
+    "hi": "ऊर्मिला लक्ष्मण जी की पत्नी थीं। उन्होंने धैर्य से पति की प्रतीक्षा की और त्याग किया।",
+    "en": "Urmila was Laxman's wife. She waited patiently for her husband and made a great sacrifice."
+   },
+   "shot": {
+    "subject": "a gentle queen in a green saree sitting by a window with a lit lamp",
+    "setting": "a palace room in Ayodhya at night with soft lamp light"
+   }
+  },
+  {
+   "letter": "ઋ",
+   "char": "rishi",
+   "text": {
+    "gu": "ઋષિ એટલે જ્ઞાની સંત. તેઓ વનમાં રહે છે, ધ્યાન કરે છે અને બધાને સારું શીખવે છે.",
+    "hi": "ऋषि यानी ज्ञानी संत। वे वन में रहते हैं, ध्यान करते हैं और सबको अच्छी बातें सिखाते हैं।",
+    "en": "A rishi is a wise sage. Rishis live in the forest, meditate and teach everyone good things."
+   },
+   "shot": {
+    "subject": "an elderly sage with white beard sitting in meditation with a glow around him",
+    "setting": "a green forest hermitage with deer nearby"
+   }
+  },
+  {
+   "letter": "એ",
+   "char": "ekadashi",
+   "text": {
+    "gu": "એકાદશી પંદર દિવસે આવે છે. લોકો ઉપવાસ કરીને ભગવાન વિષ્ણુનું ભજન કરે છે.",
+    "hi": "एकादशी पंद्रह दिन में आती है। लोग व्रत रखकर भगवान विष्णु का भजन करते हैं।",
+    "en": "Ekadashi comes every fortnight. People fast lightly and sing bhajans for Lord Vishnu."
+   },
+   "shot": {
+    "subject": "a small Vishnu idol with a tulsi leaf, a lamp and a plate of fruit",
+    "setting": "a clean puja room with morning light"
+   }
+  },
+  {
+   "letter": "ઐ",
+   "char": "airavat",
+   "text": {
+    "gu": "ઐરાવત ઇન્દ્રદેવનો સફેદ હાથી છે. તે ચાર દાંતવાળો અને ખૂબ શક્તિશાળી છે.",
+    "hi": "ऐरावत इन्द्र देव का सफ़ेद हाथी है। वह चार दाँतों वाला और बहुत शक्तिशाली है।",
+    "en": "Airavat is the white elephant of Lord Indra. He is very strong and has four tusks."
+   },
+   "shot": {
+    "subject": "a gentle large white elephant with four tusks and golden decorations",
+    "setting": "soft white clouds in the heavens at sunrise"
+   }
+  },
+  {
+   "letter": "ઓ",
+   "char": "omkareshwar",
+   "text": {
+    "gu": "ઓમકારેશ્વર નર્મદા કિનારે આવેલું શિવજીનું પવિત્ર સ્થાન છે. ટેકરી ‘ઓમ’ જેવી દેખાય છે.",
+    "hi": "ओंकारेश्वर नर्मदा किनारे शिव जी का पवित्र स्थान है। पहाड़ी ‘ॐ’ के आकार की दिखती है।",
+    "en": "Omkareshwar is a holy place of Lord Shiva on the Narmada. The hill looks like the shape of ‘Om’."
+   },
+   "shot": {
+    "subject": "an island hill shaped like Om with a temple on top",
+    "setting": "the Narmada river at sunrise with boats"
+   }
+  },
+  {
+   "letter": "ઔ",
+   "char": "aushadhi",
+   "text": {
+    "gu": "ઔષધિ એટલે દવા આપતા છોડ, જેમ કે તુલસી અને હળદર. ઋષિઓ તેમને જાણતા હતા.",
+    "hi": "औषधि यानी दवा देने वाले पौधे, जैसे तुलसी और हल्दी। ऋषि इन्हें जानते थे।",
+    "en": "Aushadhi means healing herbs like tulsi and turmeric. The sages knew them well."
+   },
+   "shot": {
+    "subject": "a basket of healing herbs, turmeric roots and tulsi leaves",
+    "setting": "a sunny herb garden near a hut"
+   }
+  },
+  {
+   "letter": "અં",
+   "char": "anjani",
+   "text": {
+    "gu": "અંજની માતા હનુમાનજીનાં માતા છે. તેમણે ખૂબ પ્રેમથી હનુમાનને ઉછેર્યા.",
+    "hi": "अंजनी माता हनुमान जी की माँ हैं। उन्होंने बहुत प्रेम से हनुमान जी को पाला।",
+    "en": "Mother Anjani is the mother of Hanuman. She raised him with great love."
+   },
+   "shot": {
+    "subject": "a loving mother with a baby Hanuman in her arms",
+    "setting": "a mountain cave garden with flowers and soft sunlight"
+   }
+  },
+  {
+   "letter": "અઃ",
+   "char": "shanti_mantra",
+   "text": {
+    "gu": "‘શાંતિઃ’ શબ્દના અંતે અઃ આવે છે. પૂજા પછી ત્રણ વાર ‘ઓમ શાંતિઃ શાંતિઃ શાંતિઃ’ બોલીને શાંતિની પ્રાર્થના કરીએ છીએ.",
+    "hi": "‘शान्तिः’ शब्द के अंत में अः आता है। पूजा के बाद तीन बार ‘ॐ शान्तिः शान्तिः शान्तिः’ बोलकर शांति की प्रार्थना करते हैं।",
+    "en": "The word ‘Shantih’ ends with the sound ‘ah’. After puja we say ‘Om Shantih Shantih Shantih’ three times, praying for peace."
+   },
+   "shot": {
+    "subject": "a child with folded hands and eyes closed, a soft white dove and a faint Om",
+    "setting": "a quiet garden at sunrise"
+   },
+   "exempt": true,
+   "why": "No Gujarati word begins with અઃ; it appears at the end of words, so શાંતિઃ shows where it is used."
+  },
+  {
+   "letter": "ક",
+   "char": "kamal",
+   "text": {
+    "gu": "કમળ કાદવમાં ઊગે છે પણ સ્વચ્છ રહે છે. તે સુંદરતા અને પવિત્રતાની નિશાની છે.",
+    "hi": "कमल कीचड़ में उगता है पर स्वच्छ रहता है। यह सुंदरता और पवित्रता की निशानी है।",
+    "en": "The lotus grows in mud but stays clean. It is a sign of beauty and purity."
+   },
+   "shot": {
+    "subject": "a bright pink lotus flower with a green leaf and a water drop",
+    "setting": "a calm pond at sunrise"
+   }
+  },
+  {
+   "letter": "ખ",
+   "char": "khadau",
+   "text": {
+    "gu": "ખડાઉ લાકડાના પગરખાં છે. ભરતજીએ રામની ખડાઉ સિંહાસન પર મૂકી રાજ્ય ચલાવ્યું.",
+    "hi": "खड़ाऊँ लकड़ी की पादुकाएँ हैं। भरत जी ने राम की खड़ाऊँ सिंहासन पर रखकर राज्य चलाया।",
+    "en": "Khadau are wooden sandals. Bharat placed Ram's sandals on the throne and ruled in his name."
+   },
+   "shot": {
+    "subject": "a pair of wooden sandals on a velvet cushion with flower garlands",
+    "setting": "a royal throne in a palace hall"
+   }
+  },
+  {
+   "letter": "ગ",
+   "char": "gaay",
+   "text": {
+    "gu": "ગાય આપણી માતા જેવી છે. તે દૂધ આપે છે અને આપણે તેની સેવા અને રક્ષા કરીએ છીએ.",
+    "hi": "गाय हमारी माता जैसी है। वह दूध देती है और हम उसकी सेवा और रक्षा करते हैं।",
+    "en": "The cow is like our mother. She gives milk and we serve and protect her."
+   },
+   "shot": {
+    "subject": "a gentle cow with a garland and a calf",
+    "setting": "a village field at sunrise"
+   }
+  },
+  {
+   "letter": "ઘ",
+   "char": "ghant",
+   "text": {
+    "gu": "મંદિરનો ઘંટ વાગે ત્યારે મન શાંત થાય છે. ઘંટનો અવાજ સારા વિચારો જગાડે છે.",
+    "hi": "मंदिर की घंटी बजती है तो मन शांत होता है। घंटे की आवाज़ अच्छे विचार जगाती है।",
+    "en": "When the temple bell rings, the mind becomes calm. Its sound awakens good thoughts."
+   },
+   "shot": {
+    "subject": "a large brass temple bell with a hanging rope",
+    "setting": "the temple entrance at sunrise"
+   }
+  },
+  {
+   "letter": "ચ",
+   "char": "chakra",
+   "text": {
+    "gu": "સુદર્શન ચક્ર ભગવાન વિષ્ણુ અને શ્રીકૃષ્ણનું શસ્ત્ર છે. તે અધર્મથી રક્ષણ આપે છે.",
+    "hi": "सुदर्शन चक्र भगवान विष्णु और श्रीकृष्ण का शस्त्र है। यह अधर्म से रक्षा करता है।",
+    "en": "The Sudarshan Chakra is the discus of Lord Vishnu and Shri Krishna. It protects against adharma."
+   },
+   "shot": {
+    "subject": "a glowing golden spinning Sudarshan Chakra",
+    "setting": "a calm blue sky with soft clouds"
+   }
+  },
+  {
+   "letter": "છ",
+   "char": "shivaji",
+   "text": {
+    "gu": "છત્રપતિ શિવાજી મહારાજ બહાદુર રાજા હતા. તેમણે ધર્મ, પ્રજા અને સ્વરાજ્યની રક્ષા કરી.",
+    "hi": "छत्रपति शिवाजी महाराज वीर राजा थे। उन्होंने धर्म, प्रजा और स्वराज्य की रक्षा की।",
+    "en": "Chhatrapati Shivaji Maharaj was a brave king. He protected dharma, his people and his own homeland."
+   },
+   "shot": {
+    "subject": "a young brave king in a saffron turban with a sword at his side, kind face",
+    "setting": "a hilltop fort at sunrise with a saffron flag"
+   }
+  },
+  {
+   "letter": "જ",
+   "char": "japmala",
+   "text": {
+    "gu": "જપમાળા વડે આપણે ભગવાનનું નામ ગણીને જપ કરીએ છીએ. તેમાં ૧૦૮ મણકા હોય છે.",
+    "hi": "जपमाला से हम भगवान का नाम गिनकर जप करते हैं। उसमें १०८ मनके होते हैं।",
+    "en": "With a japa mala we count while chanting God's name. It has 108 beads."
+   },
+   "shot": {
+    "subject": "a rudraksh japa mala held in a hand",
+    "setting": "a quiet corner with a window and soft morning light"
+   }
+  },
+  {
+   "letter": "ઝ",
+   "char": "jhanjh",
+   "text": {
+    "gu": "ઝાંઝ ભજનમાં વગાડવાનું વાદ્ય છે. બે ઝાંઝ અથડાય ત્યારે મીઠો ખણખણ અવાજ આવે છે.",
+    "hi": "झाँझ भजन में बजाया जाने वाला वाद्य है। दो झाँझ टकराते हैं तो मीठी खनखन की आवाज़ आती है।",
+    "en": "Jhanjh are small cymbals played in bhajans. When two clash they make a sweet ringing sound."
+   },
+   "shot": {
+    "subject": "a pair of small brass cymbals held by tiny hands",
+    "setting": "a village bhajan circle in the evening"
+   }
+  },
+  {
+   "letter": "ટ",
+   "char": "tilak",
+   "text": {
+    "gu": "ટીલું કપાળ પર લગાવાય છે. તે આપણને ભગવાનની યાદ અપાવે છે અને શુભ ગણાય છે.",
+    "hi": "तिलक माथे पर लगाया जाता है। यह हमें भगवान की याद दिलाता है और शुभ माना जाता है।",
+    "en": "A tilak is applied on the forehead. It reminds us of God and is considered auspicious."
+   },
+   "shot": {
+    "subject": "a child's forehead with a red tilak applied by an elder's finger",
+    "setting": "a bright home with a puja plate"
+   }
+  },
+  {
+   "letter": "ઠ",
+   "char": "thakorji",
+   "text": {
+    "gu": "ઠાકોરજી એટલે શ્રીકૃષ્ણનું બાળસ્વરૂપ. ઘરમાં તેમને સવારે જગાડી, સ્નાન કરાવી, ભોગ ધરાવાય છે.",
+    "hi": "ठाकुर जी यानी श्रीकृष्ण का बाल स्वरूप। घर में उन्हें सुबह जगाकर, स्नान कराकर भोग लगाया जाता है।",
+    "en": "Thakorji is the child form of Shri Krishna. At home he is woken in the morning, bathed and offered food."
+   },
+   "shot": {
+    "subject": "a small decorated Krishna idol in a little swing with a peacock feather",
+    "setting": "a home temple with flowers and lamps"
+   }
+  },
+  {
+   "letter": "ડ",
+   "char": "damru",
+   "text": {
+    "gu": "ડમરુ શિવજીનું નાનું ઢોલ છે. તેના અવાજથી જ બધા સૂરો અને ભાષા બની એમ કહેવાય છે.",
+    "hi": "डमरू शिव जी का छोटा ढोल है। कहा जाता है कि इसकी ध्वनि से सभी सुर और भाषाएँ बनीं।",
+    "en": "The damru is Shiva's small drum. It is said that all music and language came from its sound."
+   },
+   "shot": {
+    "subject": "a small two-sided damru drum with a hanging cord",
+    "setting": "a snowy Kailash backdrop at sunrise"
+   }
+  },
+  {
+   "letter": "ઢ",
+   "char": "dhol",
+   "text": {
+    "gu": "ઢોલ તહેવારમાં વાગે છે. ઢોલનો તાલ સાંભળીને બાળકો નાચવા લાગે છે.",
+    "hi": "ढोल त्योहार में बजता है। ढोल की ताल सुनकर बच्चे नाचने लगते हैं।",
+    "en": "The dhol plays during festivals. Children start dancing when they hear its beat."
+   },
+   "shot": {
+    "subject": "a colourful dhol drum with drumsticks",
+    "setting": "a village festival ground with flags"
+   }
+  },
+  {
+   "letter": "ણ",
+   "char": "sadguna",
+   "text": {
+    "gu": "‘સદ્ગુણ’ શબ્દના અંતે ‘ણ’ આવે છે. સત્ય, દયા અને ધીરજ જેવા સદ્ગુણોથી જીવન સુંદર બને છે.",
+    "hi": "‘सद्गुण’ शब्द के अंत में ‘ण’ आता है। सत्य, दया और धैर्य जैसे सद्गुणों से जीवन सुंदर बनता है।",
+    "en": "The word ‘sadguna’ ends with ‘ṇa’. Good virtues like truth, kindness and patience make life beautiful."
+   },
+   "shot": {
+    "subject": "three glowing flowers in a child's cupped hands, each a different colour",
+    "setting": "a bright garden path"
+   },
+   "exempt": true,
+   "why": "Gujarati ણ rarely begins a word; it appears in the middle or end, so the word સદ્ગુણ shows it at the end."
+  },
+  {
+   "letter": "ત",
+   "char": "tulsi",
+   "text": {
+    "gu": "તુલસી પવિત્ર છોડ છે. દરેક ઘરના આંગણામાં તેની પૂજા થાય છે અને તે દવા પણ છે.",
+    "hi": "तुलसी पवित्र पौधा है। हर घर के आँगन में उसकी पूजा होती है और यह औषधि भी है।",
+    "en": "Tulsi is a sacred plant. It is worshipped in the courtyard of every home and also serves as medicine."
+   },
+   "shot": {
+    "subject": "a healthy tulsi plant in a decorated tulsi pot (tulsi vrindavan) with a diya",
+    "setting": "a home courtyard at sunrise"
+   }
+  },
+  {
+   "letter": "થ",
+   "char": "thali",
+   "text": {
+    "gu": "પૂજાની થાળીમાં દીવો, ફૂલ, કંકુ અને પ્રસાદ હોય છે. આપણે તે પ્રેમથી સજાવીએ છીએ.",
+    "hi": "पूजा की थाली में दीया, फूल, कुमकुम और प्रसाद होता है। हम उसे प्रेम से सजाते हैं।",
+    "en": "A puja thali holds a diya, flowers, kumkum and prasad. We decorate it with love."
+   },
+   "shot": {
+    "subject": "a decorated brass puja thali with diya, flowers and kumkum",
+    "setting": "a wooden table near a home temple"
+   }
+  },
+  {
+   "letter": "દ",
+   "char": "divo",
+   "text": {
+    "gu": "દીવો અંધારું દૂર કરે છે. દિવાળીએ ઘરમાં ઘણા દીવા પ્રગટાવાય છે અને ઘર ઝગમગે છે.",
+    "hi": "दीपक अंधेरा दूर करता है। दीवाली पर घर में कई दीप जलाए जाते हैं और घर जगमगाता है।",
+    "en": "A diya removes darkness. On Diwali many diyas are lit and the home sparkles."
+   },
+   "shot": {
+    "subject": "a lit clay diya with a warm flame",
+    "setting": "a doorstep with rangoli in the evening"
+   }
+  },
+  {
+   "letter": "ધ",
+   "char": "dhaja",
+   "text": {
+    "gu": "ધજા ધર્મની નિશાની છે. મંદિર પર ફરકતી ધજા દૂરથી પણ ભગવાનની યાદ અપાવે છે.",
+    "hi": "ध्वजा धर्म की निशानी है। मंदिर पर लहराती ध्वजा दूर से भी भगवान की याद दिलाती है।",
+    "en": "The dhaja is a sign of dharma. A flag fluttering on a temple reminds us of God even from afar."
+   },
+   "shot": {
+    "subject": "a saffron flag on a tall temple spire",
+    "setting": "a blue sky with soft clouds"
+   }
+  },
+  {
+   "letter": "ન",
+   "char": "nandi",
+   "text": {
+    "gu": "નંદી શિવજીનો પ્રિય નંદી બળદ છે. તે શાંત અને વફાદાર છે અને દરેક શિવમંદિરની બહાર બેઠેલો હોય છે.",
+    "hi": "नंदी शिव जी का प्रिय बैल है। वह शांत और वफ़ादार है और हर शिव मंदिर के बाहर बैठा रहता है।",
+    "en": "Nandi is Shiva's beloved bull. He is calm and loyal and sits outside every Shiva temple."
+   },
+   "shot": {
+    "subject": "a gentle white bull resting with a garland",
+    "setting": "a stone courtyard of a Shiva temple"
+   }
+  },
+  {
+   "letter": "પ",
+   "char": "pipal",
+   "text": {
+    "gu": "પીપળો મોટું અને પવિત્ર ઝાડ છે. તેનાં પાંદડાં ધ્રૂજે છે અને તે ખૂબ ઓક્સિજન આપે છે.",
+    "hi": "पीपल बड़ा और पवित्र वृक्ष है। उसके पत्ते हिलते रहते हैं और वह बहुत ऑक्सीजन देता है।",
+    "en": "The peepal is a large sacred tree. Its leaves flutter and it gives a lot of oxygen."
+   },
+   "shot": {
+    "subject": "a big peepal tree with heart-shaped leaves",
+    "setting": "a village square under the tree"
+   }
+  },
+  {
+   "letter": "ફ",
+   "char": "ful",
+   "text": {
+    "gu": "ફૂલ ભગવાનને પ્રેમથી ચડાવાય છે. ગલગોટા, ગુલાબ અને કમળ સુગંધ અને રંગ ફેલાવે છે.",
+    "hi": "फूल भगवान को प्रेम से चढ़ाए जाते हैं। गेंदा, गुलाब और कमल सुगंध और रंग फैलाते हैं।",
+    "en": "Flowers are offered to God with love. Marigold, rose and lotus spread fragrance and colour."
+   },
+   "shot": {
+    "subject": "a basket of marigold, rose and lotus flowers",
+    "setting": "a sunny garden"
+   }
+  },
+  {
+   "letter": "બ",
+   "char": "bilipatra",
+   "text": {
+    "gu": "બીલીપત્ર ત્રણ પાંદડાંવાળું હોય છે. શિવજીને તે ખૂબ પ્રિય છે અને શ્રદ્ધાથી ચડાવાય છે.",
+    "hi": "बेलपत्र तीन पत्तों वाला होता है। शिव जी को वह बहुत प्रिय है और श्रद्धा से चढ़ाया जाता है।",
+    "en": "Bilva leaves come in groups of three. They are dear to Lord Shiva and offered with faith."
+   },
+   "shot": {
+    "subject": "a three-leaved bilva leaf on a Shivling with a little water drop",
+    "setting": "a quiet Shiva temple morning"
+   }
+  },
+  {
+   "letter": "ભ",
+   "char": "bhajan",
+   "text": {
+    "gu": "ભજન ભગવાનનાં ગીત છે. સાથે બેસીને ભજન ગાવાથી મન ખુશ અને શાંત થાય છે.",
+    "hi": "भजन भगवान के गीत हैं। साथ बैठकर भजन गाने से मन प्रसन्न और शांत होता है।",
+    "en": "Bhajans are songs for God. Singing them together makes the mind happy and calm."
+   },
+   "shot": {
+    "subject": "a group of children and elders sitting together singing with a harmonium",
+    "setting": "a village courtyard at dusk"
+   }
+  },
+  {
+   "letter": "મ",
+   "char": "mor",
+   "text": {
+    "gu": "મોર આપણું રાષ્ટ્રીય પક્ષી છે. શ્રીકૃષ્ણ તેનું મોરપીંછ મુગટમાં લગાવતા.",
+    "hi": "मोर हमारा राष्ट्रीय पक्षी है। श्रीकृष्ण उसका मोरपंख मुकुट में लगाते थे।",
+    "en": "The peacock is our national bird. Shri Krishna wore its feather in his crown."
+   },
+   "shot": {
+    "subject": "a peacock with its feathers fanned out",
+    "setting": "a green meadow after rain"
+   }
+  },
+  {
+   "letter": "ય",
+   "char": "yajna",
+   "text": {
+    "gu": "યજ્ઞમાં અગ્નિમાં આહુતિ અપાય છે અને મંત્ર બોલાય છે. તે વાતાવરણ શુદ્ધ કરે છે અને શાંતિ આપે છે.",
+    "hi": "यज्ञ में अग्नि में आहुति दी जाती है और मंत्र बोले जाते हैं। यह वातावरण शुद्ध करता है और शांति देता है।",
+    "en": "In a yajna offerings are made into the fire with mantras. It purifies the surroundings and brings peace."
+   },
+   "shot": {
+    "subject": "a small yajna fire with a copper pot, ghee and mango wood",
+    "setting": "a green open ground with priests seated"
+   }
+  },
+  {
+   "letter": "ર",
+   "char": "rathyatra",
+   "text": {
+    "gu": "રથયાત્રામાં ભગવાન જગન્નાથ રથમાં બેસી નગરમાં ફરે છે. લોકો દોરડાથી રથ ખેંચે છે.",
+    "hi": "रथयात्रा में भगवान जगन्नाथ रथ में बैठकर नगर में घूमते हैं। लोग रस्सी से रथ खींचते हैं।",
+    "en": "In Rath Yatra Lord Jagannath rides a chariot through the city. People pull the chariot with ropes."
+   },
+   "shot": {
+    "subject": "a large colourful Jagannath chariot with flags",
+    "setting": "a festive street with crowds"
+   }
+  },
+  {
+   "letter": "લ",
+   "char": "ladu",
+   "text": {
+    "gu": "લાડુ મીઠો પ્રસાદ છે. ગણપતિ બાપ્પાને મોદક અને લાડુ ખૂબ ગમે છે.",
+    "hi": "लड्डू मीठा प्रसाद है। गणपति बप्पा को मोदक और लड्डू बहुत पसंद हैं।",
+    "en": "Laddu is a sweet prasad. Lord Ganesh loves modak and laddu very much."
+   },
+   "shot": {
+    "subject": "a plate of golden round laddoos",
+    "setting": "a festive kitchen table"
+   }
+  },
+  {
+   "letter": "વ",
+   "char": "vad",
+   "text": {
+    "gu": "વડ વિશાળ અને ઘટાદાર ઝાડ છે. તેની વડવાઈઓ નીચે સુધી આવે છે અને તે ખૂબ છાંયો આપે છે.",
+    "hi": "बरगद विशाल और घना वृक्ष है। उसकी जटाएँ नीचे तक आती हैं और वह बहुत छाया देता है।",
+    "en": "The banyan is a huge and shady tree. Its hanging roots reach the ground and it gives lots of shade."
+   },
+   "shot": {
+    "subject": "a giant banyan tree with hanging roots",
+    "setting": "a village with children playing underneath"
+   }
+  },
+  {
+   "letter": "શ",
+   "char": "shankh",
+   "text": {
+    "gu": "શંખ ફૂંકવાથી પવિત્ર અવાજ આવે છે. પૂજાની શરૂઆતમાં શંખનાદ કરાય છે.",
+    "hi": "शंख फूँकने से पवित्र ध्वनि आती है। पूजा की शुरुआत में शंखनाद किया जाता है।",
+    "en": "Blowing a conch makes a holy sound. A conch is blown at the start of puja."
+   },
+   "shot": {
+    "subject": "a white conch shell with a gold rim",
+    "setting": "a home temple at sunrise"
+   }
+  },
+  {
+   "letter": "ષ",
+   "char": "shadritu",
+   "text": {
+    "gu": "ભારતમાં છ ઋતુઓ આવે છે: વસંત, ગ્રીષ્મ, વર્ષા, શરદ, હેમંત અને શિશિર. દરેક ઋતુ કુદરતની ભેટ છે.",
+    "hi": "भारत में छह ऋतुएँ आती हैं: वसंत, ग्रीष्म, वर्षा, शरद, हेमंत और शिशिर। हर ऋतु प्रकृति का उपहार है।",
+    "en": "India has six seasons: spring, summer, monsoon, autumn, early winter and winter. Each season is nature's gift."
+   },
+   "shot": {
+    "subject": "six small scenes in a circle showing flowers, sun, rain, harvest, mist and snow",
+    "setting": "a colourful ring of six season panels"
+   }
+  },
+  {
+   "letter": "સ",
+   "char": "swastik",
+   "text": {
+    "gu": "સ્વસ્તિક શુભ અને કલ્યાણની પ્રાચીન નિશાની છે. દરેક પૂજા અને ઘરના પ્રવેશ પર તે દોરાય છે.",
+    "hi": "स्वस्तिक शुभ और कल्याण का प्राचीन चिह्न है। हर पूजा और घर के प्रवेश पर इसे बनाया जाता है।",
+    "en": "The Swastik is an ancient sign of auspiciousness and well-being. It is drawn at every puja and at the entrance of homes."
+   },
+   "shot": {
+    "subject": "a red-and-yellow swastik drawn with kumkum on a door with flowers",
+    "setting": "a home entrance with rangoli"
+   }
+  },
+  {
+   "letter": "હ",
+   "char": "havan",
+   "text": {
+    "gu": "હવનમાં મંત્રો સાથે અગ્નિમાં સામગ્રી અર્પણ કરાય છે. તે શુભ કાર્યોની શરૂઆતમાં થાય છે.",
+    "hi": "हवन में मंत्रों के साथ अग्नि में सामग्री अर्पित की जाती है। यह शुभ कार्यों की शुरुआत में होता है।",
+    "en": "In havan offerings are placed in the fire with mantras. It is done at the start of auspicious events."
+   },
+   "shot": {
+    "subject": "a havan kund with small flames and a priest's hand offering",
+    "setting": "a decorated hall with flowers"
+   }
+  },
+  {
+   "letter": "ળ",
+   "char": "kalash",
+   "text": {
+    "gu": "કળશમાં પાણી, આંબાનાં પાન અને નાળિયેર મૂકીએ છીએ. પૂજામાં તે શુભ ગણાય છે.",
+    "hi": "कलश में जल, आम के पत्ते और नारियल रखा जाता है। पूजा में यह शुभ माना जाता है।",
+    "en": "A kalash holds water, mango leaves and a coconut. It is considered auspicious in puja."
+   },
+   "shot": {
+    "subject": "a copper kalash with mango leaves and a coconut on top",
+    "setting": "a puja platform with flowers"
+   },
+   "exempt": true,
+   "why": "Gujarati ળ never begins a word; it is found in the middle (like કળશ), so the word shows it in the middle."
+  },
+  {
+   "letter": "ક્ષ",
+   "char": "kshirsagar",
+   "text": {
+    "gu": "ક્ષીરસાગર દૂધનો સમુદ્ર છે. ભગવાન વિષ્ણુ શેષનાગ પર ત્યાં શાંતિથી આરામ કરે છે.",
+    "hi": "क्षीरसागर दूध का सागर है। भगवान विष्णु शेषनाग पर वहाँ शांति से विश्राम करते हैं।",
+    "en": "The Kshirsagar is the ocean of milk. Lord Vishnu rests peacefully there on Sheshnag."
+   },
+   "shot": {
+    "subject": "a calm milky ocean with a gentle ripple and a golden lotus",
+    "setting": "a glowing dawn sky"
+   }
+  },
+  {
+   "letter": "જ્ઞ",
+   "char": "gyan",
+   "text": {
+    "gu": "જ્ઞાન સૌથી મોટું ધન છે. જેટલું આપણે વહેંચીએ તેટલું વધે છે.",
+    "hi": "ज्ञान सबसे बड़ा धन है। जितना हम बाँटते हैं उतना बढ़ता है।",
+    "en": "Knowledge is the greatest wealth. The more we share it, the more it grows."
+   },
+   "shot": {
+    "subject": "an open book with a glowing lamp on top",
+    "setting": "a quiet study corner with morning sun"
+   }
+  }
+ ]
+}

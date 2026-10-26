@@ -1,0 +1,56 @@
+{
+  "id": "abcd-D", "char": "dronacharya",
+  "source": "Mahabharata (Adi Parva: Drona's arrival at Hastinapur, the ball in the well)",
+  "status": "draft-reviewed-by-claude",
+  "tag": {"gu": "મહાન ગુરુ", "hi": "महान गुरु", "en": "The Great Teacher"},
+  "scenes": [
+    {"id": 1, "mood": "humble-loving",
+     "text": {
+       "gu": "દ્રોણાચાર્ય ઋષિ ભારદ્વાજના પુત્ર હતા. તેઓ ગરીબ હતા, પણ જ્ઞાન અને શસ્ત્રવિદ્યામાં બહુ મોટા હતા. તેમના નાનકડા પુત્રનું નામ અશ્વત્થામા હતું અને તેઓ તેને ખૂબ પ્રેમ કરતા હતા.",
+       "hi": "द्रोणाचार्य ऋषि भारद्वाज के पुत्र थे। वे गरीब थे, पर ज्ञान और शस्त्रविद्या में बहुत महान थे। उनके छोटे पुत्र का नाम अश्वत्थामा था और वे उससे बहुत प्रेम करते थे।",
+       "en": "Dronacharya was the son of the sage Bharadwaj. He was poor, yet very great in knowledge and the art of arms. His little son was named Ashwatthama, and he loved him dearly."},
+     "shot": {"who": ["dronacharya"], "setting": "a simple hermitage hut in a green forest, a cow and a fire pit outside, soft morning mist", "action": "Dronacharya (younger, black beard streaked with grey) sits outside the hut and holds his little son Ashwatthama (age 5) on his lap, both smiling", "expression": "Dronacharya: gentle and loving; child: giggling", "camera": "warm medium shot with misty forest behind"}},
+    {"id": 2, "mood": "playful-amazed",
+     "text": {
+       "gu": "એક દિવસ હસ્તિનાપુરના રાજકુમારો દડાથી રમતા હતા. દડો કૂવામાં પડી ગયો અને કોઈ તેને કાઢી શક્યું નહીં. ત્યાં દ્રોણાચાર્ય આવ્યા. તેમણે સળીઓ જેવા બાણોની સાંકળ બનાવીને દડો બહાર કાઢી આપ્યો અને બધા રાજકુમારો નવાઈ પામ્યા.",
+       "hi": "एक दिन हस्तिनापुर के राजकुमार गेंद से खेल रहे थे। गेंद कुएँ में गिर गई और कोई उसे निकाल नहीं सका। तब वहाँ द्रोणाचार्य आए। उन्होंने तिनकों जैसे बाणों की श्रृंखला बनाकर गेंद बाहर निकाल दी और सब राजकुमार हैरान रह गए।",
+       "en": "One day the princes of Hastinapur were playing with a ball. It fell into a well and nobody could get it out. Then Dronacharya arrived. He joined arrows into a chain like a ladder and lifted the ball out, and all the princes were amazed."},
+     "shot": {"who": ["dronacharya"], "setting": "a garden with an old stone well under a big tree outside Hastinapur, bright afternoon", "action": "Dronacharya holds a bow and has shot a chain of arrows joined together into the well; a small ball floats up on the last arrow while young princes (Kaurava and Pandava boys) crowd around with open mouths", "expression": "Dronacharya: calm and slightly amused; princes: wide-eyed amazement", "camera": "medium-wide shot at the well, sunlight through leaves"}},
+    {"id": 3, "mood": "respected-honoured",
+     "text": {
+       "gu": "રાજકુમારોએ આ આશ્ચર્યની વાત પિતામહ ભીષ્મને કહી. ભીષ્મ તરત સમજી ગયા કે આ સાચા ગુરુ છે. તેમણે આદરથી દ્રોણાચાર્યને રાજકુમારોના શિક્ષક બનાવ્યા અને રહેવા માટે સુંદર સ્થાન આપ્યું.",
+       "hi": "राजकुमारों ने यह आश्चर्य की बात पितामह भीष्म को बताई। भीष्म तुरंत समझ गए कि ये सच्चे गुरु हैं। उन्होंने आदर से द्रोणाचार्य को राजकुमारों का शिक्षक बनाया और रहने के लिए सुंदर स्थान दिया।",
+       "en": "The princes told Grandsire Bhishma about this wonder. Bhishma at once understood that this was a true teacher. With great respect he made Dronacharya the teacher of the princes and gave him a beautiful place to live."},
+     "shot": {"who": ["dronacharya", "bhishma"], "setting": "royal hall of Hastinapur with golden pillars, morning light through arches", "action": "Bhishma, white-bearded, folds his hands and welcomes Dronacharya, who bows slightly; a few little princes smile behind them", "expression": "Bhishma: respectful, pleased; Dronacharya: humble gratitude", "camera": "medium two-shot, warm light"}},
+    {"id": 4, "mood": "teaching-disciplined",
+     "text": {
+       "gu": "ગુરુ દ્રોણે બધા રાજકુમારોને ધનુર્વિદ્યા અને યુદ્ધકલા શીખવી. તેઓ કડક પણ પ્રેમાળ હતા. તેઓ કહેતા, “રોજ અભ્યાસ કરો, ધ્યાન રાખો અને નમ્ર રહો.” અર્જુન તેમના સૌથી પ્રિય અને શ્રેષ્ઠ શિષ્ય બન્યા.",
+       "hi": "गुरु द्रोण ने सब राजकुमारों को धनुर्विद्या और युद्धकला सिखाई। वे कठोर भी थे और प्रेमपूर्ण भी। वे कहते थे, “रोज़ अभ्यास करो, ध्यान रखो और विनम्र रहो।” अर्जुन उनके सबसे प्रिय और श्रेष्ठ शिष्य बने।",
+       "en": "Guru Drona taught all the princes archery and the art of warfare. He was strict but loving. He would say, “Practise every day, stay focused and be humble.” Arjun became his dearest and best student."},
+     "shot": {"who": ["dronacharya", "arjun"], "setting": "a large open training ground with straw targets and flags at sunrise", "action": "Dronacharya corrects a young prince's grip on the bow while Arjun (age 14) practises beside them and other princes train in rows", "expression": "Dronacharya: patient, stern but caring; Arjun: focused", "camera": "wide training-ground shot, dust glowing in the sunlight"}},
+    {"id": 5, "mood": "grateful-respectful",
+     "text": {
+       "gu": "દ્રોણાચાર્યે શીખવ્યું કે ગુરુનો આદર કરવો, સખત મહેનત કરવી અને જ્ઞાન કોઈને પણ વહેંચવું. આજે પણ આપણે ગુરુપૂર્ણિમા પર શિક્ષકોનું સન્માન કરીએ છીએ.",
+       "hi": "द्रोणाचार्य ने सिखाया कि गुरु का आदर करना, कड़ी मेहनत करना और ज्ञान सबके साथ बाँटना चाहिए। आज भी हम गुरुपूर्णिमा पर शिक्षकों का सम्मान करते हैं।",
+       "en": "Dronacharya taught us to respect our teachers, to work hard and to share knowledge. Even today we honour our teachers on Guru Purnima."},
+     "shot": {"who": ["dronacharya", "arjun"], "setting": "a peaceful gurukul courtyard in the evening, oil lamps lit, flower petals on the ground", "action": "students including Arjun offer flowers and bow to Dronacharya, who blesses them with a raised hand", "expression": "students: devoted joy; Dronacharya: proud and blessing smile", "camera": "medium shot, soft lamp glow"}}
+  ],
+  "lesson": {"gu": "દ્રોણાચાર્ય આપણને શીખવે છે: શિક્ષકનું સન્માન કરો, રોજ મહેનતથી શીખો અને જ્ઞાનને બીજા સાથે વહેંચો.", "hi": "द्रोणाचार्य हमें सिखाते हैं: शिक्षक का सम्मान करो, रोज़ मेहनत से सीखो और ज्ञान दूसरों के साथ बाँटो।", "en": "Dronacharya teaches us: respect your teacher, learn with hard work every day and share your knowledge with others."},
+  "points": [
+    {"gu": "ગુરુનું સન્માન", "hi": "गुरु का सम्मान", "en": "Respect your teacher"},
+    {"gu": "રોજનો અભ્યાસ", "hi": "रोज़ का अभ्यास", "en": "Practise every day"},
+    {"gu": "જ્ઞાન વહેંચો", "hi": "ज्ञान बाँटो", "en": "Share knowledge"}
+  ],
+  "words": [
+    {"gu": "આચાર્ય = મહાન શિક્ષક", "hi": "आचार्य = महान शिक्षक", "en": "Acharya = a great teacher"},
+    {"gu": "શિષ્ય = વિદ્યાર્થી", "hi": "शिष्य = विद्यार्थी", "en": "Shishya = student"}
+  ],
+  "quiz": [
+    {"q": {"gu": "દ્રોણાચાર્યના પુત્રનું નામ શું હતું?", "hi": "द्रोणाचार्य के पुत्र का नाम क्या था?", "en": "What was Dronacharya's son called?"},
+     "a": {"gu": ["અશ્વત્થામા", "અભિમન્યુ", "ભીમ"], "hi": ["अश्वत्थामा", "अभिमन्यु", "भीम"], "en": ["Ashwatthama", "Abhimanyu", "Bheem"]}},
+    {"q": {"gu": "રાજકુમારોનો દડો ક્યાં પડ્યો હતો?", "hi": "राजकुमारों की गेंद कहाँ गिरी थी?", "en": "Where did the princes' ball fall?"},
+     "a": {"gu": ["કૂવામાં", "નદીમાં", "ઝાડ પર"], "hi": ["कुएँ में", "नदी में", "पेड़ पर"], "en": ["Into a well", "Into a river", "On a tree"]}},
+    {"q": {"gu": "દ્રોણાચાર્યના સૌથી પ્રિય શિષ્ય કોણ હતા?", "hi": "द्रोणाचार्य के सबसे प्रिय शिष्य कौन थे?", "en": "Who was Dronacharya's most beloved student?"},
+     "a": {"gu": ["અર્જુન", "દુર્યોધન", "નારદ"], "hi": ["अर्जुन", "दुर्योधन", "नारद"], "en": ["Arjun", "Duryodhan", "Narad"]}}
+  ]
+}

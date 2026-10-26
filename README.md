@@ -16,7 +16,7 @@ Open `index.html` in a browser (or host the folder as a static site / PWA).
 | `data/style.json` | Picture style rules shared by every prompt |
 | `art/scenes/<L>/<n>.webp` | Scene pictures (16:9). If one is missing the letter's main picture is shown |
 | `audio/<lang>/<L>-<n>.mp3` | Voice for scene n; `<L>-lesson.mp3` for the lesson |
-| `data.bundle.js`, `art/SCENE-PROMPTS.md` | **Generated** — never edit by hand |
+| `data.bundle.js`, `data.sections.js`, `art/prompts/*.md`, `art/IMAGE-LIST.csv` | **Generated** — never edit by hand |
 
 ## Everyday commands
 
@@ -31,7 +31,7 @@ pip install edge-tts && python scripts/make-audio.py     # make the voice files 
 1. Add the character to `data/characters.json` (3 names + `look`), check `data/slots.json`.
 2. Copy `data/stories/abcd-A.json` to `abcd-B.json` and write the scenes in all 3 languages.
 3. `node scripts/build-data.mjs` — fix anything it reports.
-4. Make pictures from `art/SCENE-PROMPTS.md` (scene 1 first, then use it as the reference for the rest), save as `art/scenes/B/1.webp` …
+4. Make pictures from `art/prompts/` (see `art/IMAGE-LIST.csv` for the exact file names) (scene 1 first, then use it as the reference for the rest), save as `art/scenes/B/1.webp` …
 5. `python scripts/make-audio.py --only B`
 6. Open the app and check the story in all three languages.
 

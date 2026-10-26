@@ -1,0 +1,56 @@
+{
+  "id": "abcd-L", "char": "laxman",
+  "source": "Ramayana (Bala, Ayodhya, Aranya and Yuddha Kandas)",
+  "status": "draft-reviewed-by-claude",
+  "tag": {"gu": "ભાઈનો સાચો સાથ", "hi": "भाई का सच्चा साथ", "en": "A Brother's True Support"},
+  "scenes": [
+    {"id": 1, "mood": "warm-playful",
+     "text": {
+       "gu": "લક્ષ્મણજી અયોધ્યાના રાજા દશરથ અને રાણી સુમિત્રાના પુત્ર હતા. નાનપણથી જ તેઓ મોટા ભાઈ રામને ખૂબ ચાહતા હતા. રામ જ્યાં જાય ત્યાં લક્ષ્મણ તેમની સાથે જતા.",
+       "hi": "लक्ष्मण जी अयोध्या के राजा दशरथ और रानी सुमित्रा के पुत्र थे। बचपन से ही वे बड़े भाई राम से बहुत प्रेम करते थे। राम जहाँ जाते वहाँ लक्ष्मण उनके साथ जाते।",
+       "en": "Laxman was the son of King Dasharath of Ayodhya and Queen Sumitra. From childhood he loved his elder brother Ram very much. Wherever Ram went, Laxman went with him."},
+     "shot": {"who": ["laxman", "ram"], "setting": "palace garden of Ayodhya with flower beds and a fountain, bright morning", "action": "child Ram and child Laxman (age 8) run hand in hand with small wooden bows, laughing", "expression": "both: joyful, bright eyes", "camera": "wide cheerful shot at child level"}},
+    {"id": 2, "mood": "loyal-determined",
+     "text": {
+       "gu": "જ્યારે રામ પિતાના વચન માટે ચૌદ વર્ષના વનવાસ માટે નીકળ્યા, ત્યારે લક્ષ્મણજી પણ સાથે ગયા. તેમણે કહ્યું, “ભાઈ, તમારા વિના મહેલ મારા માટે કંઈ નથી.” તેમણે રાજમહેલનું સુખ છોડી દીધું.",
+       "hi": "जब राम पिता के वचन के लिए चौदह वर्ष के वनवास पर निकले, तब लक्ष्मण जी भी साथ गए। उन्होंने कहा, “भैया, आपके बिना महल मेरे लिए कुछ नहीं है।” उन्होंने राजमहल का सुख छोड़ दिया।",
+       "en": "When Ram set out for fourteen years of exile to keep his father's word, Laxman went with him. He said, “Brother, without you the palace is nothing to me.” He gave up the comforts of the royal palace."},
+     "shot": {"who": ["laxman", "ram", "sita"], "setting": "the city gate of Ayodhya at dawn with citizens bidding farewell, a forest road ahead", "action": "Ram, Sita and Laxman in simple forest clothes walk out of the city, Laxman holding his bow and looking firmly ahead", "expression": "Laxman: resolute and loyal; Ram: calm; Sita: gentle", "camera": "wide shot as they walk away toward the forest"}},
+    {"id": 3, "mood": "alert-caring",
+     "text": {
+       "gu": "વનમાં લક્ષ્મણજીએ સુંદર પર્ણકુટી બનાવી. તેઓ રાત-દિવસ રામ અને સીતાની રક્ષા કરતા અને પોતાની સુખ-સગવડનો વિચાર કરતા નહીં. તેઓ ભાઈ અને ભાભીની સેવા ખુશીથી કરતા.",
+       "hi": "वन में लक्ष्मण जी ने सुंदर पर्णकुटी बनाई। वे रात-दिन राम और सीता की रक्षा करते और अपने सुख-आराम की चिंता नहीं करते थे। वे भाई और भाभी की सेवा प्रसन्नता से करते थे।",
+       "en": "In the forest Laxman built a lovely leaf hut. Day and night he guarded Ram and Sita and never thought of his own comfort. He served his brother and sister-in-law happily."},
+     "shot": {"who": ["laxman"], "setting": "a forest hut of leaves and bamboo at night, a campfire glowing, stars in the sky", "action": "Laxman stands alert with his bow near the hut door while Ram and Sita rest peacefully inside", "expression": "Laxman: watchful, caring", "camera": "medium shot, warm fire glow and starry sky"}},
+    {"id": 4, "mood": "brave-resolute",
+     "text": {
+       "gu": "લંકાના યુદ્ધમાં લક્ષ્મણજીએ પણ બહુ બહાદુરી બતાવી અને શક્તિશાળી ઇન્દ્રજિતને હરાવ્યો. એક વાર તેઓ ઘાયલ થઈને બેભાન થયા, ત્યારે હનુમાનજી સંજીવની બુટ્ટી લાવ્યા અને લક્ષ્મણજી ફરી સ્વસ્થ થયા.",
+       "hi": "लंका के युद्ध में लक्ष्मण जी ने भी बहुत वीरता दिखाई और शक्तिशाली इन्द्रजित को हराया। एक बार वे घायल होकर बेहोश हुए, तब हनुमान जी संजीवनी बूटी लाए और लक्ष्मण जी फिर स्वस्थ हो गए।",
+       "en": "In the war of Lanka Laxman also showed great bravery and defeated the mighty Indrajit. Once he was wounded and fell unconscious, but Hanuman brought the Sanjeevani herb and Laxman became well again."},
+     "shot": {"who": ["laxman", "ram", "hanuman"], "setting": "a camp at the edge of a battlefield at dawn, with a glowing herb in Hanuman's hand, no violence shown", "action": "Ram gently holds Laxman's head as Hanuman places a glowing herb near him; Laxman slowly opens his eyes with a faint smile", "expression": "Ram: tender relief; Laxman: weak smile; Hanuman: hopeful", "camera": "close medium shot, soft golden light"}},
+    {"id": 5, "mood": "happy-grateful",
+     "text": {
+       "gu": "ચૌદ વર્ષ પૂરાં થયા પછી લક્ષ્મણજી રામ અને સીતાજી સાથે અયોધ્યા પાછા ફર્યા. આખું નગર દીવાઓથી ઝગમગી ઊઠ્યું. લક્ષ્મણજી આજે પણ ભાઈચારા અને સેવાનું સૌથી સુંદર ઉદાહરણ છે.",
+       "hi": "चौदह वर्ष पूरे होने पर लक्ष्मण जी राम और सीता जी के साथ अयोध्या लौटे। पूरा नगर दीपों से जगमगा उठा। लक्ष्मण जी आज भी भाईचारे और सेवा का सबसे सुंदर उदाहरण हैं।",
+       "en": "After fourteen years Laxman returned to Ayodhya with Ram and Sita. The whole city sparkled with lamps. Laxman is still the most beautiful example of brotherhood and service."},
+     "shot": {"who": ["laxman", "ram", "sita"], "setting": "Ayodhya at night decorated with thousands of diyas, a joyful crowd throwing petals", "action": "Ram, Sita and Laxman ride in a flower-decorated chariot through the city welcomed by people holding lamps", "expression": "all three: radiant joy; crowd: celebrating", "camera": "wide festive shot with glowing lights"}}
+  ],
+  "lesson": {"gu": "લક્ષ્મણજી આપણને શીખવે છે: ભાઈ-બહેનને પ્રેમ કરો, સેવા કરો અને જરૂર પડે ત્યારે ત્યાગ કરો.", "hi": "लक्ष्मण जी हमें सिखाते हैं: भाई-बहनों से प्रेम करो, सेवा करो और ज़रूरत पड़ने पर त्याग करो।", "en": "Laxman teaches us: love your brothers and sisters, serve them and be ready to sacrifice when needed."},
+  "points": [
+    {"gu": "ભાઈચારો: સાથે રહેવું", "hi": "भाईचारा: साथ रहना", "en": "Brotherhood: stay together"},
+    {"gu": "સેવા: પ્રેમથી મદદ", "hi": "सेवा: प्रेम से मदद", "en": "Service: help with love"},
+    {"gu": "ત્યાગ: પોતાનું સુખ છોડવું", "hi": "त्याग: अपना सुख छोड़ना", "en": "Sacrifice: give up your comfort"}
+  ],
+  "words": [
+    {"gu": "વનવાસ = જંગલમાં રહેવું", "hi": "वनवास = जंगल में रहना", "en": "Vanvas = living in the forest in exile"},
+    {"gu": "પર્ણકુટી = પાંદડાંની ઝૂંપડી", "hi": "पर्णकुटी = पत्तों की कुटिया", "en": "Parnakuti = a hut of leaves"}
+  ],
+  "quiz": [
+    {"q": {"gu": "લક્ષ્મણજી વનવાસમાં કોની સાથે ગયા?", "hi": "लक्ष्मण जी वनवास में किसके साथ गए?", "en": "With whom did Laxman go to the forest?"},
+     "a": {"gu": ["રામ અને સીતા", "ભરત", "હનુમાન"], "hi": ["राम और सीता", "भरत", "हनुमान"], "en": ["Ram and Sita", "Bharat", "Hanuman"]}},
+    {"q": {"gu": "વનવાસ કેટલા વર્ષનો હતો?", "hi": "वनवास कितने वर्ष का था?", "en": "How many years did the exile last?"},
+     "a": {"gu": ["ચૌદ", "પાંચ", "દસ"], "hi": ["चौदह", "पाँच", "दस"], "en": ["Fourteen", "Five", "Ten"]}},
+    {"q": {"gu": "લક્ષ્મણજીને કઈ બુટ્ટીથી સાજા કર્યા?", "hi": "लक्ष्मण जी को किस बूटी से स्वस्थ किया गया?", "en": "Which herb healed Laxman?"},
+     "a": {"gu": ["સંજીવની", "તુલસી", "અશોક"], "hi": ["संजीवनी", "तुलसी", "अशोक"], "en": ["Sanjeevani", "Tulsi", "Ashok"]}}
+  ]
+}

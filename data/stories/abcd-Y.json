@@ -1,0 +1,56 @@
+{
+  "id": "abcd-Y", "char": "yudhishthira",
+  "source": "Mahabharata: Vana Parva (Yaksha Prashna), Mahaprasthanika Parva (the dog)",
+  "status": "draft-reviewed-by-claude",
+  "tag": {"gu": "ધર્મરાજ", "hi": "धर्मराज", "en": "The King of Dharma"},
+  "scenes": [
+    {"id": 1, "mood": "calm-dignified",
+     "text": {
+       "gu": "યુધિષ્ઠિર પાંડવોમાં સૌથી મોટા હતા. તેઓ હંમેશાં સત્ય બોલતા, બધાને માન આપતા અને ગુસ્સામાં પણ ધીરજ રાખતા. એટલે લોકો તેમને ‘ધર્મરાજ’ કહેતા.",
+       "hi": "युधिष्ठिर पांडवों में सबसे बड़े थे। वे हमेशा सत्य बोलते, सबका सम्मान करते और क्रोध में भी धैर्य रखते थे। इसलिए लोग उन्हें ‘धर्मराज’ कहते थे।",
+       "en": "Yudhishthira was the eldest of the Pandavas. He always spoke the truth, respected everyone and stayed patient even when upset. That is why people called him ‘Dharmaraj’."},
+     "shot": {"who": ["yudhishthira"], "setting": "a royal court garden with sunlight through trees", "action": "Yudhishthira sits calmly with a gentle smile, his younger brothers listening with respect around him", "expression": "serene, kind", "camera": "medium shot with soft light"}},
+    {"id": 2, "mood": "mysterious-calm",
+     "text": {
+       "gu": "વનવાસ દરમિયાન એક વાર પાંડવો તરસ્યા થયા અને તળાવ પાસે પહોંચ્યા. ત્યાં એક યક્ષે કહ્યું, “પહેલાં મારા પ્રશ્નોના જવાબ આપો, પછી પાણી પીઓ.” ચાર ભાઈઓએ જવાબ આપ્યા વગર પાણી પીધું અને બેભાન થઈ ગયા.",
+       "hi": "वनवास के दौरान एक बार पांडव प्यासे हुए और एक तालाब के पास पहुँचे। वहाँ एक यक्ष ने कहा, “पहले मेरे प्रश्नों का उत्तर दो, फिर पानी पियो।” चार भाइयों ने उत्तर दिए बिना पानी पी लिया और बेहोश हो गए।",
+       "en": "During the exile the Pandavas once became thirsty and reached a lake. There a Yaksha said, “First answer my questions, then drink the water.” Four brothers drank without answering and fell unconscious."},
+     "shot": {"who": ["yudhishthira"], "setting": "a still forest lake at dusk with misty water and a glowing spirit-like presence above it", "action": "the four Pandava brothers lie asleep peacefully on the bank as a calm glowing Yaksha figure speaks over the water; Yudhishthira stands thoughtfully", "expression": "Yudhishthira: concerned but calm; Yaksha: serious", "camera": "wide mystical shot"}},
+    {"id": 3, "mood": "wise-patient",
+     "text": {
+       "gu": "યુધિષ્ઠિર શાંતિથી યક્ષ સામે ઊભા રહ્યા અને તેના બધા પ્રશ્નો સાંભળ્યા. યક્ષે પૂછ્યું, “સૌથી મોટું આશ્ચર્ય શું છે?” યુધિષ્ઠિરે કહ્યું, “લોકો રોજ બીજાને જતા જુએ છે, તોય પોતે કાયમ જીવશે એમ માને છે.”",
+       "hi": "युधिष्ठिर शांति से यक्ष के सामने खड़े रहे और उसके सारे प्रश्न सुने। यक्ष ने पूछा, “सबसे बड़ा आश्चर्य क्या है?” युधिष्ठिर ने कहा, “लोग रोज़ दूसरों को जाते देखते हैं, फिर भी स्वयं सदा जीवित रहने की सोचते हैं।”",
+       "en": "Yudhishthira stood calmly before the Yaksha and listened to all his questions. The Yaksha asked, “What is the greatest wonder?” Yudhishthira replied, “People see others pass away every day, yet each thinks he himself will live forever.”"},
+     "shot": {"who": ["yudhishthira"], "setting": "the misty lake with the Yaksha glowing above the water", "action": "Yudhishthira answers thoughtfully with an open palm, the Yaksha's face softening", "expression": "Yudhishthira: wise and steady; Yaksha: impressed", "camera": "medium shot with soft mist"}},
+    {"id": 4, "mood": "relieved-kind",
+     "text": {
+       "gu": "યક્ષ ખુશ થયો અને એક ભાઈને જીવતો કરવાનું વરદાન આપ્યું. યુધિષ્ઠિરે પોતાના સગા ભાઈઓને બદલે સાવકા ભાઈ નકુલનું નામ લીધું. યક્ષ એમની નિષ્પક્ષતાથી પ્રસન્ન થયો અને ચારેય ભાઈઓને જાગૃત કર્યા.",
+       "hi": "यक्ष प्रसन्न हुआ और एक भाई को जीवित करने का वरदान दिया। युधिष्ठिर ने अपने सगे भाइयों की जगह सौतेले भाई नकुल का नाम लिया। यक्ष उनकी निष्पक्षता से प्रसन्न हुआ और चारों भाइयों को जगा दिया।",
+       "en": "The Yaksha was pleased and offered a boon to revive one brother. Yudhishthira named Nakul, a half-brother, instead of his own full brothers. The Yaksha was happy with his fairness and woke all four brothers."},
+     "shot": {"who": ["yudhishthira"], "setting": "the lake at dawn with golden light spreading", "action": "the four brothers wake up smiling as Yudhishthira joins his hands to thank the glowing Yaksha", "expression": "all: relief and gratitude", "camera": "wide hopeful shot"}},
+    {"id": 5, "mood": "loyal-gentle",
+     "text": {
+       "gu": "જીવનના અંતે યુધિષ્ઠિર સ્વર્ગના દ્વારે પહોંચ્યા, ત્યારે એક કૂતરો તેમની સાથે હતો. ઇન્દ્રએ કહ્યું કે કૂતરાને છોડીને અંદર આવો, પણ યુધિષ્ઠિરે તેને છોડવાની ના પાડી. પરીક્ષા પૂરી થઈ અને કૂતરો ધર્મદેવ નીકળ્યા.",
+       "hi": "जीवन के अंत में युधिष्ठिर स्वर्ग के द्वार पर पहुँचे, तब एक कुत्ता उनके साथ था। इन्द्र ने कहा कि कुत्ते को छोड़कर अंदर आओ, पर युधिष्ठिर ने उसे छोड़ने से मना कर दिया। परीक्षा पूरी हुई और कुत्ता स्वयं धर्मदेव निकले।",
+       "en": "At the end of life Yudhishthira reached heaven's gate, and a dog was with him. Indra said to leave the dog and come in, but Yudhishthira refused to leave him. The test ended and the dog turned out to be Dharmadev himself."},
+     "shot": {"who": ["yudhishthira", "indra"], "setting": "the golden gates of heaven in the clouds with soft light", "action": "Yudhishthira kneels beside a faithful dog with a hand on its head while Indra watches from the gate with a gentle smile", "expression": "Yudhishthira: loyal and caring; Indra: moved", "camera": "medium shot with divine light"}}
+  ],
+  "lesson": {"gu": "યુધિષ્ઠિર આપણને શીખવે છે: સત્ય બોલો, ન્યાયી રહો અને વફાદારી ન છોડો.", "hi": "युधिष्ठिर हमें सिखाते हैं: सत्य बोलो, न्यायी रहो और निष्ठा मत छोड़ो।", "en": "Yudhishthira teaches us: speak the truth, be fair and never abandon loyalty."},
+  "points": [
+    {"gu": "સત્ય: હંમેશાં સાચું", "hi": "सत्य: हमेशा सच", "en": "Truth: always honest"},
+    {"gu": "ન્યાય: બધા સાથે સમાન", "hi": "न्याय: सबके साथ बराबर", "en": "Fairness: equal to all"},
+    {"gu": "વફાદારી: સાથીને ન છોડવો", "hi": "निष्ठा: साथी को न छोड़ना", "en": "Loyalty: never leave a friend"}
+  ],
+  "words": [
+    {"gu": "ધર્મરાજ = ધર્મના રાજા", "hi": "धर्मराज = धर्म के राजा", "en": "Dharmaraj = king of dharma"},
+    {"gu": "યક્ષ = દિવ્ય આત્મા", "hi": "यक्ष = दिव्य आत्मा", "en": "Yaksha = a divine spirit"}
+  ],
+  "quiz": [
+    {"q": {"gu": "યુધિષ્ઠિરને લોકો શું કહેતા?", "hi": "लोग युधिष्ठिर को क्या कहते थे?", "en": "What did people call Yudhishthira?"},
+     "a": {"gu": ["ધર્મરાજ", "વીર", "ગદાધર"], "hi": ["धर्मराज", "वीर", "गदाधर"], "en": ["Dharmaraj", "Veer", "Gadadhar"]}},
+    {"q": {"gu": "યક્ષે શું કહ્યું?", "hi": "यक्ष ने क्या कहा?", "en": "What did the Yaksha say?"},
+     "a": {"gu": ["પહેલાં પ્રશ્નોના જવાબ આપો", "પાણી પીઓ", "ભાગી જાઓ"], "hi": ["पहले प्रश्नों के उत्तर दो", "पानी पियो", "भाग जाओ"], "en": ["First answer my questions", "Drink the water", "Run away"]}},
+    {"q": {"gu": "સ્વર્ગના દ્વારે યુધિષ્ઠિરે શું કર્યું?", "hi": "स्वर्ग के द्वार पर युधिष्ठिर ने क्या किया?", "en": "What did Yudhishthira do at heaven's gate?"},
+     "a": {"gu": ["કૂતરાને ન છોડ્યો", "કૂતરાને ભગાડ્યો", "ભાગી ગયા"], "hi": ["कुत्ते को नहीं छोड़ा", "कुत्ते को भगाया", "भाग गए"], "en": ["Did not leave the dog", "Chased the dog", "Ran away"]}}
+  ]
+}

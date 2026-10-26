@@ -1,0 +1,56 @@
+{
+  "id": "abcd-C", "char": "chanakya",
+  "source": "Traditional accounts of Chanakya (Kautilya) and Chandragupta Maurya; Arthashastra; Chanakya Niti",
+  "status": "draft-reviewed-by-claude",
+  "tag": {"gu": "મહાન વિદ્વાન", "hi": "महान विद्वान", "en": "The Wise Teacher"},
+  "scenes": [
+    {"id": 1, "mood": "curious-wise",
+     "text": {
+       "gu": "ઘણા સમય પહેલાં ભારતમાં ચાણક્ય નામના એક મહાન વિદ્વાન શિક્ષક હતા. તેમને કૌટિલ્ય અને વિષ્ણુગુપ્ત નામથી પણ ઓળખવામાં આવે છે. તેઓ તક્ષશિલા નામની પ્રાચીન વિદ્યાપીઠમાં વિદ્યાર્થીઓને ભણાવતા હતા.",
+       "hi": "बहुत समय पहले भारत में चाणक्य नाम के एक महान विद्वान शिक्षक थे। उन्हें कौटिल्य और विष्णुगुप्त नामों से भी जाना जाता है। वे तक्षशिला नाम की प्राचीन विद्यापीठ में विद्यार्थियों को पढ़ाते थे।",
+       "en": "Long ago in India there lived a great scholar and teacher named Chanakya. He is also known as Kautilya and Vishnugupta. He taught students at the ancient university of Takshashila."},
+     "shot": {"who": ["chanakya"], "setting": "ancient Takshashila university campus with stone buildings, banyan trees and students sitting on the ground with palm-leaf books, golden morning light", "action": "Chanakya stands in front of a group of attentive students, holding a palm-leaf manuscript and explaining with one hand raised", "expression": "Chanakya: wise, sharp and kind; students: curious", "camera": "wide establishing shot, eye level"}},
+    {"id": 2, "mood": "determined-patriotic",
+     "text": {
+       "gu": "ચાણક્ય પોતાના દેશને ખૂબ ચાહતા હતા. તેમણે જોયું કે દેશમાં સારો અને ન્યાયી રાજા જોઈએ, જે બધા લોકોનું ધ્યાન રાખે. તેમણે નક્કી કર્યું કે તેઓ આવો રાજા તૈયાર કરશે.",
+       "hi": "चाणक्य अपने देश से बहुत प्रेम करते थे। उन्होंने देखा कि देश को एक अच्छे और न्यायी राजा की ज़रूरत है, जो सब लोगों का ध्यान रखे। उन्होंने निश्चय किया कि वे ऐसा राजा तैयार करेंगे।",
+       "en": "Chanakya loved his country very much. He saw that the land needed a good and fair king who would take care of everybody. He decided that he would prepare such a king."},
+     "shot": {"who": ["chanakya"], "setting": "a simple hut at the edge of a village at dusk, a lamp glowing, a map drawn on the ground, hills in the distance", "action": "Chanakya sits thoughtfully looking at a map drawn on the ground and then lifts his eyes toward the horizon", "expression": "Chanakya: deep thought, quiet determination", "camera": "medium shot, warm lamp light on his face"}},
+    {"id": 3, "mood": "discovering-hopeful",
+     "text": {
+       "gu": "એક દિવસ ચાણક્યે એક તેજસ્વી બાળક જોયો. તે બાળક બીજા બાળકો સાથે રમતાં રમતાં રાજા બનીને ન્યાય કરતો હતો. ચાણક્ય સમજી ગયા કે આ બાળક ખાસ છે. તેનું નામ ચંદ્રગુપ્ત હતું.",
+       "hi": "एक दिन चाणक्य ने एक तेजस्वी बालक को देखा। वह बालक दूसरे बच्चों के साथ खेलते-खेलते राजा बनकर न्याय करता था। चाणक्य समझ गए कि यह बालक खास है। उसका नाम चंद्रगुप्त था।",
+       "en": "One day Chanakya noticed a bright boy. While playing with other children, he acted as a king and gave fair judgements. Chanakya understood that this boy was special. His name was Chandragupta."},
+     "shot": {"who": ["chanakya"], "setting": "a village field with a mango tree, children playing a game of court with sticks and stones, golden afternoon light", "action": "Chanakya watches from the edge of the field with a smile while a bright boy (Chandragupta, age 10, simple clothes, a crown made of leaves) sits on a rock like a king giving judgement to other children", "expression": "Chanakya: pleasantly surprised; Chandragupta: confident and fair; children: giggling", "camera": "medium-wide shot, shallow depth of field"}},
+    {"id": 4, "mood": "proud-teaching",
+     "text": {
+       "gu": "ચાણક્યે ચંદ્રગુપ્તને પોતાની સાથે લઈ જઈને ઘણું શીખવ્યું. તેમણે શસ્ત્રવિદ્યા, રાજનીતિ, જ્ઞાન અને ન્યાયની વાતો શીખવી. મહેનતથી ચંદ્રગુપ્ત મૌર્ય એક મોટા સમ્રાટ બન્યા અને પ્રજાને સુખી રાખી.",
+       "hi": "चाणक्य ने चंद्रगुप्त को अपने साथ ले जाकर बहुत कुछ सिखाया। उन्होंने शस्त्रविद्या, राजनीति, ज्ञान और न्याय की बातें सिखाईं। मेहनत से चंद्रगुप्त मौर्य एक बड़े सम्राट बने और प्रजा को सुखी रखा।",
+       "en": "Chanakya took Chandragupta with him and taught him a great deal: the skills of arms, the ways of ruling, knowledge and fairness. By hard work Chandragupta Maurya grew into a great emperor and kept his people happy."},
+     "shot": {"who": ["chanakya"], "setting": "a grand royal court of Magadha with golden pillars, flags and citizens gathered, bright daylight", "action": "young emperor Chandragupta (age 22, gold crown, royal clothes) sits on the throne and bows slightly to Chanakya who stands beside him with folded hands, a happy crowd around", "expression": "Chandragupta: respectful and proud; Chanakya: quietly satisfied", "camera": "wide celebratory shot with warm light"}},
+    {"id": 5, "mood": "humble-wise",
+     "text": {
+       "gu": "ચાણક્ય પોતે રાજા ન બન્યા. તેઓ સાદું જીવન જીવતા અને ગ્રંથો લખતા. તેમણે અર્થશાસ્ત્ર અને ચાણક્ય નીતિ લખ્યાં, જેમાં સારા જીવન અને સારા રાજ્યની ઘણી સલાહ છે. તેઓ કહેતા, “જ્ઞાન જ સૌથી મોટું ધન છે.”",
+       "hi": "चाणक्य स्वयं राजा नहीं बने। वे सादा जीवन जीते और ग्रंथ लिखते थे। उन्होंने अर्थशास्त्र और चाणक्य नीति लिखी, जिनमें अच्छे जीवन और अच्छे राज्य की बहुत सलाह है। वे कहते थे, “ज्ञान ही सबसे बड़ा धन है।”",
+       "en": "Chanakya did not become a king himself. He lived a simple life and wrote books. He wrote the Arthashastra and the Chanakya Niti, which have much advice about a good life and a good kingdom. He used to say, “Knowledge is the greatest wealth.”"},
+     "shot": {"who": ["chanakya"], "setting": "a modest forest hut with a lamp, many palm-leaf manuscripts stacked, a river outside in the evening glow", "action": "Chanakya sits on a mat writing with a reed pen on a palm-leaf; young students sit near him listening", "expression": "Chanakya: peaceful, contented, wise", "camera": "medium shot, warm lamp light"}}
+  ],
+  "lesson": {"gu": "ચાણક્ય આપણને શીખવે છે: જ્ઞાન મેળવો, સમજી-વિચારીને નિર્ણય લો, શિસ્તમાં રહો અને દેશને પ્રેમ કરો.", "hi": "चाणक्य हमें सिखाते हैं: ज्ञान प्राप्त करो, सोच-समझकर निर्णय लो, अनुशासन में रहो और देश से प्रेम करो।", "en": "Chanakya teaches us: gain knowledge, decide wisely, stay disciplined and love your country."},
+  "points": [
+    {"gu": "જ્ઞાન: સૌથી મોટું ધન", "hi": "ज्ञान: सबसे बड़ा धन", "en": "Knowledge: the greatest wealth"},
+    {"gu": "શિસ્ત: સમયસર અને નિયમથી કામ", "hi": "अनुशासन: समय और नियम से काम", "en": "Discipline: work on time and with rules"},
+    {"gu": "દેશપ્રેમ: બધાનું ભલું વિચારવું", "hi": "देशप्रेम: सबका भला सोचना", "en": "Love of country: think of everyone's good"}
+  ],
+  "words": [
+    {"gu": "વિદ્વાન = ઘણું જાણનાર", "hi": "विद्वान = बहुत जानने वाला", "en": "Scholar = one who knows a lot"},
+    {"gu": "સમ્રાટ = મહારાજા", "hi": "सम्राट = महाराजा", "en": "Emperor = a great king"}
+  ],
+  "quiz": [
+    {"q": {"gu": "ચાણક્યએ કોને સમ્રાટ બનાવવામાં મદદ કરી?", "hi": "चाणक्य ने किसे सम्राट बनाने में मदद की?", "en": "Whom did Chanakya help to become emperor?"},
+     "a": {"gu": ["ચંદ્રગુપ્ત મૌર્ય", "અર્જુન", "શ્રીરામ"], "hi": ["चंद्रगुप्त मौर्य", "अर्जुन", "श्रीराम"], "en": ["Chandragupta Maurya", "Arjun", "Shri Ram"]}},
+    {"q": {"gu": "ચાણક્ય કઈ પ્રાચીન વિદ્યાપીઠમાં ભણાવતા હતા?", "hi": "चाणक्य किस प्राचीन विद्यापीठ में पढ़ाते थे?", "en": "At which ancient university did Chanakya teach?"},
+     "a": {"gu": ["તક્ષશિલા", "નાલંદા", "કાશી"], "hi": ["तक्षशिला", "नालंदा", "काशी"], "en": ["Takshashila", "Nalanda", "Kashi"]}},
+    {"q": {"gu": "ચાણક્યએ કયા ગ્રંથની રચના કરી?", "hi": "चाणक्य ने किस ग्रंथ की रचना की?", "en": "Which book did Chanakya write?"},
+     "a": {"gu": ["અર્થશાસ્ત્ર", "રામાયણ", "પંચતંત્ર"], "hi": ["अर्थशास्त्र", "रामायण", "पंचतंत्र"], "en": ["Arthashastra", "Ramayana", "Panchatantra"]}}
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "abcd-Q", "char": "sita",
+  "source": "Valmiki Ramayana (Bala, Aranya, Sundara Kandas)",
+  "status": "draft-reviewed-by-claude",
+  "tag": {"gu": "ધીરજ અને પવિત્રતાની મૂર્તિ", "hi": "धैर्य और पवित्रता की मूर्ति", "en": "Queen of Patience and Purity"},
+  "scenes": [
+    {"id": 1, "mood": "gentle-royal",
+     "text": {
+       "gu": "સીતાજી મિથિલાના રાજા જનકની પુત્રી હતાં. રાજા જનકને તે ખેતરની ધરતીમાંથી મળ્યાં હતાં, એટલે તેમને ભૂમિજા પણ કહે છે. સીતાજી દયાળુ, સમજદાર અને ખૂબ સુંદર સ્વભાવનાં હતાં.",
+       "hi": "सीता जी मिथिला के राजा जनक की पुत्री थीं। राजा जनक को वे खेत की धरती से मिली थीं, इसलिए उन्हें भूमिजा भी कहते हैं। सीता जी दयालु, समझदार और बहुत सुंदर स्वभाव की थीं।",
+       "en": "Sita was the daughter of King Janak of Mithila. King Janak found her in a furrow of the earth, so she is also called Bhumija. Sita was kind, wise and gentle by nature."},
+     "shot": {"who": ["sita", "janak"], "setting": "a green farm field at sunrise with a golden plough and a small glowing lotus bed in the soil", "action": "King Janak lifts a baby girl wrapped in a soft cloth from the soil with wonder while farmers watch happily", "expression": "Janak: amazed joy; baby: smiling", "camera": "medium shot with golden sunrise light"}},
+    {"id": 2, "mood": "joyful-ceremony",
+     "text": {
+       "gu": "સ્વયંવરમાં શ્રીરામે શિવજીનું મોટું ધનુષ્ય ઉપાડ્યું અને સીતાજીના વર બન્યા. સીતાજીએ પ્રેમથી રામના ગળામાં વરમાળા પહેરાવી. બંનેનું લગ્ન ધામધૂમથી થયું.",
+       "hi": "स्वयंवर में श्रीराम ने शिव जी का विशाल धनुष उठाया और सीता जी के वर बने। सीता जी ने प्रेम से राम के गले में वरमाला पहनाई। दोनों का विवाह धूमधाम से हुआ।",
+       "en": "At the swayamvar Shri Ram lifted Shiva's great bow and became Sita's husband. Sita lovingly placed the garland around Ram's neck. Their wedding was celebrated with joy."},
+     "shot": {"who": ["sita", "ram"], "setting": "a grand palace hall of Mithila with flowers and lamps", "action": "Sita places a flower garland around Ram's neck while royal guests watch and shower petals", "expression": "Sita: shy happy smile; Ram: gentle joy", "camera": "medium shot, festive golden light"}},
+    {"id": 3, "mood": "loving-brave",
+     "text": {
+       "gu": "જ્યારે રામને વનવાસ મળ્યો, ત્યારે સીતાજીએ રાજમહેલનું સુખ છોડીને રામ સાથે વનમાં જવાનું પસંદ કર્યું. તેઓ વનમાં સાદા કપડાં પહેરીને પણ ખુશ રહેતાં અને કુટીરને સુંદર રાખતાં.",
+       "hi": "जब राम को वनवास मिला, तब सीता जी ने राजमहल का सुख छोड़कर राम के साथ वन जाना चुना। वे वन में सादे वस्त्र पहनकर भी प्रसन्न रहतीं और कुटिया को सुंदर रखतीं।",
+       "en": "When Ram was sent to the forest, Sita chose to leave the comforts of the palace and go with him. Even in simple clothes she stayed happy and kept their hut lovely."},
+     "shot": {"who": ["sita", "ram", "laxman"], "setting": "a peaceful forest hut with flowers, a little herb garden and a deer nearby", "action": "Sita waters flowers outside the hut, smiling at a baby deer, while Ram and Laxman work nearby", "expression": "Sita: content and gentle", "camera": "wide cosy shot in dappled forest light"}},
+    {"id": 4, "mood": "patient-hopeful",
+     "text": {
+       "gu": "રાવણ સીતાજીને લંકા લઈ ગયો. લંકાની અશોક વાટિકામાં સીતાજી ભયભીત ન થયાં અને રોજ શ્રીરામનું નામ લેતાં રહ્યાં. તેમણે ધીરજ અને હિંમત ન ગુમાવી.",
+       "hi": "रावण सीता जी को लंका ले गया। लंका की अशोक वाटिका में सीता जी डरी नहीं और रोज़ श्रीराम का नाम लेती रहीं। उन्होंने धैर्य और साहस नहीं खोया।",
+       "en": "Ravan took Sita to Lanka. In the Ashok Vatika of Lanka, Sita was not afraid and kept chanting Shri Ram's name every day. She never lost her patience or courage."},
+     "shot": {"who": ["sita", "hanuman"], "setting": "Ashok Vatika garden with a tall tree and soft evening light, no guards in focus", "action": "Sita sits calmly under the tree with folded hands while tiny Hanuman peeks from the branches holding Ram's ring, with a glow of hope", "expression": "Sita: calm courage; Hanuman: gentle respect", "camera": "medium shot, soft golden light"}},
+    {"id": 5, "mood": "reunion-warm",
+     "text": {
+       "gu": "અંતે શ્રીરામ, લક્ષ્મણ અને હનુમાનજીની મદદથી સીતાજી મુક્ત થયાં. પછી બધા અયોધ્યા પાછા ફર્યા. સીતાજી આપણને શીખવે છે કે સાચા સમયે ધીરજ, સત્ય અને હિંમત હંમેશાં કામ આવે છે.",
+       "hi": "अंत में श्रीराम, लक्ष्मण और हनुमान जी की मदद से सीता जी मुक्त हुईं। फिर सब अयोध्या लौटे। सीता जी हमें सिखाती हैं कि कठिन समय में धैर्य, सत्य और साहस हमेशा काम आते हैं।",
+       "en": "At last, with the help of Shri Ram, Laxman and Hanuman, Sita was freed. Then all returned to Ayodhya. Sita teaches us that patience, truth and courage always help in hard times."},
+     "shot": {"who": ["sita", "ram", "laxman", "hanuman"], "setting": "a flower-decorated chariot at dawn near Ayodhya with villagers waving", "action": "Sita, Ram, Laxman and Hanuman stand together smiling, Sita holds her hands in namaste", "expression": "all: happy and relieved", "camera": "wide warm shot with petals in the air"}}
+  ],
+  "lesson": {"gu": "સીતાજી આપણને શીખવે છે: ધીરજ રાખો, સત્યને વળગી રહો અને મુશ્કેલીમાં પણ હિંમત રાખો.", "hi": "सीता जी हमें सिखाती हैं: धैर्य रखो, सत्य पर टिके रहो और कठिनाई में भी साहस रखो।", "en": "Sita teaches us: be patient, hold on to truth and stay brave even in difficulty."},
+  "points": [
+    {"gu": "ધીરજ: મુશ્કેલીમાં શાંત", "hi": "धैर्य: कठिनाई में शांत", "en": "Patience: calm in trouble"},
+    {"gu": "સાથ: પરિવારને પ્રેમ", "hi": "साथ: परिवार से प्रेम", "en": "Togetherness: love your family"},
+    {"gu": "હિંમત: ડર્યા વગર સાચું", "hi": "साहस: बिना डरे सत्य", "en": "Courage: truth without fear"}
+  ],
+  "words": [
+    {"gu": "સ્વયંવર = કન્યા જાતે વર પસંદ કરે", "hi": "स्वयंवर = कन्या स्वयं वर चुने", "en": "Swayamvar = the bride chooses her groom"},
+    {"gu": "ભૂમિજા = ધરતીમાંથી જન્મેલી", "hi": "भूमिजा = धरती से जन्मी", "en": "Bhumija = born from the earth"}
+  ],
+  "quiz": [
+    {"q": {"gu": "સીતાજીના પિતા કોણ હતા?", "hi": "सीता जी के पिता कौन थे?", "en": "Who was Sita's father?"},
+     "a": {"gu": ["રાજા જનક", "દશરથ", "સુગ્રીવ"], "hi": ["राजा जनक", "दशरथ", "सुग्रीव"], "en": ["King Janak", "Dasharath", "Sugriv"]}},
+    {"q": {"gu": "સીતાજીને બીજું કયું નામ મળ્યું છે?", "hi": "सीता जी को और कौन-सा नाम मिला है?", "en": "What is another name of Sita?"},
+     "a": {"gu": ["ભૂમિજા", "ગંગા", "રાધા"], "hi": ["भूमिजा", "गंगा", "राधा"], "en": ["Bhumija", "Ganga", "Radha"]}},
+    {"q": {"gu": "સીતાજી લંકામાં કયા બગીચામાં રહ્યાં?", "hi": "सीता जी लंका में किस उद्यान में रहीं?", "en": "In which garden did Sita stay in Lanka?"},
+     "a": {"gu": ["અશોક વાટિકા", "નંદનવન", "વૃંદાવન"], "hi": ["अशोक वाटिका", "नंदनवन", "वृंदावन"], "en": ["Ashok Vatika", "Nandanvan", "Vrindavan"]}}
+  ]
+}

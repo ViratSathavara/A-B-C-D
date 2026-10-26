@@ -1,0 +1,56 @@
+{
+  "id": "abcd-U", "char": "uma",
+  "source": "Shiva Purana, Kumarasambhava tradition: Parvati's tapasya; Skanda Purana",
+  "status": "draft-reviewed-by-claude",
+  "tag": {"gu": "દૃઢ નિશ્ચય", "hi": "दृढ़ निश्चय", "en": "A Firm Resolve"},
+  "scenes": [
+    {"id": 1, "mood": "gentle-royal",
+     "text": {
+       "gu": "પાર્વતીજી હિમાલય રાજાની પુત્રી હતાં. તેમનું બીજું નામ ઉમા છે. નાનપણથી જ તેઓ ભગવાન શિવજીને ખૂબ ચાહતાં અને તેમનું ધ્યાન કરતાં.",
+       "hi": "पार्वती जी हिमालय राज की पुत्री थीं। उनका दूसरा नाम उमा है। बचपन से ही वे भगवान शिव से बहुत प्रेम करती थीं और उनका ध्यान करती थीं।",
+       "en": "Parvati was the daughter of King Himalaya. Her other name is Uma. From childhood she loved Lord Shiva deeply and meditated on him."},
+     "shot": {"who": ["uma"], "setting": "a flower garden at the foot of the snowy Himalayas with peacocks", "action": "young Uma folds her hands towards a distant Kailash peak, with flowers around her and a soft smile", "expression": "gentle devotion", "camera": "medium shot at child level"}},
+    {"id": 2, "mood": "determined-calm",
+     "text": {
+       "gu": "શિવજી ધ્યાનમાં મગ્ન રહેતા હતા. ઉમાએ તેમને પામવા માટે કઠિન તપસ્યા કરવાનું નક્કી કર્યું. તેઓ વનમાં ગયાં અને ઘણા દિવસો સુધી શાંતિથી ધ્યાન કરતાં રહ્યાં.",
+       "hi": "शिव जी ध्यान में मग्न रहते थे। उमा ने उन्हें पाने के लिए कठिन तपस्या करने का निश्चय किया। वे वन में गईं और कई दिनों तक शांत होकर ध्यान करती रहीं।",
+       "en": "Shiva stayed absorbed in meditation. Uma decided to do a hard penance to win him. She went into the forest and meditated calmly for many days."},
+     "shot": {"who": ["uma"], "setting": "a quiet forest clearing by a waterfall with rock and trees", "action": "Uma sits in meditation with closed eyes under a tree, a gentle light around her and animals resting nearby", "expression": "calm, strong resolve", "camera": "wide serene shot"}},
+    {"id": 3, "mood": "testing-wise",
+     "text": {
+       "gu": "એક દિવસ ખુદ શિવજીએ સાધુનું રૂપ લઈને ઉમાની પરીક્ષા લીધી. સાધુએ શિવજીની ટીકા કરી, પણ ઉમા ગુસ્સે થયા વગર શાંતિથી કહ્યું કે તેમનો નિશ્ચય જરાય બદલાશે નહીં.",
+       "hi": "एक दिन स्वयं शिव जी ने साधु का रूप लेकर उमा की परीक्षा ली। साधु ने शिव जी की निंदा की, पर उमा ने क्रोध किए बिना शांति से कहा कि उनका निश्चय बिलकुल नहीं बदलेगा।",
+       "en": "One day Shiva himself took the form of a sage to test Uma. The sage spoke badly of Shiva, but Uma, without getting angry, calmly said that her resolve would never change."},
+     "shot": {"who": ["uma", "shiva"], "setting": "the forest clearing at dusk with firelight", "action": "an old sage with a staff stands before Uma, who looks at him with a calm, gentle, firm smile and folded hands", "expression": "Uma: serene and steady; sage: watching with kindness", "camera": "medium two-shot, warm dusk light"}},
+    {"id": 4, "mood": "joyful-reveal",
+     "text": {
+       "gu": "ઉમાના દૃઢ નિશ્ચયથી શિવજી ખુશ થયા અને પોતાના સાચા રૂપમાં પ્રગટ થયા. તેમણે ઉમાનું તપ સ્વીકાર્યું અને તેમની સાથે લગ્ન કરવા સંમત થયા.",
+       "hi": "उमा के दृढ़ निश्चय से शिव जी प्रसन्न हुए और अपने सच्चे रूप में प्रकट हुए। उन्होंने उमा की तपस्या स्वीकार की और उनके साथ विवाह के लिए सहमत हुए।",
+       "en": "Shiva was pleased by Uma's firm resolve and appeared in his true form. He accepted her penance and agreed to marry her."},
+     "shot": {"who": ["uma", "shiva"], "setting": "the forest clearing glowing with golden light and falling flower petals", "action": "Shiva appears with a gentle smile and raised blessing hand, while Uma bows with joy and wonder", "expression": "Shiva: kind; Uma: happy tears of joy", "camera": "medium shot with divine glow"}},
+    {"id": 5, "mood": "festive-warm",
+     "text": {
+       "gu": "શિવ-પાર્વતીના લગ્ન ખૂબ ધામધૂમથી થયા. દેવો અને ઋષિઓએ આશીર્વાદ આપ્યા. ઉમા આપણને શીખવે છે કે દૃઢ નિશ્ચય, ધીરજ અને ભક્તિથી દરેક ઇચ્છા પૂરી થાય છે.",
+       "hi": "शिव-पार्वती का विवाह बड़े धूमधाम से हुआ। देवताओं और ऋषियों ने आशीर्वाद दिया। उमा हमें सिखाती हैं कि दृढ़ निश्चय, धैर्य और भक्ति से हर इच्छा पूरी होती है।",
+       "en": "The wedding of Shiva and Parvati was celebrated with great joy. Gods and sages gave their blessings. Uma teaches us that firm resolve, patience and devotion fulfil every wish."},
+     "shot": {"who": ["uma", "shiva"], "setting": "a Himalayan wedding mandap of flowers and lamps with gods, sages and animals as guests", "action": "Shiva and Uma stand together with folded hands while guests shower flower petals", "expression": "both: joyful, serene", "camera": "wide festive shot"}}
+  ],
+  "lesson": {"gu": "ઉમા આપણને શીખવે છે: દૃઢ નિશ્ચય અને ધીરજથી લક્ષ્ય પ્રાપ્ત થાય છે.", "hi": "उमा हमें सिखाती हैं: दृढ़ निश्चय और धैर्य से लक्ष्य प्राप्त होता है।", "en": "Uma teaches us: firm resolve and patience bring us to our goal."},
+  "points": [
+    {"gu": "દૃઢ નિશ્ચય", "hi": "दृढ़ निश्चय", "en": "Firm resolve"},
+    {"gu": "ધીરજ અને ભક્તિ", "hi": "धैर्य और भक्ति", "en": "Patience and devotion"},
+    {"gu": "શાંત મન, ગુસ્સો નહીં", "hi": "शांत मन, क्रोध नहीं", "en": "A calm mind, no anger"}
+  ],
+  "words": [
+    {"gu": "તપસ્યા = ધીરજથી કરેલી સાધના", "hi": "तपस्या = धैर्य से की गई साधना", "en": "Tapasya = disciplined effort with patience"},
+    {"gu": "નિશ્ચય = પાક્કો નિર્ણય", "hi": "निश्चय = पक्का निर्णय", "en": "Resolve = a firm decision"}
+  ],
+  "quiz": [
+    {"q": {"gu": "ઉમા કોનું બીજું નામ છે?", "hi": "उमा किसका दूसरा नाम है?", "en": "Whose other name is Uma?"},
+     "a": {"gu": ["પાર્વતીજી", "સીતાજી", "લક્ષ્મીજી"], "hi": ["पार्वती जी", "सीता जी", "लक्ष्मी जी"], "en": ["Parvati", "Sita", "Lakshmi"]}},
+    {"q": {"gu": "પાર્વતીજીએ કોને પામવા તપસ્યા કરી?", "hi": "पार्वती जी ने किसे पाने के लिए तपस्या की?", "en": "Whom did Parvati meditate to win?"},
+     "a": {"gu": ["શિવજી", "વિષ્ણુ", "બ્રહ્મા"], "hi": ["शिव जी", "विष्णु", "ब्रह्मा"], "en": ["Lord Shiva", "Vishnu", "Brahma"]}},
+    {"q": {"gu": "પાર્વતીજીના પિતા કોણ હતા?", "hi": "पार्वती जी के पिता कौन थे?", "en": "Who was Parvati's father?"},
+     "a": {"gu": ["રાજા હિમાલય", "જનક", "દશરથ"], "hi": ["राजा हिमालय", "जनक", "दशरथ"], "en": ["King Himalaya", "Janak", "Dasharath"]}}
+  ]
+}

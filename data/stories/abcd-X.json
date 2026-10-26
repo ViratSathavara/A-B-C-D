@@ -1,0 +1,56 @@
+{
+  "id": "abcd-X", "char": "kshama",
+  "source": "Valmiki Ramayana (Bala Kanda): Vishwamitra and Vashishtha, with Kamadhenu Shabala; Puranic retellings",
+  "status": "draft-reviewed-by-claude",
+  "tag": {"gu": "ક્ષમા વીરનું આભૂષણ", "hi": "क्षमा वीर का आभूषण", "en": "Forgiveness Is a Hero's Jewel"},
+  "scenes": [
+    {"id": 1, "mood": "calm-welcoming",
+     "text": {
+       "gu": "ઋષિ વશિષ્ઠ ખૂબ શાંત અને જ્ઞાની હતા. એક દિવસ રાજા વિશ્વામિત્ર પોતાની સેના સાથે તેમના આશ્રમમાં આવ્યા. વશિષ્ઠે બધાનું પ્રેમથી સ્વાગત કર્યું અને ભોજન કરાવ્યું.",
+       "hi": "ऋषि वशिष्ठ बहुत शांत और ज्ञानी थे। एक दिन राजा विश्वामित्र अपनी सेना के साथ उनके आश्रम में आए। वशिष्ठ ने सबका प्रेम से स्वागत किया और भोजन कराया।",
+       "en": "Sage Vashishtha was calm and wise. One day King Vishwamitra came to his ashram with his army. Vashishtha welcomed everyone lovingly and fed them."},
+     "shot": {"who": ["vashishtha"], "setting": "a peaceful hermitage in a green forest with huts, cows and a sacred fire", "action": "Vashishtha welcomes King Vishwamitra (royal, with crown, strong build, curious) with folded hands while soldiers wait respectfully at the gate", "expression": "Vashishtha: warm and serene; king: surprised", "camera": "medium shot in soft morning light"}},
+    {"id": 2, "mood": "wonder-tense",
+     "text": {
+       "gu": "વિશ્વામિત્રે જોયું કે વશિષ્ઠ પાસે નંદિની નામની દિવ્ય ગાય છે, જે માગ્યું તે આપે છે. રાજાએ ગાય માગી, પણ વશિષ્ઠે નમ્રતાથી ના પાડી કારણ કે ગાય આશ્રમ માટે જરૂરી હતી.",
+       "hi": "विश्वामित्र ने देखा कि वशिष्ठ के पास नंदिनी नाम की दिव्य गाय है, जो माँगने पर सब कुछ देती है। राजा ने गाय माँगी, पर वशिष्ठ ने विनम्रता से मना किया क्योंकि गाय आश्रम के लिए आवश्यक थी।",
+       "en": "Vishwamitra saw that Vashishtha had a divine cow named Nandini who could give whatever was asked. The king asked for the cow, but Vashishtha politely refused because she was needed for the ashram."},
+     "shot": {"who": ["vashishtha"], "setting": "the hermitage meadow with a glowing white divine cow and a small calf", "action": "Vashishtha gently places a hand on the cow while the king points towards her; the sage shakes his head kindly", "expression": "Vashishtha: gentle firmness; king: eager", "camera": "medium two-shot"}},
+    {"id": 3, "mood": "conflict-restrained",
+     "text": {
+       "gu": "રાજા ગુસ્સે થયા અને ગાયને લઈ જવાનો પ્રયત્ન કર્યો. ત્યારે ગાયની શક્તિથી વિશ્વામિત્રની સેના રોકાઈ ગઈ. વશિષ્ઠે ગુસ્સો ન કર્યો અને શાંતિ જાળવી.",
+       "hi": "राजा क्रोधित हुए और गाय को ले जाने का प्रयास किया। तब गाय की शक्ति से विश्वामित्र की सेना रुक गई। वशिष्ठ ने क्रोध नहीं किया और शांति बनाए रखी।",
+       "en": "The king became angry and tried to take the cow away. Then, by the cow's power, Vishwamitra's army was stopped. Vashishtha did not become angry and stayed calm."},
+     "shot": {"who": ["vashishtha"], "setting": "the hermitage meadow in bright daylight with a gentle shimmering light surrounding the cow, no violence shown", "action": "soldiers stand still in surprise as the king stares in amazement; Vashishtha stands calmly with folded hands", "expression": "king: stunned; Vashishtha: serene", "camera": "wide shot with soft golden light"}},
+    {"id": 4, "mood": "humbling-reflective",
+     "text": {
+       "gu": "વિશ્વામિત્રને સમજાયું કે શક્તિ કરતાં તપ અને ક્ષમાની તાકાત મોટી છે. તેમણે રાજ્ય છોડી દીધું અને પોતે ઋષિ બનવા માટે તપસ્યા શરૂ કરી.",
+       "hi": "विश्वामित्र को समझ आया कि शक्ति से बड़ी तप और क्षमा की ताकत है। उन्होंने राज्य छोड़ दिया और स्वयं ऋषि बनने के लिए तपस्या आरंभ की।",
+       "en": "Vishwamitra realised that the power of penance and forgiveness is greater than the power of force. He left his kingdom and began tapasya to become a sage."},
+     "shot": {"who": ["vashishtha"], "setting": "a forest at dawn, Vishwamitra removing his crown and sitting down to meditate by a river", "action": "Vishwamitra sets his crown on the ground and sits in meditation with closed eyes in the soft dawn light; Vashishtha watches from afar with a gentle smile", "expression": "Vishwamitra: humbled and focused; Vashishtha: kind", "camera": "wide reflective shot"}},
+    {"id": 5, "mood": "gracious-peace",
+     "text": {
+       "gu": "ઘણા વર્ષોની તપસ્યા પછી વિશ્વામિત્ર મહાન ઋષિ બન્યા. ત્યારે વશિષ્ઠે તેમને પ્રેમથી ‘બ્રહ્મર્ષિ’ કહીને સ્વીકાર્યા. ક્ષમા આપવી એ સૌથી મોટી બહાદુરી છે, એવું આ કથા શીખવે છે.",
+       "hi": "कई वर्षों की तपस्या के बाद विश्वामित्र महान ऋषि बने। तब वशिष्ठ ने उन्हें प्रेम से ‘ब्रह्मर्षि’ कहकर स्वीकार किया। क्षमा करना सबसे बड़ी वीरता है, यह कथा यही सिखाती है।",
+       "en": "After many years of tapasya Vishwamitra became a great sage. Then Vashishtha lovingly accepted him, calling him ‘Brahmarshi’. This story teaches that forgiving is the greatest bravery."},
+     "shot": {"who": ["vashishtha"], "setting": "a bright hermitage courtyard at sunrise with sages seated around", "action": "Vashishtha and the now-saintly Vishwamitra (white robes, rudraksh) embrace warmly, with sages blessing them and flowers falling", "expression": "both: warm, peaceful", "camera": "medium two-shot, golden sunrise"}}
+  ],
+  "lesson": {"gu": "ક્ષમા આપણને શીખવે છે: ગુસ્સો ન કરો, માફ કરો અને શાંતિથી જીતો.", "hi": "क्षमा हमें सिखाती है: क्रोध न करो, माफ़ करो और शांति से जीतो।", "en": "Forgiveness teaches us: do not get angry, forgive and win with peace."},
+  "points": [
+    {"gu": "ક્ષમા: માફ કરવું", "hi": "क्षमा: माफ़ करना", "en": "Forgiveness: to forgive"},
+    {"gu": "શાંતિ: ગુસ્સા કરતાં મોટી", "hi": "शांति: क्रोध से बड़ी", "en": "Peace: greater than anger"},
+    {"gu": "તપસ્યા: મહેનતથી બદલાવ", "hi": "तपस्या: परिश्रम से बदलाव", "en": "Tapasya: change through effort"}
+  ],
+  "words": [
+    {"gu": "ક્ષમા = માફ કરવું", "hi": "क्षमा = माफ़ करना", "en": "Kshama = forgiveness"},
+    {"gu": "બ્રહ્મર્ષિ = સૌથી ઉચ્ચ ઋષિ", "hi": "ब्रह्मर्षि = सर्वोच्च ऋषि", "en": "Brahmarshi = the highest sage"}
+  ],
+  "quiz": [
+    {"q": {"gu": "વશિષ્ઠ ઋષિએ ગુસ્સો કર્યો કે શાંતિ રાખી?", "hi": "वशिष्ठ ऋषि ने क्रोध किया या शांति रखी?", "en": "Did Sage Vashishtha get angry or stay calm?"},
+     "a": {"gu": ["શાંતિ રાખી", "ગુસ્સો કર્યો", "ભાગી ગયા"], "hi": ["शांति रखी", "क्रोध किया", "भाग गए"], "en": ["Stayed calm", "Got angry", "Ran away"]}},
+    {"q": {"gu": "દિવ્ય ગાયનું નામ શું હતું?", "hi": "दिव्य गाय का नाम क्या था?", "en": "What was the divine cow called?"},
+     "a": {"gu": ["નંદિની", "ગંગા", "લક્ષ્મી"], "hi": ["नंदिनी", "गंगा", "लक्ष्मी"], "en": ["Nandini", "Ganga", "Lakshmi"]}},
+    {"q": {"gu": "આ કથા આપણને શું શીખવે છે?", "hi": "यह कथा हमें क्या सिखाती है?", "en": "What does this story teach us?"},
+     "a": {"gu": ["ક્ષમા સૌથી મોટી બહાદુરી છે", "લડવું સારું છે", "ગાય લઈ લેવી"], "hi": ["क्षमा सबसे बड़ी वीरता है", "लड़ना अच्छा है", "गाय ले लेनी चाहिए"], "en": ["Forgiveness is the greatest bravery", "Fighting is good", "Take the cow"]}}
+  ]
+}

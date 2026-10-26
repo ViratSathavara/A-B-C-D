@@ -1,0 +1,56 @@
+{
+  "id": "abcd-M", "char": "meera",
+  "source": "Bhakti tradition: life and bhajans of Meerabai (Merta, Mewar, Vrindavan, Dwarka); traditional accounts",
+  "status": "draft-reviewed-by-claude",
+  "tag": {"gu": "કૃષ્ણપ્રેમની દીવાની", "hi": "कृष्णप्रेम की दीवानी", "en": "Lost in Love for Krishna"},
+  "scenes": [
+    {"id": 1, "mood": "innocent-loving",
+     "text": {
+       "gu": "મીરાંબાઈનો જન્મ રાજસ્થાનના મેડતા નગરમાં થયો હતો. નાનપણમાં તેમને એક નાની શ્રીકૃષ્ણની મૂર્તિ મળી અને તેઓ તેને પોતાનો સાચો સખા માનવા લાગ્યાં. તેઓ તેની સાથે વાતો કરતાં, રમતાં અને તેને ભોજન ધરાવતાં.",
+       "hi": "मीराबाई का जन्म राजस्थान के मेड़ता नगर में हुआ था। बचपन में उन्हें श्रीकृष्ण की एक छोटी मूर्ति मिली और वे उसे अपना सच्चा सखा मानने लगीं। वे उससे बातें करतीं, खेलतीं और उसे भोजन अर्पित करतीं।",
+       "en": "Meerabai was born in Merta in Rajasthan. As a little girl she received a small idol of Shri Krishna and started to see him as her truest friend. She talked to him, played with him and offered him her food."},
+     "shot": {"who": ["meera"], "setting": "a Rajasthani haveli courtyard with arches, a small shrine and morning sun", "action": "little Meera (age 6) sits before a small Krishna idol, offers it a tiny bowl of food and smiles as if listening to a friend", "expression": "pure joy and innocence", "camera": "gentle medium shot, golden morning light"}},
+    {"id": 2, "mood": "joyful-musical",
+     "text": {
+       "gu": "મોટાં થઈને મીરાં મધુર ભજનો ગાતાં અને કૃષ્ણની મૂર્તિ સામે નાચતાં. તેઓ ગાતાં, “મેરે તો ગિરધર ગોપાલ, દૂસરો ન કોઈ.” તેમનો અવાજ સાંભળીને લોકો શાંતિ અને આનંદ અનુભવતા.",
+       "hi": "बड़े होकर मीरा मधुर भजन गातीं और कृष्ण की मूर्ति के सामने नाचतीं। वे गातीं, “मेरे तो गिरधर गोपाल, दूसरो न कोई।” उनकी आवाज़ सुनकर लोग शांति और आनंद का अनुभव करते।",
+       "en": "As she grew up, Meera sang sweet bhajans and danced before the idol of Krishna. She sang, “For me there is only Giridhar Gopal, no one else.” People who heard her felt peace and joy."},
+     "shot": {"who": ["meera"], "setting": "a palace temple room with lamps, flowers and a Krishna idol, soft evening light", "action": "Meera plays her ektara and sings with eyes half closed, dancing a gentle step; women listen with folded hands", "expression": "Meera: blissful devotion; listeners: peaceful", "camera": "medium shot with warm lamp glow"}},
+    {"id": 3, "mood": "steady-brave",
+     "text": {
+       "gu": "મીરાંનાં લગ્ન મેવાડના રાજકુમાર સાથે થયાં. ત્યાં કેટલાક લોકો તેમની ભક્તિથી નારાજ થયા અને તેમને ઘણી તકલીફો આપી. પણ મીરાંએ ક્યારેય ગુસ્સો કર્યો નહીં અને તેમની શ્રદ્ધા જરાય ડગી નહીં.",
+       "hi": "मीरा का विवाह मेवाड़ के राजकुमार से हुआ। वहाँ कुछ लोग उनकी भक्ति से नाराज़ हुए और उन्हें बहुत कष्ट दिए। पर मीरा ने कभी क्रोध नहीं किया और उनकी श्रद्धा ज़रा भी नहीं डगमगाई।",
+       "en": "Meera was married into the royal family of Mewar. There some people were unhappy with her devotion and made things difficult for her. But Meera never became angry and her faith never shook."},
+     "shot": {"who": ["meera"], "setting": "a Mewar palace hall with carved pillars and lamps, evening light", "action": "Meera sits calmly in front of her Krishna idol, eyes closed, folded hands, while shadows of disapproving courtiers fall softly across the floor", "expression": "calm, strong and fearless", "camera": "medium shot with a glowing light around her"}},
+    {"id": 4, "mood": "free-joyful",
+     "text": {
+       "gu": "પછી મીરાં રાજમહેલ છોડીને વૃંદાવન અને દ્વારકા ગયાં. તેઓ સાધુ-સંતો સાથે ભજન ગાતાં અને કૃષ્ણનું નામ લેતાં. ત્યાં તેમને ખૂબ શાંતિ મળી.",
+       "hi": "फिर मीरा राजमहल छोड़कर वृंदावन और द्वारका गईं। वे साधु-संतों के साथ भजन गातीं और कृष्ण का नाम लेतीं। वहाँ उन्हें बहुत शांति मिली।",
+       "en": "Then Meera left the royal palace and travelled to Vrindavan and Dwarka. She sang bhajans with sages and devotees and chanted Krishna's name. There she found deep peace."},
+     "shot": {"who": ["meera"], "setting": "Vrindavan groves with kadamba trees and peacocks at golden hour, Yamuna in the background", "action": "Meera walks along the Yamuna bank with her ektara among sadhus, smiling at the sky", "expression": "free, radiant, peaceful", "camera": "wide shot with long evening shadows"}},
+    {"id": 5, "mood": "timeless-peace",
+     "text": {
+       "gu": "મીરાંના ભજનો આજે પણ ઘરો અને મંદિરોમાં ગવાય છે. તેમનું જીવન આપણને શીખવે છે કે સાચી ભક્તિ ડર્યા વગર, પ્રેમથી અને પૂરા વિશ્વાસથી કરવી જોઈએ.",
+       "hi": "मीरा के भजन आज भी घरों और मंदिरों में गाए जाते हैं। उनका जीवन हमें सिखाता है कि सच्ची भक्ति बिना डरे, प्रेम से और पूरे विश्वास के साथ करनी चाहिए।",
+       "en": "Meera's bhajans are still sung in homes and temples today. Her life teaches us that true devotion should be done without fear, with love and complete trust."},
+     "shot": {"who": ["meera", "krishna"], "setting": "a dreamy twilight sky with soft clouds and a glowing temple below, lotus petals floating", "action": "Meera sings with her ektara while a soft, gentle vision of little Krishna with a flute smiles at her from the glowing clouds; below, families sing bhajans in a temple", "expression": "Meera: tender bliss; Krishna: loving smile", "camera": "wide dreamy shot, soft pink-gold light"}}
+  ],
+  "lesson": {"gu": "મીરાંબાઈ આપણને શીખવે છે: સાચી ભક્તિ, વિશ્વાસ અને હિંમતથી સાચા માર્ગે ચાલો.", "hi": "मीराबाई हमें सिखाती हैं: सच्ची भक्ति, विश्वास और साहस से सही मार्ग पर चलो।", "en": "Meerabai teaches us: walk the right path with true devotion, trust and courage."},
+  "points": [
+    {"gu": "ભક્તિ: પ્રેમથી ભગવાનને યાદ કરવા", "hi": "भक्ति: प्रेम से भगवान को याद करना", "en": "Devotion: remember God with love"},
+    {"gu": "વિશ્વાસ: મુશ્કેલીમાં પણ અડગ", "hi": "विश्वास: कठिनाई में भी अडिग", "en": "Trust: firm even in hardship"},
+    {"gu": "સંગીત: ભજનથી શાંતિ", "hi": "संगीत: भजन से शांति", "en": "Music: peace through bhajans"}
+  ],
+  "words": [
+    {"gu": "ભજન = ભગવાનનું ગીત", "hi": "भजन = भगवान का गीत", "en": "Bhajan = a song for God"},
+    {"gu": "એકતારો = એક તારવાળું વાદ્ય", "hi": "इकतारा = एक तार वाला वाद्य", "en": "Ektara = a one-stringed instrument"}
+  ],
+  "quiz": [
+    {"q": {"gu": "મીરાંબાઈ કોનાં ભક્ત હતાં?", "hi": "मीराबाई किसकी भक्त थीं?", "en": "Whose devotee was Meerabai?"},
+     "a": {"gu": ["શ્રીકૃષ્ણ", "ગણેશજી", "હનુમાનજી"], "hi": ["श्रीकृष्ण", "गणेश जी", "हनुमान जी"], "en": ["Shri Krishna", "Ganesh", "Hanuman"]}},
+    {"q": {"gu": "મીરાંબાઈ ભજન ગાતી વખતે કયું વાદ્ય વગાડતાં?", "hi": "मीराबाई भजन गाते समय कौन-सा वाद्य बजाती थीं?", "en": "Which instrument did Meera play while singing?"},
+     "a": {"gu": ["એકતારો", "ઢોલ", "શંખ"], "hi": ["इकतारा", "ढोल", "शंख"], "en": ["Ektara", "Dhol", "Conch"]}},
+    {"q": {"gu": "મીરાંબાઈનો જન્મ કયા રાજ્યમાં થયો હતો?", "hi": "मीराबाई का जन्म किस राज्य में हुआ था?", "en": "In which state was Meerabai born?"},
+     "a": {"gu": ["રાજસ્થાન", "ગુજરાત", "કેરળ"], "hi": ["राजस्थान", "गुजरात", "केरल"], "en": ["Rajasthan", "Gujarat", "Kerala"]}}
+  ]
+}

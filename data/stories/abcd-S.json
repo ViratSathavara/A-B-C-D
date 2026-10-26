@@ -1,0 +1,56 @@
+{
+  "id": "abcd-S", "char": "shravan",
+  "source": "Valmiki Ramayana (Ayodhya Kanda, Shravan Kumar episode, as told by Dasharath); popular tradition",
+  "status": "draft-reviewed-by-claude",
+  "tag": {"gu": "માતા-પિતાનો સેવક", "hi": "माता-पिता का सेवक", "en": "Devoted to His Parents"},
+  "scenes": [
+    {"id": 1, "mood": "humble-warm",
+     "text": {
+       "gu": "શ્રવણ કુમાર એક સરળ અને નમ્ર યુવાન હતા. તેમનાં માતા-પિતા વૃદ્ધ હતાં અને તેઓ આંખે જોઈ શકતાં ન હતાં. શ્રવણ તેમને ખૂબ પ્રેમ કરતા અને તેમની રોજ સેવા કરતા.",
+       "hi": "श्रवण कुमार एक सरल और विनम्र युवक थे। उनके माता-पिता वृद्ध थे और आँखों से देख नहीं सकते थे। श्रवण उनसे बहुत प्रेम करते और रोज़ उनकी सेवा करते।",
+       "en": "Shravan Kumar was a simple and humble young man. His parents were old and could not see. Shravan loved them dearly and served them every day."},
+     "shot": {"who": ["shravan"], "setting": "a hut in a village forest with a small garden", "action": "Shravan gently feeds his old blind mother and father, smiling warmly while they bless him", "expression": "Shravan: loving care; parents: grateful", "camera": "medium shot in warm morning light"}},
+    {"id": 2, "mood": "hopeful-journey",
+     "text": {
+       "gu": "એક દિવસ માતા-પિતાએ તીર્થયાત્રા પર જવાની ઇચ્છા બતાવી. શ્રવણે તેમને કાવડમાં બેસાડ્યાં, કાવડ પોતાના ખભા પર ઊંચકી અને પગપાળા ચાલવા લાગ્યા.",
+       "hi": "एक दिन माता-पिता ने तीर्थयात्रा पर जाने की इच्छा बताई। श्रवण ने उन्हें काँवड़ में बिठाया, काँवड़ अपने कंधों पर उठाई और पैदल चल पड़े।",
+       "en": "One day his parents expressed a wish to go on a pilgrimage. Shravan seated them in a kavad, lifted it on his shoulders and set out on foot."},
+     "shot": {"who": ["shravan"], "setting": "a sunlit forest road with tall trees and birds", "action": "Shravan walks with a kavad on his shoulders, an old mother and father sitting in the baskets, all smiling", "expression": "Shravan: cheerful effort; parents: peaceful", "camera": "wide shot following their journey"}},
+    {"id": 3, "mood": "tender-tired",
+     "text": {
+       "gu": "રસ્તામાં માતા-પિતાને તરસ લાગી. શ્રવણે તેમને ઝાડ નીચે બેસાડ્યાં અને પોતે નદી પર પાણી લેવા ગયા. તેમણે ખૂબ કાળજીથી માટલી ભરી.",
+       "hi": "रास्ते में माता-पिता को प्यास लगी। श्रवण ने उन्हें पेड़ के नीचे बिठाया और स्वयं नदी पर पानी लेने गए। उन्होंने बहुत ध्यान से घड़ा भरा।",
+       "en": "On the way his parents felt thirsty. Shravan seated them under a tree and went to the river to fetch water. He filled the pot very carefully."},
+     "shot": {"who": ["shravan"], "setting": "a calm river with reeds at dusk and the parents resting under a banyan tree in the distance", "action": "Shravan kneels at the riverbank filling a clay pot carefully, glancing back at his parents with affection", "expression": "Shravan: loving concern", "camera": "medium shot at golden hour"}},
+    {"id": 4, "mood": "sad-teaching",
+     "text": {
+       "gu": "તે જ સમયે રાજકુમાર દશરથ શિકાર માટે જંગલમાં હતા. પાણીનો અવાજ સાંભળીને તેમણે ભૂલથી તીર છોડ્યું. તીર શ્રવણને વાગ્યું. દશરથને ખૂબ પસ્તાવો થયો અને તેમણે તરત માફી માંગી.",
+       "hi": "उसी समय राजकुमार दशरथ शिकार के लिए वन में थे। पानी की आवाज़ सुनकर उन्होंने भूल से तीर चला दिया। तीर श्रवण को लगा। दशरथ को बहुत पछतावा हुआ और उन्होंने तुरंत क्षमा माँगी।",
+       "en": "At that time Prince Dasharath was hunting in the forest. Hearing the sound of water, he shot an arrow by mistake. The arrow hit Shravan. Dasharath felt deep regret and asked for forgiveness at once."},
+     "shot": {"who": ["shravan"], "setting": "river bank at dusk, no blood shown, soft light", "action": "Young Prince Dasharath kneels with folded hands beside Shravan, who lies gently and still speaks kindly, a clay pot beside them", "expression": "Dasharath: sorrow and regret; Shravan: calm and kind", "camera": "soft close shot, gentle lighting"}},
+    {"id": 5, "mood": "reflective-peaceful",
+     "text": {
+       "gu": "શ્રવણે દશરથને કહ્યું કે તેમના માતા-પિતાને પાણી પહોંચાડી દો. દશરથે જઈને બધું સાચું કહ્યું. શ્રવણની માતા-પિતાની સેવા આજે પણ યાદ કરાય છે, અને તે આપણને માતા-પિતાનો આદર કરવાનું શીખવે છે.",
+       "hi": "श्रवण ने दशरथ से कहा कि उनके माता-पिता तक पानी पहुँचा दीजिए। दशरथ ने जाकर सब सच-सच बताया। श्रवण की माता-पिता की सेवा आज भी याद की जाती है, और वह हमें माता-पिता का आदर करना सिखाती है।",
+       "en": "Shravan asked Dasharath to carry water to his parents. Dasharath went and told them the whole truth. Shravan's service to his parents is remembered even today, and it teaches us to respect our parents."},
+     "shot": {"who": ["shravan"], "setting": "a banyan tree at night, a glowing lamp and soft moonlight", "action": "Dasharath brings the water pot to the old couple, who bless him with raised hands; a gentle star-like glow rises into the sky", "expression": "elders: sorrow and blessing; Dasharath: humble", "camera": "soft moonlit medium shot"}}
+  ],
+  "lesson": {"gu": "શ્રવણ કુમાર આપણને શીખવે છે: માતા-પિતાનો આદર કરો અને તેમની સેવા પ્રેમથી કરો.", "hi": "श्रवण कुमार हमें सिखाते हैं: माता-पिता का आदर करो और उनकी सेवा प्रेम से करो।", "en": "Shravan Kumar teaches us: respect your parents and serve them with love."},
+  "points": [
+    {"gu": "સેવા: વડીલોની કાળજી", "hi": "सेवा: बड़ों की देखभाल", "en": "Service: care for elders"},
+    {"gu": "આદર: માતા-પિતાનું માન", "hi": "आदर: माता-पिता का सम्मान", "en": "Respect: honour your parents"},
+    {"gu": "સાવધાની: જોઈને કામ કરો", "hi": "सावधानी: देखकर काम करो", "en": "Care: look before you act"}
+  ],
+  "words": [
+    {"gu": "કાવડ = ખભા પર ઊંચકવાનું વાંસનું સાધન", "hi": "काँवड़ = कंधे पर उठाने का बाँस का साधन", "en": "Kavad = a bamboo carrier worn on the shoulders"},
+    {"gu": "તીર્થયાત્રા = પવિત્ર સ્થળે જવું", "hi": "तीर्थयात्रा = पवित्र स्थान की यात्रा", "en": "Pilgrimage = a journey to a holy place"}
+  ],
+  "quiz": [
+    {"q": {"gu": "શ્રવણ કુમાર માતા-પિતાને શેમાં લઈ ગયા?", "hi": "श्रवण कुमार माता-पिता को किसमें ले गए?", "en": "In what did Shravan carry his parents?"},
+     "a": {"gu": ["કાવડ", "રથ", "ગાડું"], "hi": ["काँवड़", "रथ", "गाड़ी"], "en": ["A kavad", "A chariot", "A cart"]}},
+    {"q": {"gu": "શ્રવણનાં માતા-પિતા કેવાં હતાં?", "hi": "श्रवण के माता-पिता कैसे थे?", "en": "What were Shravan's parents like?"},
+     "a": {"gu": ["વૃદ્ધ અને અંધ", "યુવાન", "રાજા-રાણી"], "hi": ["वृद्ध और अंधे", "युवा", "राजा-रानी"], "en": ["Old and blind", "Young", "A king and queen"]}},
+    {"q": {"gu": "શ્રવણની વાર્તા આપણને શું શીખવે છે?", "hi": "श्रवण की कथा हमें क्या सिखाती है?", "en": "What does Shravan's story teach us?"},
+     "a": {"gu": ["માતા-પિતાનો આદર કરવો", "શિકાર કરવો", "દૂર જવું"], "hi": ["माता-पिता का आदर करना", "शिकार करना", "दूर जाना"], "en": ["Respect your parents", "Go hunting", "Travel far"]}}
+  ]
+}

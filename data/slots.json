@@ -1,8 +1,31 @@
 {
-  "_rule": "Every character id may appear in only ONE alphabet slot across ALL alphabets (English, Gujarati, Hindi). scripts/build-data.mjs fails if it does not hold.",
+  "_rule": "English A-Z slots live here. Gujarati and Hindi slots are the 'char' of each item in data/sections/akshar-gu.json and akshar-hi.json. A character id may be used ONCE across all three alphabets; scripts/build-data.mjs fails otherwise.",
   "abcd": {
-    "A":"arjun","B":"bhishma","C":"chanakya","D":"dronacharya","E":"eklavya","F":"shabari","G":"ganesh","H":"hanuman",
-    "I":"indra","J":"janak","K":"krishna","L":"laxman","M":"meera","N":"narad","O":"om","P":"prahlad","Q":"sita",
-    "R":"ram","S":"shravan","T":"tapasya","U":"uma","V":"vishwakarma","W":"puja","X":"kshama","Y":"yudhishthira","Z":"rashi"
+    "A": "arjun",
+    "B": "bhishma",
+    "C": "chanakya",
+    "D": "dronacharya",
+    "E": "eklavya",
+    "F": "shabari",
+    "G": "ganesh",
+    "H": "hanuman",
+    "I": "indra",
+    "J": "janak",
+    "K": "krishna",
+    "L": "laxman",
+    "M": "meera",
+    "N": "narad",
+    "O": "om",
+    "P": "prahlad",
+    "Q": "sita",
+    "R": "ram",
+    "S": "shravan",
+    "T": "tapasya",
+    "U": "uma",
+    "V": "vishwakarma",
+    "W": "puja",
+    "X": "kshama",
+    "Y": "yudhishthira",
+    "Z": "rashi"
   }
 }

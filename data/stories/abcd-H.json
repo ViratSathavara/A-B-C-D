@@ -1,0 +1,56 @@
+{
+  "id": "abcd-H", "char": "hanuman",
+  "source": "Ramayana (Kishkindha, Sundara and Yuddha Kandas); childhood sun story from Puranic tradition",
+  "status": "draft-reviewed-by-claude",
+  "tag": {"gu": "બળ અને ભક્તિ", "hi": "बल और भक्ति", "en": "Strength and Devotion"},
+  "scenes": [
+    {"id": 1, "mood": "playful-curious",
+     "text": {
+       "gu": "હનુમાનજી માતા અંજની અને વાયુદેવ પવનના પુત્ર છે, એટલે તેમને પવનપુત્ર કહે છે. બાળપણમાં તેમણે સવારના લાલ સૂર્યને મીઠું ફળ સમજ્યું અને તે ખાવા માટે આકાશમાં ઊડી ગયા!",
+       "hi": "हनुमान जी माता अंजनी और वायुदेव पवन के पुत्र हैं, इसलिए उन्हें पवनपुत्र कहते हैं। बचपन में उन्होंने सुबह के लाल सूर्य को मीठा फल समझा और उसे खाने के लिए आकाश में उड़ गए!",
+       "en": "Hanuman is the son of Mother Anjani and Vayu, the Wind God, so he is called Pavanputra. As a child he mistook the red morning sun for a sweet fruit and leapt into the sky to eat it!"},
+     "shot": {"who": ["hanuman"], "setting": "a glowing orange sky at sunrise over green hills, white clouds", "action": "baby Hanuman (a cute small monkey-boy with golden fur) flies up joyfully toward the big red sun, arms stretched, giggling", "expression": "wide-eyed joyful curiosity", "camera": "low-angle wide shot with the sun glowing"}},
+    {"id": 2, "mood": "blessed-gentle",
+     "text": {
+       "gu": "દેવોને ચિંતા થઈ, અને ઇન્દ્રે પોતાનું વજ્ર ધીમેથી ફેંક્યું જે હનુમાનજીની હડપચી પર લાગ્યું. ત્યારથી તેમનું નામ હનુમાન પડ્યું. બધા દેવોએ તેમને શક્તિ, બુદ્ધિ અને હિંમતના આશીર્વાદ આપ્યા.",
+       "hi": "देवताओं को चिंता हुई और इन्द्र ने अपना वज्र धीरे से फेंका, जो हनुमान जी की ठुड्डी पर लगा। तभी से उनका नाम हनुमान पड़ा। सभी देवताओं ने उन्हें शक्ति, बुद्धि और साहस के आशीर्वाद दिए।",
+       "en": "The gods grew worried, and Indra gently threw his thunderbolt, which touched Hanuman's chin. From then on he was called Hanuman, \"one with the jaw\". All the gods blessed him with strength, wisdom and courage."},
+     "shot": {"who": ["hanuman", "indra"], "setting": "heavenly clouds with golden light, divine gods gathering around", "action": "little Hanuman sits calmly on a cloud while several gods including Indra bless him with raised hands and sparkles of light", "expression": "Hanuman: surprised then smiling; gods: kind and proud", "camera": "wide celestial scene"}},
+    {"id": 3, "mood": "devoted-emotional",
+     "text": {
+       "gu": "મોટા થઈને હનુમાનજી ભગવાન રામ અને લક્ષ્મણજીને જંગલમાં મળ્યા. તેમણે નમ્રતાથી હાથ જોડીને પ્રણામ કર્યા અને તે જ ક્ષણથી તેઓ રામના સૌથી મોટા ભક્ત બની ગયા.",
+       "hi": "बड़े होकर हनुमान जी भगवान राम और लक्ष्मण जी से जंगल में मिले। उन्होंने विनम्रता से हाथ जोड़कर प्रणाम किया और उसी क्षण से वे राम के सबसे बड़े भक्त बन गए।",
+       "en": "When he grew up, Hanuman met Lord Ram and Laxman in the forest. He bowed with folded hands, and from that moment he became Ram's greatest devotee."},
+     "shot": {"who": ["hanuman", "ram", "laxman"], "setting": "a rocky forest hill path in soft morning light", "action": "Hanuman (disguised as a gentle young sage at first, then in his true form) bows with folded hands before Ram and Laxman, who smile warmly", "expression": "Hanuman: humble devotion; Ram: kind; Laxman: pleased", "camera": "medium three-shot, warm light"}},
+    {"id": 4, "mood": "heroic-hopeful",
+     "text": {
+       "gu": "જ્યારે રાવણ માતા સીતાને લંકા લઈ ગયો, ત્યારે હનુમાનજીએ એક મોટો કૂદકો મારીને સમુદ્ર પાર કર્યો. લંકામાં તેમણે અશોક વાટિકામાં માતા સીતાને શોધ્યાં અને રામની વીંટી આપીને કહ્યું, “માતા, ચિંતા ન કરો, રામજી જલદી આવશે.”",
+       "hi": "जब रावण माता सीता को लंका ले गया, तब हनुमान जी ने एक बड़ी छलाँग लगाकर समुद्र पार किया। लंका में उन्होंने अशोक वाटिका में माता सीता को खोजा और राम की अँगूठी देकर कहा, “माता, चिंता न करें, रामजी शीघ्र आएँगे।”",
+       "en": "When Ravan took Mother Sita to Lanka, Hanuman made a great leap across the ocean. In Lanka he found Mother Sita in the Ashok Vatika garden, gave her Ram's ring and said, “Mother, do not worry, Ram will come soon.”"},
+     "shot": {"who": ["hanuman", "sita"], "setting": "Ashok Vatika garden in Lanka with tall trees, glowing flowers and a soft moonlit sky", "action": "Hanuman kneels respectfully near Sita under a tree and gently holds out a golden ring in his palm; Sita looks up with hopeful tears", "expression": "Hanuman: gentle, reassuring; Sita: surprised joy and hope", "camera": "medium shot with the ring glowing in the centre"}},
+    {"id": 5, "mood": "humble-strong",
+     "text": {
+       "gu": "યુદ્ધમાં લક્ષ્મણજી બેભાન થયા, ત્યારે હનુમાનજી હિમાલય જઈને સંજીવની બુટ્ટી શોધતાં આખો પર્વત ઉપાડી લાવ્યા. આટલા શક્તિશાળી હોવા છતાં તેઓ હંમેશાં નમ્ર રહ્યા અને કહેતા, “બધું રામજીની કૃપા છે.”",
+       "hi": "युद्ध में लक्ष्मण जी बेहोश हुए, तब हनुमान जी हिमालय जाकर संजीवनी बूटी खोजते हुए पूरा पर्वत उठा लाए। इतने शक्तिशाली होने पर भी वे हमेशा विनम्र रहे और कहते थे, “सब रामजी की कृपा है।”",
+       "en": "When Laxman fell unconscious in the war, Hanuman flew to the Himalayas to find the Sanjeevani herb and brought back the whole mountain. Though so powerful, he always stayed humble and said, “It is all Ram's grace.”"},
+     "shot": {"who": ["hanuman"], "setting": "a night sky with stars over the ocean, a glowing mountain with herbs shining on Hanuman's palm", "action": "Hanuman flies across the sky carrying a glowing herb-covered mountain on one raised palm, cape of clouds behind him", "expression": "determined, heroic, loving", "camera": "wide low-angle shot with stars and glowing mountain"}}
+  ],
+  "lesson": {"gu": "હનુમાનજી આપણને શીખવે છે: ભક્તિ, હિંમત અને નિઃસ્વાર્થ સેવા કરો, અને શક્તિ હોય ત્યારે પણ નમ્ર રહો.", "hi": "हनुमान जी हमें सिखाते हैं: भक्ति, साहस और निःस्वार्थ सेवा करो, और शक्ति होने पर भी विनम्र रहो।", "en": "Hanuman teaches us: have devotion, courage and selfless service, and stay humble even when you are strong."},
+  "points": [
+    {"gu": "ભક્તિ: પ્રેમથી સેવા", "hi": "भक्ति: प्रेम से सेवा", "en": "Devotion: serve with love"},
+    {"gu": "હિંમત: મુશ્કેલીમાં ડરવું નહીં", "hi": "साहस: कठिनाई में डरना नहीं", "en": "Courage: do not fear difficulty"},
+    {"gu": "નમ્રતા: શક્તિમાં પણ સરળતા", "hi": "विनम्रता: शक्ति में भी सरलता", "en": "Humility: stay simple even when strong"}
+  ],
+  "words": [
+    {"gu": "પવનપુત્ર = પવનદેવના પુત્ર", "hi": "पवनपुत्र = पवनदेव के पुत्र", "en": "Pavanputra = son of the Wind God"},
+    {"gu": "સંજીવની = જીવન આપતી બુટ્ટી", "hi": "संजीवनी = जीवन देने वाली बूटी", "en": "Sanjeevani = a life-giving herb"}
+  ],
+  "quiz": [
+    {"q": {"gu": "બાળક હનુમાને સૂર્યને શું સમજ્યું?", "hi": "बालक हनुमान ने सूर्य को क्या समझा?", "en": "What did child Hanuman think the sun was?"},
+     "a": {"gu": ["મીઠું ફળ", "દીવો", "બોલ"], "hi": ["मीठा फल", "दीया", "गेंद"], "en": ["A sweet fruit", "A lamp", "A ball"]}},
+    {"q": {"gu": "હનુમાનજી સીતાજીને શું આપવા ગયા?", "hi": "हनुमान जी सीता जी को क्या देने गए?", "en": "What did Hanuman give to Sita?"},
+     "a": {"gu": ["રામજીની વીંટી", "ફૂલ", "ગદા"], "hi": ["रामजी की अँगूठी", "फूल", "गदा"], "en": ["Ram's ring", "A flower", "A mace"]}},
+    {"q": {"gu": "હનુમાનજી સંજીવની માટે શું લાવ્યા?", "hi": "हनुमान जी संजीवनी के लिए क्या लाए?", "en": "What did Hanuman bring for Sanjeevani?"},
+     "a": {"gu": ["આખો પર્વત", "નદી", "ઝાડ"], "hi": ["पूरा पर्वत", "नदी", "पेड़"], "en": ["A whole mountain", "A river", "A tree"]}}
+  ]
+}

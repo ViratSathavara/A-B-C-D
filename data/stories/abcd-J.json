@@ -1,0 +1,56 @@
+{
+  "id": "abcd-J", "char": "janak",
+  "source": "Ramayana (Bala Kanda: Janak finds Sita, the Shiva bow, the wedding)",
+  "status": "draft-reviewed-by-claude",
+  "tag": {"gu": "જ્ઞાની રાજા", "hi": "ज्ञानी राजा", "en": "The Wise King"},
+  "scenes": [
+    {"id": 1, "mood": "calm-wise",
+     "text": {
+       "gu": "રાજા જનક મિથિલા નગરીના રાજા હતા. તેઓ ખૂબ જ્ઞાની, ન્યાયી અને દયાળુ હતા. રાજા હોવા છતાં તેઓ સાદું જીવન જીવતા, એટલે લોકો તેમને રાજર્ષિ કહેતા, એટલે રાજા અને ઋષિ બંને.",
+       "hi": "राजा जनक मिथिला नगरी के राजा थे। वे बहुत ज्ञानी, न्यायी और दयालु थे। राजा होने पर भी वे सादा जीवन जीते थे, इसलिए लोग उन्हें राजर्षि कहते थे, यानी राजा और ऋषि दोनों।",
+       "en": "King Janak ruled the city of Mithila. He was very wise, fair and kind. Though he was a king, he lived simply, so people called him Rajarshi, both a king and a sage."},
+     "shot": {"who": ["janak"], "setting": "the royal court of Mithila with elegant arches, scholars sitting around, a calm peaceful atmosphere", "action": "King Janak sits on a simple throne listening carefully to a scholar, with a gentle smile", "expression": "wise, attentive, kind", "camera": "medium shot with warm interior light"}},
+    {"id": 2, "mood": "wonder-joy",
+     "text": {
+       "gu": "એક વાર રાજા જનક યજ્ઞ માટે ખેતર ખેડતા હતા. ત્યારે હળની રેખા પાસે ધરતીમાંથી એક નાની સુંદર બાળકી મળી. રાજાએ તેને પોતાની દીકરીની જેમ ઉપાડી લીધી. હળની રેખાને સીતા કહે છે, તેથી તેનું નામ સીતા પડ્યું.",
+       "hi": "एक बार राजा जनक यज्ञ के लिए खेत जोत रहे थे। तब हल की रेखा के पास धरती से एक छोटी सुंदर बालिका मिली। राजा ने उसे अपनी बेटी की तरह गोद में उठा लिया। हल की रेखा को सीता कहते हैं, इसलिए उसका नाम सीता पड़ा।",
+       "en": "Once King Janak was ploughing a field for a yajna. Near the line of the plough, a tiny beautiful baby girl was found in the earth. The king lifted her lovingly like his own daughter. The furrow is called 'sita', so she was named Sita."},
+     "shot": {"who": ["janak"], "setting": "a golden-brown field at sunrise with a wooden plough, oxen, farmers and a soft glow rising from the furrow", "action": "King Janak kneels in the furrow and gently lifts a glowing baby girl wrapped in a golden cloth, farmers watch in wonder", "expression": "Janak: amazed and tender; farmers: awed", "camera": "medium-close shot, golden glow"}},
+    {"id": 3, "mood": "loving-proud",
+     "text": {
+       "gu": "જનક અને રાણી સુનયનાએ સીતાને ખૂબ પ્રેમથી ઉછેરી. સીતા બુદ્ધિશાળી, દયાળુ અને બહાદુર બન્યાં. લોકો તેમને જાનકી પણ કહેતા, એટલે જનકની દીકરી.",
+       "hi": "जनक और रानी सुनयना ने सीता को बहुत प्रेम से पाला। सीता बुद्धिमान, दयालु और साहसी बनीं। लोग उन्हें जानकी भी कहते थे, यानी जनक की पुत्री।",
+       "en": "Janak and Queen Sunayana raised Sita with great love. Sita grew up wise, kind and brave. People also called her Janaki, the daughter of Janak."},
+     "shot": {"who": ["janak", "sita"], "setting": "a palace garden in Mithila with a flower swing and peacocks, bright day", "action": "King Janak pushes a smiling young Sita (age 8) on a flower-decked swing while Queen Sunayana claps", "expression": "Sita: laughing; Janak: proud and loving", "camera": "wide cheerful shot"}},
+    {"id": 4, "mood": "festive-curious",
+     "text": {
+       "gu": "જ્યારે સીતા મોટાં થયાં, ત્યારે જનકે સ્વયંવર રાખ્યો. તેમની પાસે ભગવાન શિવનું એક ભારે ધનુષ્ય હતું. શરત હતી કે જે આ ધનુષ્ય ઉપાડી શકે તે સીતા સાથે લગ્ન કરશે. ઘણા રાજાઓ આવ્યા પણ કોઈ ઉપાડી ન શક્યું.",
+       "hi": "जब सीता बड़ी हुईं, तब जनक ने स्वयंवर रखा। उनके पास भगवान शिव का एक भारी धनुष था। शर्त थी कि जो इस धनुष को उठा सकेगा वही सीता से विवाह करेगा। बहुत से राजा आए पर कोई उसे उठा न सका।",
+       "en": "When Sita grew up, Janak held a swayamvara. He had a very heavy bow of Lord Shiva. The condition was that whoever could lift this bow would marry Sita. Many kings came, but none could lift it."},
+     "shot": {"who": ["janak"], "setting": "the swayamvara hall of Mithila with golden pillars and flower garlands, kings sitting around, a huge ornate bow on a decorated platform", "action": "King Janak stands beside the huge bow gesturing to the kings; several strong kings strain but fail, looking embarrassed in a gentle comedic way", "expression": "Janak: patient and hopeful; kings: puzzled", "camera": "wide hall shot with the bow in the centre"}},
+    {"id": 5, "mood": "joyful-blessing",
+     "text": {
+       "gu": "અંતે ભગવાન રામ આવ્યા અને ખૂબ સહેલાઈથી ધનુષ્ય ઉપાડી તેને પ્રત્યંચા ચઢાવી. રાજા જનક ખુશ થઈ ગયા. મિથિલામાં રામ અને સીતાના લગ્ન ધામધૂમથી થયા અને જનકે બંનેને ખૂબ આશીર્વાદ આપ્યા.",
+       "hi": "अंत में भगवान राम आए और बहुत सरलता से धनुष उठाकर उस पर प्रत्यंचा चढ़ा दी। राजा जनक बहुत प्रसन्न हुए। मिथिला में राम और सीता का विवाह धूमधाम से हुआ और जनक ने दोनों को खूब आशीर्वाद दिया।",
+       "en": "Finally Lord Ram came and lifted the bow with great ease and strung it. King Janak was overjoyed. Ram and Sita were married in Mithila with great celebration, and Janak blessed them both with all his heart."},
+     "shot": {"who": ["janak", "ram", "sita"], "setting": "a flower-decorated wedding mandap in Mithila with lamps and marigolds", "action": "Ram and Sita stand together with flower garlands while King Janak blesses them with raised hands and a loving smile", "expression": "Janak: joyful; Ram and Sita: shy and happy", "camera": "medium shot, warm festive glow"}}
+  ],
+  "lesson": {"gu": "રાજા જનક આપણને શીખવે છે: જ્ઞાન, સાદગી અને ન્યાય સાથે જીવો, અને બાળકોને પ્રેમથી ઉછેરો.", "hi": "राजा जनक हमें सिखाते हैं: ज्ञान, सादगी और न्याय के साथ जियो, और बच्चों को प्रेम से पालो।", "en": "King Janak teaches us: live with knowledge, simplicity and fairness, and raise children with love."},
+  "points": [
+    {"gu": "જ્ઞાન: શીખતા રહેવું", "hi": "ज्ञान: सीखते रहना", "en": "Knowledge: keep learning"},
+    {"gu": "સાદગી: ઓછામાં સંતોષ", "hi": "सादगी: थोड़े में संतोष", "en": "Simplicity: be content with little"},
+    {"gu": "ન્યાય: બધા માટે સરખું", "hi": "न्याय: सबके लिए समान", "en": "Fairness: equal for all"}
+  ],
+  "words": [
+    {"gu": "રાજર્ષિ = રાજા અને ઋષિ", "hi": "राजर्षि = राजा और ऋषि", "en": "Rajarshi = a king who is also a sage"},
+    {"gu": "સ્વયંવર = કન્યા પોતાનો વર પસંદ કરે તે સભા", "hi": "स्वयंवर = जहाँ कन्या अपना वर चुनती है", "en": "Swayamvara = a gathering where the bride chooses"}
+  ],
+  "quiz": [
+    {"q": {"gu": "રાજા જનકને ખેતરમાંથી કોણ મળ્યું?", "hi": "राजा जनक को खेत से कौन मिला?", "en": "Whom did King Janak find in the field?"},
+     "a": {"gu": ["સીતા", "ઉમા", "મીરાં"], "hi": ["सीता", "उमा", "मीरा"], "en": ["Sita", "Uma", "Meera"]}},
+    {"q": {"gu": "જનક કયા નગરના રાજા હતા?", "hi": "जनक किस नगर के राजा थे?", "en": "Of which city was Janak king?"},
+     "a": {"gu": ["મિથિલા", "અયોધ્યા", "દ્વારકા"], "hi": ["मिथिला", "अयोध्या", "द्वारका"], "en": ["Mithila", "Ayodhya", "Dwarka"]}},
+    {"q": {"gu": "સીતાજી સાથે કોણે લગ્ન કર્યાં?", "hi": "सीता जी से किसने विवाह किया?", "en": "Whom did Sita marry?"},
+     "a": {"gu": ["ભગવાન રામ", "લક્ષ્મણજી", "હનુમાનજી"], "hi": ["भगवान राम", "लक्ष्मण जी", "हनुमान जी"], "en": ["Lord Ram", "Laxman", "Hanuman"]}}
+  ]
+}

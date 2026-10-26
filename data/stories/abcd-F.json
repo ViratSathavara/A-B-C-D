@@ -1,0 +1,56 @@
+{
+  "id": "abcd-F", "char": "shabari",
+  "source": "Ramayana (Aranya Kanda: Shabari); the sweet-berries episode is a beloved bhakti tradition (folk telling)",
+  "status": "draft-reviewed-by-claude",
+  "tag": {"gu": "શબરીની રાહ", "hi": "शबरी की प्रतीक्षा", "en": "Shabari's Wait"},
+  "scenes": [
+    {"id": 1, "mood": "calm-devoted",
+     "text": {
+       "gu": "શ્રદ્ધા એટલે ભગવાન અને સારા માણસો પર પાક્કો વિશ્વાસ. ઘણા સમય પહેલાં જંગલમાં શબરી નામની એક ભીલ સ્ત્રી રહેતી હતી. તે ઋષિ માતંગના આશ્રમમાં સેવા કરતી અને ભગવાનનું નામ લેતી.",
+       "hi": "श्रद्धा का अर्थ है भगवान और अच्छे लोगों पर पक्का विश्वास। बहुत समय पहले जंगल में शबरी नाम की एक भील स्त्री रहती थी। वह ऋषि मतंग के आश्रम में सेवा करती और भगवान का नाम लेती थी।",
+       "en": "Faith means a firm trust in God and in good people. Long ago in the forest lived a woman named Shabari. She served in the hermitage of the sage Matanga and chanted the name of God."},
+     "shot": {"who": ["shabari"], "setting": "a peaceful forest hermitage with small leaf huts, a sacred fire, tall trees and birds", "action": "young Shabari sweeps the hermitage yard with a broom and smiles while the sage Matanga (white beard, saffron robes) watches kindly from the hut door", "expression": "Shabari: cheerful devotion; Matanga: gentle, blessing", "camera": "wide gentle shot, morning light"}},
+    {"id": 2, "mood": "hopeful-joyful",
+     "text": {
+       "gu": "જ્યારે ગુરુ માતંગ આ દુનિયા છોડતા હતા, ત્યારે તેમણે શબરીને કહ્યું, “દીકરી, એક દિવસ ભગવાન રામ તારી કુટિયાએ આવશે.” શબરી આ સાંભળીને રાજી થઈ ગઈ અને તેણે રાહ જોવાનું નક્કી કર્યું.",
+       "hi": "जब गुरु मतंग इस संसार से विदा ले रहे थे, तब उन्होंने शबरी से कहा, “बेटी, एक दिन भगवान राम तुम्हारी कुटिया में आएँगे।” शबरी यह सुनकर बहुत प्रसन्न हुई और उसने प्रतीक्षा करने का निश्चय किया।",
+       "en": "When her guru Matanga was about to leave this world, he told Shabari, “Daughter, one day Lord Ram will come to your hut.” Shabari was filled with joy and decided to wait."},
+     "shot": {"who": ["shabari"], "setting": "the hermitage hut at sunset, golden light, a small lamp lit near the door", "action": "old sage Matanga lovingly places his hand in blessing on Shabari's head while she folds her hands, eyes sparkling", "expression": "Shabari: tearful joy; Matanga: loving, peaceful", "camera": "medium shot, warm sunset glow"}},
+    {"id": 3, "mood": "patient-steady",
+     "text": {
+       "gu": "દિવસો, મહિનાઓ અને વર્ષો વીતી ગયાં. શબરી રોજ સવારે ઊઠીને રસ્તો સાફ કરતી, ફૂલો તોડતી અને વિચારતી, “કદાચ આજે રામજી આવશે.” તે ક્યારેય થાકી નહીં અને ક્યારેય ઉદાસ ન થઈ.",
+       "hi": "दिन, महीने और साल बीत गए। शबरी रोज़ सुबह उठकर रास्ता साफ़ करती, फूल चुनती और सोचती, “शायद आज रामजी आएँगे।” वह कभी थकी नहीं और कभी उदास नहीं हुई।",
+       "en": "Days, months and years passed. Every morning Shabari swept the path, gathered flowers and thought, “Maybe Ram will come today.” She never got tired and she never lost hope."},
+     "shot": {"who": ["shabari"], "setting": "a forest path in four moods of the day: sunrise light, flowers on both sides, a hut at the end, falling leaves showing the passing seasons", "action": "old Shabari carefully sweeps the path with a broom and arranges fresh flowers by the door, looking hopefully down the path", "expression": "hopeful, patient, glowing", "camera": "wide shot along the path with soft depth"}},
+    {"id": 4, "mood": "overjoyed-loving",
+     "text": {
+       "gu": "એક દિવસ ખરેખર ભગવાન રામ અને લક્ષ્મણજી શબરીની કુટિયાએ આવ્યા! શબરી ખુશીથી રડી પડી. તેણે પ્રેમથી તેમને બેસાડ્યા અને મીઠાં મીઠાં બોર ખવડાવ્યાં, જે તેણે ચાખી ચાખીને ભેગાં કર્યાં હતાં.",
+       "hi": "एक दिन सचमुच भगवान राम और लक्ष्मण जी शबरी की कुटिया में आए! शबरी खुशी से रो पड़ी। उसने प्रेम से उन्हें बिठाया और मीठे-मीठे बेर खिलाए, जो उसने चख-चखकर इकट्ठे किए थे।",
+       "en": "One day Lord Ram and Laxman really did come to Shabari's hut! Shabari wept with joy. She seated them lovingly and offered sweet berries that she had tasted one by one to be sure they were sweet."},
+     "shot": {"who": ["shabari", "ram", "laxman"], "setting": "Shabari's leaf hut in a green forest, a leaf plate of red berries in the foreground, golden light", "action": "Ram and Laxman sit on a mat while old Shabari happily offers berries on a leaf plate", "expression": "Shabari: tearful bliss; Ram: loving smile; Laxman: curious and warm", "camera": "medium close-up of the three with berries in sharp focus"}},
+    {"id": 5, "mood": "tender-blessed",
+     "text": {
+       "gu": "ભગવાન રામે જાતિ કે સુંદરતા જોઈ નહીં, તેમણે ફક્ત શબરીનો પ્રેમ જોયો. તેમણે બોર પ્રેમથી ખાધાં અને આશીર્વાદ આપ્યા. શબરીની રાહ અને શ્રદ્ધા સફળ થઈ.",
+       "hi": "भगवान राम ने न जाति देखी, न रूप, उन्होंने केवल शबरी का प्रेम देखा। उन्होंने बेर प्रेम से खाए और आशीर्वाद दिया। शबरी की प्रतीक्षा और श्रद्धा सफल हुई।",
+       "en": "Lord Ram did not look at caste or appearance. He saw only Shabari's love. He ate the berries with delight and blessed her. Shabari's waiting and faith had come true."},
+     "shot": {"who": ["shabari", "ram"], "setting": "the same hut at golden sunset with warm light, a few petals falling", "action": "Ram eats a berry with a joyful smile and raises his other hand in blessing over Shabari, who bows with folded hands", "expression": "Ram: tender and happy; Shabari: radiant peace", "camera": "gentle medium shot with warm backlight"}}
+  ],
+  "lesson": {"gu": "શબરી આપણને શીખવે છે: શ્રદ્ધા, ધીરજ અને સાચો પ્રેમ હોય તો ભગવાન જરૂર મળે છે.", "hi": "शबरी हमें सिखाती हैं: श्रद्धा, धैर्य और सच्चा प्रेम हो तो भगवान अवश्य मिलते हैं।", "en": "Shabari teaches us: with faith, patience and true love, God surely meets us."},
+  "points": [
+    {"gu": "શ્રદ્ધા: પાક્કો વિશ્વાસ", "hi": "श्रद्धा: पक्का विश्वास", "en": "Faith: firm trust"},
+    {"gu": "ધીરજ: રાહ જોવી", "hi": "धैर्य: प्रतीक्षा करना", "en": "Patience: willing to wait"},
+    {"gu": "પ્રેમ: નિઃસ્વાર્થ ભાવ", "hi": "प्रेम: निःस्वार्थ भाव", "en": "Love: selfless feeling"}
+  ],
+  "words": [
+    {"gu": "શ્રદ્ધા = વિશ્વાસ", "hi": "श्रद्धा = विश्वास", "en": "Shraddha = faith"},
+    {"gu": "કુટિયા = નાનું ઝૂંપડું", "hi": "कुटिया = छोटी झोपड़ी", "en": "Kutiya = a small hut"}
+  ],
+  "quiz": [
+    {"q": {"gu": "શબરીએ ભગવાન રામને શું ખવડાવ્યું?", "hi": "शबरी ने भगवान राम को क्या खिलाया?", "en": "What did Shabari offer Lord Ram?"},
+     "a": {"gu": ["મીઠાં બોર", "માખણ", "મોદક"], "hi": ["मीठे बेर", "मक्खन", "मोदक"], "en": ["Sweet berries", "Butter", "Modak"]}},
+    {"q": {"gu": "શબરીને કોણે કહ્યું હતું કે રામ આવશે?", "hi": "शबरी से किसने कहा था कि राम आएँगे?", "en": "Who told Shabari that Ram would come?"},
+     "a": {"gu": ["ગુરુ માતંગ", "હનુમાનજી", "ઇન્દ્ર"], "hi": ["गुरु मतंग", "हनुमान जी", "इन्द्र"], "en": ["Guru Matanga", "Hanuman", "Indra"]}},
+    {"q": {"gu": "શબરી રોજ સવારે શું કરતી?", "hi": "शबरी रोज़ सुबह क्या करती थी?", "en": "What did Shabari do every morning?"},
+     "a": {"gu": ["રસ્તો સાફ કરતી", "ખેતર ખેડતી", "યુદ્ધ કરતી"], "hi": ["रास्ता साफ़ करती थी", "खेत जोतती थी", "युद्ध करती थी"], "en": ["Swept the path", "Ploughed the field", "Fought battles"]}}
+  ]
+}

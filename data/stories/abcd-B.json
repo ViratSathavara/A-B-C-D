@@ -1,0 +1,56 @@
+{
+  "id": "abcd-B", "char": "bhishma",
+  "source": "Mahabharata (Adi Parva: Devavrata's vow; Shanti and Anushasana Parva: Bhishma's teaching)",
+  "status": "draft-reviewed-by-claude",
+  "tag": {"gu": "ત્યાગની મૂર્તિ", "hi": "त्याग की मूर्ति", "en": "The Man of the Great Vow"},
+  "scenes": [
+    {"id": 1, "mood": "proud-happy",
+     "text": {
+       "gu": "રાજા શાંતનુ અને માતા ગંગાનો એક બહાદુર પુત્ર હતો, તેનું નામ દેવવ્રત. તે ખૂબ તેજસ્વી, બળવાન અને શાસ્ત્રો જાણનાર રાજકુમાર હતો. પિતા શાંતનુ તેને જીવથી પણ વધારે ચાહતા હતા.",
+       "hi": "राजा शांतनु और माता गंगा का एक बहादुर पुत्र था, उसका नाम देवव्रत था। वह बहुत तेजस्वी, बलवान और शास्त्रों को जानने वाला राजकुमार था। पिता शांतनु उसे प्राणों से भी अधिक प्यार करते थे।",
+       "en": "King Shantanu and Mother Ganga had a brave son named Devavrata. He was a bright, strong prince who knew the scriptures. His father Shantanu loved him more than his own life."},
+     "shot": {"who": ["bhishma"], "setting": "royal palace of Hastinapur, grand courtyard with marble pillars and a river view, morning light", "action": "young prince Devavrata (age 16) proudly practises with a bow in the courtyard while King Shantanu watches lovingly from a balcony", "expression": "Devavrata: bright, confident smile; King Shantanu: proud and loving", "camera": "wide shot, slightly low angle"}},
+    {"id": 2, "mood": "thoughtful-caring",
+     "text": {
+       "gu": "એક દિવસ રાજા શાંતનુ સત્યવતી નામની કન્યાને મળ્યા અને તેમની સાથે લગ્ન કરવા માંગતા હતા. સત્યવતીના પિતાએ શરત મૂકી કે તેમની દીકરીના પુત્રો જ રાજા બનશે. રાજા ઉદાસ થઈ ગયા, પણ દેવવ્રતે પિતાની ઉદાસી ઓળખી લીધી.",
+       "hi": "एक दिन राजा शांतनु सत्यवती नाम की कन्या से मिले और उनसे विवाह करना चाहते थे। सत्यवती के पिता ने शर्त रखी कि उनकी बेटी के पुत्र ही राजा बनेंगे। राजा उदास हो गए, पर देवव्रत ने पिता की उदासी पहचान ली।",
+       "en": "One day King Shantanu met a young woman named Satyavati and wished to marry her. Her father set a condition that only her sons would become king. The king grew sad, but Devavrata noticed his father's sadness."},
+     "shot": {"who": ["bhishma"], "setting": "a peaceful river bank in the evening with fishing boats, and the palace far away", "action": "Devavrata gently asks his sad father what is wrong; Shantanu looks down at the river; the fisher-chief and Satyavati wait in the background", "expression": "Devavrata: caring, concerned; Shantanu: quietly sad", "camera": "medium shot at eye level, soft evening light"}},
+    {"id": 3, "mood": "noble-resolute",
+     "text": {
+       "gu": "દેવવ્રત સત્યવતીના પિતા પાસે ગયા અને બધાની સામે પ્રતિજ્ઞા લીધી, “હું ક્યારેય રાજગાદી નહીં લઉં અને આખી જિંદગી લગ્ન નહીં કરું.” આકાશમાંથી ફૂલોનો વરસાદ થયો અને બધાએ કહ્યું, “કેટલી ભીષણ, એટલે કે કઠિન, પ્રતિજ્ઞા!”",
+       "hi": "देवव्रत सत्यवती के पिता के पास गए और सबके सामने प्रतिज्ञा ली, “मैं कभी राजगद्दी नहीं लूँगा और जीवन भर विवाह नहीं करूँगा।” आकाश से फूलों की वर्षा हुई और सबने कहा, “कितनी भीषण, यानी कठिन प्रतिज्ञा!”",
+       "en": "Devavrata went to Satyavati's father and made a promise before everyone: “I will never take the throne, and I will never marry in my life.” Flowers rained down from the sky, and everyone said, “What a bhishan, a terrible and difficult, vow!”"},
+     "shot": {"who": ["bhishma"], "setting": "a riverside court gathering under a big tree, flower petals falling from the sky, golden afternoon light", "action": "Devavrata stands tall with one hand raised in promise, while onlookers gasp and flower petals fall from above", "expression": "Devavrata: calm, firm and selfless; onlookers: amazed", "camera": "heroic low-angle medium shot, falling petals in the foreground"}},
+    {"id": 4, "mood": "peaceful-protective",
+     "text": {
+       "gu": "પિતા શાંતનુ પ્રસન્ન થયા અને આશીર્વાદ આપ્યા કે દેવવ્રત પોતે ઇચ્છશે ત્યારે જ તેમનું મૃત્યુ થશે. ત્યારથી તેઓ ભીષ્મ કહેવાયા. તેમણે જીવનભર હસ્તિનાપુરની અને રાજકુમારોની રક્ષા કરી અને કુટુંબના સૌથી મોટા વડીલ બન્યા.",
+       "hi": "पिता शांतनु प्रसन्न हुए और आशीर्वाद दिया कि देवव्रत जब स्वयं चाहेंगे तभी उनकी मृत्यु होगी। तभी से वे भीष्म कहलाए। उन्होंने जीवन भर हस्तिनापुर और राजकुमारों की रक्षा की और परिवार के सबसे बड़े बुज़ुर्ग बने।",
+       "en": "His father Shantanu was pleased and blessed him that he would leave this world only when he himself chose. From then on he was called Bhishma. All his life he protected Hastinapur and the young princes, and became the eldest elder of the family."},
+     "shot": {"who": ["bhishma"], "setting": "Hastinapur royal courtyard in the morning, young Pandava and Kaurava princes playing around", "action": "elderly Bhishma with a white beard smilingly watches the children and gently places a hand on a small prince's shoulder", "expression": "Bhishma: warm, wise, protective smile; children: happy", "camera": "medium shot with warm morning backlight"}},
+    {"id": 5, "mood": "serene-wise",
+     "text": {
+       "gu": "જ્યારે મહાભારતનું યુદ્ધ પૂરું થયું, ત્યારે ભીષ્મ શાંતિથી આરામ કરતા હતા. તેમણે યુધિષ્ઠિર અને બધા પાંડવોને રાજધર્મ, સત્ય અને સેવાની વાતો શીખવી. ઉત્તરાયણનો સમય આવ્યો ત્યારે તેમણે શાંતિથી આ દુનિયા છોડી.",
+       "hi": "जब महाभारत का युद्ध समाप्त हुआ, तब भीष्म शांति से विश्राम कर रहे थे। उन्होंने युधिष्ठिर और सभी पांडवों को राजधर्म, सत्य और सेवा की बातें सिखाईं। उत्तरायण का समय आया तब उन्होंने शांति से यह संसार छोड़ा।",
+       "en": "When the great war of the Mahabharata was over, Bhishma was resting peacefully. He taught Yudhishthira and all the Pandavas about a king's duty, truth and service. When the sun began its northern journey, Uttarayan, he left this world in peace."},
+     "shot": {"who": ["bhishma", "yudhishthira"], "setting": "a quiet field at sunrise, Bhishma resting on a soft bed with a white shawl, a few arrows stuck harmlessly in the ground around as a calm symbol, warm golden light, no blood", "action": "Bhishma speaks gently while Yudhishthira and the four brothers sit around him with folded hands, listening", "expression": "Bhishma: peaceful, wise, loving; Pandavas: respectful, attentive", "camera": "wide gentle shot with sun rays"}}
+  ],
+  "lesson": {"gu": "ભીષ્મ પિતામહ આપણને શીખવે છે: આપેલું વચન નિભાવો, બીજાના સુખ માટે ત્યાગ કરતાં શીખો અને હંમેશાં સત્યનો સાથ આપો.", "hi": "भीष्म पितामह हमें सिखाते हैं: दिया हुआ वचन निभाओ, दूसरों के सुख के लिए त्याग करना सीखो और हमेशा सत्य का साथ दो।", "en": "Bhishma Pitamah teaches us: keep your promises, learn to sacrifice for others' happiness, and always stand with the truth."},
+  "points": [
+    {"gu": "વચન: બોલ્યા પ્રમાણે કરો", "hi": "वचन: जो बोलो वही करो", "en": "Promise: do what you say"},
+    {"gu": "ત્યાગ: બીજાના સુખનો વિચાર", "hi": "त्याग: दूसरों के सुख का विचार", "en": "Sacrifice: think of others' happiness"},
+    {"gu": "વડીલપણું: બધાનું રક્ષણ અને માર્ગદર્શન", "hi": "बड़प्पन: सबकी रक्षा और मार्गदर्शन", "en": "Eldership: protect and guide everyone"}
+  ],
+  "words": [
+    {"gu": "પ્રતિજ્ઞા = મોટું વચન", "hi": "प्रतिज्ञा = बड़ा वचन", "en": "Pratigya = a great promise"},
+    {"gu": "ભીષ્મ = કઠિન પ્રતિજ્ઞા લેનાર", "hi": "भीष्म = कठिन प्रतिज्ञा लेने वाला", "en": "Bhishma = one who took a terrible vow"}
+  ],
+  "quiz": [
+    {"q": {"gu": "ભીષ્મ પિતામહનું બાળપણનું નામ શું હતું?", "hi": "भीष्म पितामह का बचपन का नाम क्या था?", "en": "What was Bhishma's childhood name?"},
+     "a": {"gu": ["દેવવ્રત", "યુધિષ્ઠિર", "અર્જુન"], "hi": ["देवव्रत", "युधिष्ठिर", "अर्जुन"], "en": ["Devavrata", "Yudhishthira", "Arjun"]}},
+    {"q": {"gu": "ભીષ્મે પિતાના સુખ માટે શું વચન લીધું?", "hi": "भीष्म ने पिता के सुख के लिए क्या वचन लिया?", "en": "What promise did Bhishma make for his father's happiness?"},
+     "a": {"gu": ["રાજગાદી ન લેવી અને લગ્ન ન કરવા", "દરરોજ યુદ્ધ કરવું", "વનમાં જતા રહેવું"], "hi": ["राजगद्दी न लेना और विवाह न करना", "रोज़ युद्ध करना", "वन में चले जाना"], "en": ["Not to take the throne and not to marry", "To fight every day", "To go away to the forest"]}},
+    {"q": {"gu": "ભીષ્મની માતાનું નામ શું હતું?", "hi": "भीष्म की माता का नाम क्या था?", "en": "Who was Bhishma's mother?"},
+     "a": {"gu": ["ગંગા", "કુંતી", "સત્યવતી"], "hi": ["गंगा", "कुंती", "सत्यवती"], "en": ["Ganga", "Kunti", "Satyavati"]}}
+  ]
+}

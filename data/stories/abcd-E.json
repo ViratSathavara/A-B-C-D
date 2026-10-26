@@ -1,0 +1,56 @@
+{
+  "id": "abcd-E", "char": "eklavya",
+  "source": "Mahabharata (Adi Parva: Eklavya and Drona)",
+  "status": "draft-reviewed-by-claude",
+  "tag": {"gu": "સાચો શિષ્ય", "hi": "सच्चा शिष्य", "en": "The Devoted Student"},
+  "scenes": [
+    {"id": 1, "mood": "eager-hopeful",
+     "text": {
+       "gu": "એકલવ્ય જંગલમાં રહેતા નિષાદ રાજાનો પુત્ર હતો. તેને ધનુષ્ય-બાણનો ખૂબ શોખ હતો. તેણે સાંભળ્યું કે ગુરુ દ્રોણાચાર્ય સૌથી સારી ધનુર્વિદ્યા શીખવે છે, અને તે તેમની પાસે શીખવા નીકળી પડ્યો.",
+       "hi": "एकलव्य जंगल में रहने वाले निषाद राजा का पुत्र था। उसे धनुष-बाण का बहुत शौक था। उसने सुना कि गुरु द्रोणाचार्य सबसे अच्छी धनुर्विद्या सिखाते हैं, और वह उनसे सीखने निकल पड़ा।",
+       "en": "Eklavya was the son of a Nishad king who lived in the forest. He loved the bow and arrow. He heard that Guru Dronacharya taught the finest archery, and he set out to learn from him."},
+     "shot": {"who": ["eklavya"], "setting": "a green forest path with sun rays, tall trees, small tribal huts in the distance", "action": "Eklavya walks eagerly along the forest path carrying his bow, looking toward the far-away city", "expression": "bright hopeful eyes, determined smile", "camera": "wide shot following him from the side"}},
+    {"id": 2, "mood": "disappointed-brave",
+     "text": {
+       "gu": "દ્રોણાચાર્યે એકલવ્યને શિષ્ય બનાવ્યો નહીં, કારણ કે તેમણે રાજકુમારોને શીખવવાનું વચન આપેલું હતું. એકલવ્ય દુઃખી થયો, પણ તેણે હિંમત ન હારી. તેણે ગુરુને મનોમન નમસ્કાર કર્યા અને જંગલમાં પાછો ફર્યો.",
+       "hi": "द्रोणाचार्य ने एकलव्य को शिष्य नहीं बनाया, क्योंकि उन्होंने राजकुमारों को सिखाने का वचन दिया हुआ था। एकलव्य दुखी हुआ, पर उसने हिम्मत नहीं हारी। उसने गुरु को मन ही मन प्रणाम किया और जंगल लौट गया।",
+       "en": "Dronacharya did not accept Eklavya as a student, because he had promised to teach only the princes. Eklavya felt sad, but he did not lose courage. He bowed to his guru in his heart and went back to the forest."},
+     "shot": {"who": ["eklavya", "dronacharya"], "setting": "the edge of the Hastinapur training ground at dusk", "action": "Eklavya bows with folded hands to Dronacharya, who looks at him with a kind but regretful face; Eklavya then turns to leave", "expression": "Eklavya: sad but respectful; Dronacharya: regretful", "camera": "medium shot with long evening shadows"}},
+    {"id": 3, "mood": "devoted-determined",
+     "text": {
+       "gu": "જંગલમાં એકલવ્યે માટીમાંથી ગુરુ દ્રોણાચાર્યની મૂર્તિ બનાવી. તે રોજ મૂર્તિને નમસ્કાર કરતો અને તેની સામે ધનુર્વિદ્યાનો અભ્યાસ કરતો. તેણે માની લીધું કે ગુરુ તેને જોઈ રહ્યા છે.",
+       "hi": "जंगल में एकलव्य ने मिट्टी से गुरु द्रोणाचार्य की मूर्ति बनाई। वह रोज़ मूर्ति को प्रणाम करता और उसके सामने धनुर्विद्या का अभ्यास करता। उसने मान लिया कि गुरु उसे देख रहे हैं।",
+       "en": "In the forest Eklavya made a clay statue of Guru Dronacharya. Every day he bowed to the statue and practised archery in front of it. He felt that his guru was watching him."},
+     "shot": {"who": ["eklavya"], "setting": "a quiet forest clearing with a clay statue of an old teacher under a tree, wildflowers, soft golden morning light", "action": "Eklavya aims his bow at a far target, with the clay statue of Dronacharya standing behind him; a garland of wild flowers hangs around the statue", "expression": "Eklavya: deep concentration and devotion", "camera": "medium shot from behind-left showing statue and target"}},
+    {"id": 4, "mood": "skilful-proud",
+     "text": {
+       "gu": "વર્ષો સુધી મહેનત કરીને એકલવ્ય મહાન ધનુર્ધર બની ગયો. એક વાર તેણે એક કૂતરાના ભસવાનો અવાજ બંધ કરવા ઘણાં બાણ એવી રીતે ચલાવ્યાં કે કૂતરાને જરાય ઈજા ન થઈ. અર્જુન અને દ્રોણાચાર્ય તેની કુશળતા જોઈને નવાઈ પામ્યા.",
+       "hi": "वर्षों तक मेहनत करके एकलव्य महान धनुर्धर बन गया। एक बार उसने एक कुत्ते का भौंकना रोकने के लिए कई बाण ऐसे चलाए कि कुत्ते को ज़रा भी चोट नहीं लगी। अर्जुन और द्रोणाचार्य उसकी कुशलता देखकर हैरान रह गए।",
+       "en": "After years of hard work Eklavya became a great archer. Once, to quiet a barking dog, he shot many arrows so carefully that the dog was not hurt at all. Arjun and Dronacharya were amazed at his skill."},
+     "shot": {"who": ["eklavya", "arjun", "dronacharya"], "setting": "a forest clearing, a little dog sitting calmly with arrows around its mouth like a harmless frame, dappled sunlight", "action": "Arjun and Dronacharya stand at the edge of the clearing looking at the dog and then at Eklavya, who lowers his bow", "expression": "Arjun and Dronacharya: wide-eyed wonder; Eklavya: humble calm", "camera": "wide shot from the clearing edge"}},
+    {"id": 5, "mood": "noble-giving",
+     "text": {
+       "gu": "જ્યારે દ્રોણાચાર્યે ગુરુદક્ષિણામાં તેનો જમણો અંગૂઠો માંગ્યો, ત્યારે એકલવ્યે એક પળનો પણ વિચાર કર્યા વગર હસતાં હસતાં આપી દીધો. એકલવ્ય આજે પણ સાચી ગુરુભક્તિ અને મહેનતનું ઉદાહરણ ગણાય છે.",
+       "hi": "जब द्रोणाचार्य ने गुरुदक्षिणा में उसका दाहिना अंगूठा माँगा, तब एकलव्य ने एक पल भी सोचे बिना मुस्कुराते हुए दे दिया। एकलव्य आज भी सच्ची गुरुभक्ति और मेहनत का उदाहरण माना जाता है।",
+       "en": "When Dronacharya asked for his right thumb as guru-dakshina, Eklavya gave it with a smile, without a moment's thought. Even today Eklavya is remembered as an example of true devotion to a teacher and of hard work."},
+     "shot": {"who": ["eklavya", "dronacharya"], "setting": "a forest clearing at sunset with the clay statue behind them, warm orange light", "action": "Eklavya kneels respectfully before Dronacharya with folded hands, offering his right hand; Dronacharya looks moved and sorry (no blood, no injury shown)", "expression": "Eklavya: serene, devoted; Dronacharya: deeply moved", "camera": "gentle medium shot, golden-hour glow"}}
+  ],
+  "lesson": {"gu": "એકલવ્ય આપણને શીખવે છે: સાચી લગનથી શીખનારને કોઈ રોકી શકતું નથી, અને ગુરુનો આદર હંમેશાં કરવો.", "hi": "एकलव्य हमें सिखाते हैं: सच्ची लगन से सीखने वाले को कोई रोक नहीं सकता, और गुरु का आदर हमेशा करना चाहिए।", "en": "Eklavya teaches us: nobody can stop a person who learns with true dedication, and we should always respect our teacher."},
+  "points": [
+    {"gu": "લગન: રોજ અભ્યાસ", "hi": "लगन: रोज़ अभ्यास", "en": "Dedication: practise every day"},
+    {"gu": "ગુરુભક્તિ: ગુરુનો આદર", "hi": "गुरुभक्ति: गुरु का आदर", "en": "Devotion: respect for the teacher"},
+    {"gu": "હિંમત: હાર ન માનવી", "hi": "हिम्मत: हार न मानना", "en": "Courage: never give up"}
+  ],
+  "words": [
+    {"gu": "નિષાદ = જંગલમાં રહેતા લોકો", "hi": "निषाद = जंगल में रहने वाले लोग", "en": "Nishad = people of the forest"},
+    {"gu": "ગુરુદક્ષિણા = ગુરુને આપેલી ભેટ", "hi": "गुरुदक्षिणा = गुरु को दी गई भेंट", "en": "Guru-dakshina = a gift to the teacher"}
+  ],
+  "quiz": [
+    {"q": {"gu": "એકલવ્યે જંગલમાં કોની મૂર્તિ બનાવી?", "hi": "एकलव्य ने जंगल में किसकी मूर्ति बनाई?", "en": "Whose statue did Eklavya make in the forest?"},
+     "a": {"gu": ["ગુરુ દ્રોણાચાર્યની", "ગણેશજીની", "ઇન્દ્રની"], "hi": ["गुरु द्रोणाचार्य की", "गणेशजी की", "इन्द्र की"], "en": ["Guru Dronacharya's", "Ganesh's", "Indra's"]}},
+    {"q": {"gu": "મૂર્તિ કઈ વસ્તુની બનેલી હતી?", "hi": "मूर्ति किस चीज़ की बनी थी?", "en": "What was the statue made of?"},
+     "a": {"gu": ["માટીની", "સોનાની", "લાકડાની"], "hi": ["मिट्टी की", "सोने की", "लकड़ी की"], "en": ["Clay", "Gold", "Wood"]}},
+    {"q": {"gu": "ગુરુદક્ષિણામાં ગુરુએ શું માંગ્યું?", "hi": "गुरुदक्षिणा में गुरु ने क्या माँगा?", "en": "What did the guru ask for as dakshina?"},
+     "a": {"gu": ["જમણો અંગૂઠો", "ધનુષ્ય", "સોનું"], "hi": ["दाहिना अंगूठा", "धनुष", "सोना"], "en": ["His right thumb", "His bow", "Gold"]}}
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "abcd-N", "char": "narad",
+  "source": "Puranas (Bhagavata Purana: Dhruva and Prahlad; Ramayana: Narad and Valmiki)",
+  "status": "draft-reviewed-by-claude",
+  "tag": {"gu": "દેવર્ષિ", "hi": "देवर्षि", "en": "The Heavenly Sage"},
+  "scenes": [
+    {"id": 1, "mood": "cheerful-floating",
+     "text": {
+       "gu": "નારદ મુનિને દેવર્ષિ કહે છે, એટલે દેવોના ઋષિ. તેઓ હાથમાં વીણા લઈને “નારાયણ… નારાયણ…” નામનું સ્મરણ કરતા આકાશમાં ત્રણે લોકમાં ફરતા. તેઓ ભગવાન બ્રહ્માના માનસપુત્ર છે.",
+       "hi": "नारद मुनि को देवर्षि कहते हैं, यानी देवताओं के ऋषि। वे हाथ में वीणा लेकर “नारायण… नारायण…” नाम का स्मरण करते हुए आकाश में तीनों लोकों में घूमते थे। वे भगवान ब्रह्मा के मानसपुत्र हैं।",
+       "en": "Sage Narad is called Devarshi, the sage of the gods. With his veena in hand he travelled through the three worlds, chanting “Narayan… Narayan…”. He is a mind-born son of Lord Brahma."},
+     "shot": {"who": ["narad"], "setting": "a cloud-filled sky at sunrise with stars fading, a heavenly golden glow", "action": "Narad floats lightly on a cloud strumming his veena, with one hand raised in greeting", "expression": "cheerful, light and friendly", "camera": "wide sky shot with sunrise colours"}},
+    {"id": 2, "mood": "gentle-guiding",
+     "text": {
+       "gu": "નાનકડા ધ્રુવ પાંચ વર્ષની ઉંમરે ઉદાસ થઈને જંગલમાં નીકળી ગયા હતા. નારદ મુનિએ તેમને પ્રેમથી ભક્તિનો માર્ગ બતાવ્યો અને મંત્ર શીખવ્યો, “ઓમ નમો ભગવતે વાસુદેવાય.” ધ્રુવે ધીરજથી જપ કર્યા.",
+       "hi": "नन्हे ध्रुव पाँच वर्ष की आयु में उदास होकर जंगल में चले गए थे। नारद मुनि ने उन्हें प्रेम से भक्ति का मार्ग बताया और मंत्र सिखाया, “ॐ नमो भगवते वासुदेवाय।” ध्रुव ने धैर्य से जप किया।",
+       "en": "Little Dhruv, only five years old, went into the forest feeling sad. Sage Narad lovingly showed him the path of devotion and taught him the mantra “Om Namo Bhagavate Vasudevaya”. Dhruv chanted patiently."},
+     "shot": {"who": ["narad"], "setting": "a quiet green forest with a stream and soft sunlight", "action": "Narad sits beside little Dhruv (age 5, simple clothes, a tiny crown-less boy) and softly teaches him with a hand blessing over his head", "expression": "Narad: loving and patient; Dhruv: listening seriously", "camera": "medium shot at child level, dappled light"}},
+    {"id": 3, "mood": "wise-shining",
+     "text": {
+       "gu": "નારદજીએ ભક્ત પ્રહ્લાદને પણ માતાના ગર્ભમાં હતા ત્યારે જ સારા ઉપદેશ સંભળાવ્યા હતા. એટલે પ્રહ્લાદ નાનપણથી ભગવાનના ભક્ત બન્યા. નારદજી સારા વિચારો બધે ફેલાવતા.",
+       "hi": "नारद जी ने भक्त प्रह्लाद को भी माँ के गर्भ में रहते हुए अच्छे उपदेश सुनाए थे। इसीलिए प्रह्लाद बचपन से भगवान के भक्त बने। नारद जी अच्छे विचारों को हर जगह फैलाते थे।",
+       "en": "Narad had also told good teachings to the devotee Prahlad while he was still in his mother's womb. That is why Prahlad became a devotee of God from childhood. Narad spread good ideas everywhere."},
+     "shot": {"who": ["narad"], "setting": "a calm hermitage with a mango tree and a lit lamp at dusk", "action": "Narad sits with a gentle woman (Prahlad's mother, in a simple saree) speaking softly with a veena beside him, a soft glow around her", "expression": "Narad: warm and reassuring; mother: peaceful", "camera": "medium shot with a soft glow"}},
+    {"id": 4, "mood": "inspiring-creative",
+     "text": {
+       "gu": "એક દિવસ નારદજીએ વાલ્મીકિ ઋષિને શ્રીરામની પૂરી કથા સંભળાવી. તે સાંભળીને વાલ્મીકિજીને રામાયણ લખવાની પ્રેરણા મળી. આમ નારદજીએ સારી વાર્તાઓ આખી દુનિયા સુધી પહોંચાડી.",
+       "hi": "एक दिन नारद जी ने वाल्मीकि ऋषि को श्रीराम की पूरी कथा सुनाई। उसे सुनकर वाल्मीकि जी को रामायण लिखने की प्रेरणा मिली। इस तरह नारद जी ने अच्छी कथाएँ पूरी दुनिया तक पहुँचाईं।",
+       "en": "One day Narad told the sage Valmiki the whole story of Shri Ram. After hearing it, Valmiki was inspired to write the Ramayana. In this way Narad carried good stories to the whole world."},
+     "shot": {"who": ["narad"], "setting": "Valmiki's hermitage on the bank of the river Tamasa, morning light and green trees", "action": "Narad sits with sage Valmiki (white beard, saffron robes) telling the story with open hands while Valmiki listens with wonder and a palm-leaf scroll beside him", "expression": "Narad: storytelling joy; Valmiki: inspired", "camera": "medium two-shot, warm morning light"}},
+    {"id": 5, "mood": "musical-happy",
+     "text": {
+       "gu": "નારદજીને સંગીત બહુ ગમે છે. તેઓ ભજન ગાતા અને લોકોને ભગવાનનું નામ યાદ કરાવતા. તેમનું જીવન આપણને શીખવે છે કે જ્ઞાન અને સારા સમાચાર બધા સાથે વહેંચવા જોઈએ.",
+       "hi": "नारद जी को संगीत बहुत प्रिय है। वे भजन गाते और लोगों को भगवान का नाम याद दिलाते थे। उनका जीवन हमें सिखाता है कि ज्ञान और अच्छी खबरें सबके साथ बाँटनी चाहिए।",
+       "en": "Narad loves music. He sang bhajans and reminded people of God's name. His life teaches us that knowledge and good news should be shared with everyone."},
+     "shot": {"who": ["narad"], "setting": "a village at sunset where families sit together outside, lanterns glowing", "action": "Narad sits among villagers on a mat playing the veena and singing while children clap along", "expression": "Narad: happy; villagers: delighted", "camera": "wide warm village shot"}}
+  ],
+  "lesson": {"gu": "નારદજી આપણને શીખવે છે: ભગવાનનું નામ યાદ કરો, જ્ઞાન વહેંચો અને સંગીતનો આનંદ માણો.", "hi": "नारद जी हमें सिखाते हैं: भगवान का नाम स्मरण करो, ज्ञान बाँटो और संगीत का आनंद लो।", "en": "Narad teaches us: remember God's name, share knowledge and enjoy music."},
+  "points": [
+    {"gu": "નામ સ્મરણ: રોજ પ્રાર્થના", "hi": "नाम स्मरण: रोज़ प्रार्थना", "en": "Remembrance: pray daily"},
+    {"gu": "જ્ઞાન વહેંચો", "hi": "ज्ञान बाँटो", "en": "Share knowledge"},
+    {"gu": "સંગીત: ભજન અને આનંદ", "hi": "संगीत: भजन और आनंद", "en": "Music: bhajan and joy"}
+  ],
+  "words": [
+    {"gu": "દેવર્ષિ = દેવોના ઋષિ", "hi": "देवर्षि = देवताओं के ऋषि", "en": "Devarshi = sage of the gods"},
+    {"gu": "વીણા = તારવાળું વાદ્ય", "hi": "वीणा = तार वाला वाद्य", "en": "Veena = a stringed instrument"}
+  ],
+  "quiz": [
+    {"q": {"gu": "નારદ મુનિ હાથમાં શું રાખતા?", "hi": "नारद मुनि हाथ में क्या रखते थे?", "en": "What did Narad hold in his hand?"},
+     "a": {"gu": ["વીણા", "ધનુષ્ય", "ગદા"], "hi": ["वीणा", "धनुष", "गदा"], "en": ["A veena", "A bow", "A mace"]}},
+    {"q": {"gu": "નારદ મુનિ કયું નામ સ્મરણ કરતા?", "hi": "नारद मुनि कौन-सा नाम स्मरण करते थे?", "en": "Which name did Narad chant?"},
+     "a": {"gu": ["નારાયણ", "ઇન્દ્ર", "બ્રહ્મા"], "hi": ["नारायण", "इन्द्र", "ब्रह्मा"], "en": ["Narayan", "Indra", "Brahma"]}},
+    {"q": {"gu": "નારદજીએ કોને રામની કથા સંભળાવી?", "hi": "नारद जी ने किसे राम की कथा सुनाई?", "en": "To whom did Narad tell Ram's story?"},
+     "a": {"gu": ["વાલ્મીકિ ઋષિ", "રાવણ", "ગણેશજી"], "hi": ["वाल्मीकि ऋषि", "रावण", "गणेश जी"], "en": ["Sage Valmiki", "Ravan", "Ganesh"]}}
+  ]
+}

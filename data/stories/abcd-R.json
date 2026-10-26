@@ -1,0 +1,56 @@
+{
+  "id": "abcd-R", "char": "ram",
+  "source": "Valmiki Ramayana; Ramcharitmanas",
+  "status": "draft-reviewed-by-claude",
+  "tag": {"gu": "મર્યાદા પુરુષોત્તમ", "hi": "मर्यादा पुरुषोत्तम", "en": "The Ideal Man"},
+  "scenes": [
+    {"id": 1, "mood": "joyful-royal",
+     "text": {
+       "gu": "અયોધ્યાના રાજા દશરથ અને રાણી કૌશલ્યાને ત્યાં શ્રીરામનો જન્મ થયો. આખા નગરમાં આનંદ છવાઈ ગયો. રામ નાનપણથી જ નમ્ર, સત્યવાદી અને સૌને પ્રિય હતા.",
+       "hi": "अयोध्या के राजा दशरथ और रानी कौशल्या के यहाँ श्रीराम का जन्म हुआ। पूरे नगर में आनंद छा गया। राम बचपन से ही विनम्र, सत्यवादी और सबके प्रिय थे।",
+       "en": "Shri Ram was born to King Dasharath and Queen Kaushalya of Ayodhya. Joy spread through the whole city. From childhood Ram was humble, truthful and loved by all."},
+     "shot": {"who": ["ram"], "setting": "Ayodhya palace courtyard decorated with flowers and lamps, drums and flutes playing", "action": "Queen Kaushalya holds baby Ram lovingly while King Dasharath smiles and citizens shower petals", "expression": "all: joyful", "camera": "medium warm shot"}},
+    {"id": 2, "mood": "dutiful-calm",
+     "text": {
+       "gu": "પિતા દશરથના વચનને માન આપીને શ્રીરામે રાજ્ય છોડી દીધું અને વનમાં ગયા. તેમના મનમાં જરાય ગુસ્સો ન હતો. તેમણે બધાને પ્રેમથી વિદાય આપી.",
+       "hi": "पिता दशरथ के वचन का मान रखने के लिए श्रीराम ने राज्य छोड़ दिया और वन चले गए। उनके मन में ज़रा भी क्रोध नहीं था। उन्होंने सबको प्रेम से विदा दी।",
+       "en": "To honour his father Dasharath's word, Shri Ram left the kingdom and went to the forest. There was no anger in his heart. He said farewell to everyone with love."},
+     "shot": {"who": ["ram", "sita", "laxman"], "setting": "the Ayodhya city gate at sunrise with people gathered", "action": "Ram touches his father's feet, then walks away calmly with Sita and Laxman as citizens wave with tears", "expression": "Ram: calm and loving", "camera": "wide emotional shot"}},
+    {"id": 3, "mood": "friendly-warm",
+     "text": {
+       "gu": "વનમાં રામે ઘણા ઋષિઓની રક્ષા કરી અને શબરીનાં ખાટાં-મીઠાં બોર પ્રેમથી ખાધાં. તેઓ સુગ્રીવ અને વાનર સેના સાથે મિત્રતા કરી, અને હનુમાન તેમના પ્રિય ભક્ત બન્યા.",
+       "hi": "वन में राम ने कई ऋषियों की रक्षा की और शबरी के खट्टे-मीठे बेर प्रेम से खाए। उन्होंने सुग्रीव और वानर सेना से मित्रता की, और हनुमान उनके प्रिय भक्त बने।",
+       "en": "In the forest Ram protected many sages and lovingly ate Shabari's sweet-and-sour berries. He befriended Sugriv and the vanar army, and Hanuman became his dearest devotee."},
+     "shot": {"who": ["ram", "hanuman"], "setting": "a forest clearing with a stream and a wooden bridge-like cluster of rocks, soft sunlight", "action": "Ram sits with Hanuman and friendly monkeys sharing fruit while Hanuman folds his hands with devotion", "expression": "Ram: kind smile; Hanuman: devoted", "camera": "medium friendly shot"}},
+    {"id": 4, "mood": "heroic-calm",
+     "text": {
+       "gu": "રામે રામસેતુ બનાવીને વાનરસેના સાથે લંકા પહોંચ્યા. ત્યાં રામે અધર્મી રાવણને હરાવીને ધર્મની જીત કરાવી. વિજય પછી પણ રામ નમ્ર અને શાંત રહ્યા.",
+       "hi": "राम ने रामसेतु बनाकर वानर सेना के साथ लंका पहुँचे। वहाँ राम ने अधर्मी रावण को हराकर धर्म की विजय कराई। विजय के बाद भी राम विनम्र और शांत रहे।",
+       "en": "Ram crossed to Lanka with the vanar army by building Ram Setu. There he defeated the unrighteous Ravan and let dharma win. Even after victory Ram stayed humble and calm."},
+     "shot": {"who": ["ram", "laxman", "hanuman"], "setting": "a long stone bridge over a bright blue ocean at sunrise with monkeys carrying stones", "action": "Ram stands at the bridge's start looking across the sea with a calm smile while Hanuman and monkeys work together", "expression": "Ram: calm confidence", "camera": "wide heroic shot"}},
+    {"id": 5, "mood": "celebration-warm",
+     "text": {
+       "gu": "ચૌદ વર્ષ પછી રામ અયોધ્યા પાછા ફર્યા. લોકોએ દીવા પ્રગટાવી દિવાળી ઊજવી. રામરાજ્યમાં બધા સુખી, સત્યવાદી અને શાંતિથી રહેતા હતા.",
+       "hi": "चौदह वर्ष बाद राम अयोध्या लौटे। लोगों ने दीप जलाकर दीवाली मनाई। रामराज्य में सब सुखी, सत्यवादी और शांति से रहते थे।",
+       "en": "After fourteen years Ram returned to Ayodhya. People lit lamps and celebrated Diwali. In Ramrajya everyone lived happily, truthfully and in peace."},
+     "shot": {"who": ["ram", "sita", "laxman", "hanuman"], "setting": "Ayodhya at night glowing with thousands of diyas and fireworks", "action": "Ram sits on the throne with Sita, Laxman and Hanuman beside him, people bow with folded hands", "expression": "all: radiant joy", "camera": "wide festive golden shot"}}
+  ],
+  "lesson": {"gu": "શ્રીરામ આપણને શીખવે છે: સત્ય બોલો, વચન પાળો અને બધા સાથે પ્રેમથી વર્તો.", "hi": "श्रीराम हमें सिखाते हैं: सत्य बोलो, वचन निभाओ और सबसे प्रेम से व्यवहार करो।", "en": "Shri Ram teaches us: speak truth, keep your promises and treat everyone with love."},
+  "points": [
+    {"gu": "સત્ય: વચન પાળવું", "hi": "सत्य: वचन निभाना", "en": "Truth: keep your word"},
+    {"gu": "નમ્રતા: જીત પછી પણ", "hi": "विनम्रता: जीत के बाद भी", "en": "Humility: even after victory"},
+    {"gu": "મૈત્રી: બધા સાથે પ્રેમ", "hi": "मित्रता: सबसे प्रेम", "en": "Friendship: love for all"}
+  ],
+  "words": [
+    {"gu": "મર્યાદા = સારી રીતભાત અને નિયમ", "hi": "मर्यादा = अच्छे नियम और आचरण", "en": "Maryada = good conduct and limits"},
+    {"gu": "રામરાજ્ય = ન્યાય અને સુખનું રાજ્ય", "hi": "रामराज्य = न्याय और सुख का राज्य", "en": "Ramrajya = a kingdom of justice and happiness"}
+  ],
+  "quiz": [
+    {"q": {"gu": "શ્રીરામના પિતા કોણ હતા?", "hi": "श्रीराम के पिता कौन थे?", "en": "Who was Shri Ram's father?"},
+     "a": {"gu": ["દશરથ", "જનક", "ભરત"], "hi": ["दशरथ", "जनक", "भरत"], "en": ["Dasharath", "Janak", "Bharat"]}},
+    {"q": {"gu": "રામે શબરીનાં કયાં ફળ ખાધાં?", "hi": "राम ने शबरी के कौन-से फल खाए?", "en": "Which fruits of Shabari did Ram eat?"},
+     "a": {"gu": ["બોર", "કેરી", "કેળાં"], "hi": ["बेर", "आम", "केले"], "en": ["Berries (ber)", "Mangoes", "Bananas"]}},
+    {"q": {"gu": "રામ અયોધ્યા પાછા ફર્યા ત્યારે કયો તહેવાર ઊજવાયો?", "hi": "राम के अयोध्या लौटने पर कौन-सा त्योहार मनाया गया?", "en": "Which festival was celebrated when Ram returned to Ayodhya?"},
+     "a": {"gu": ["દિવાળી", "હોળી", "ઉત્તરાયણ"], "hi": ["दीवाली", "होली", "उत्तरायण"], "en": ["Diwali", "Holi", "Uttarayan"]}}
+  ]
+}

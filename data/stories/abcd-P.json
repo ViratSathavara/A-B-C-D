@@ -1,0 +1,56 @@
+{
+  "id": "abcd-P", "char": "prahlad",
+  "source": "Bhagavata Purana (Seventh Skandha), Vishnu Purana: Prahlad and Narasimha; Holi tradition",
+  "status": "draft-reviewed-by-claude",
+  "tag": {"gu": "સાચો ભક્ત", "hi": "सच्चा भक्त", "en": "The True Devotee"},
+  "scenes": [
+    {"id": 1, "mood": "pure-sweet",
+     "text": {
+       "gu": "પ્રહ્લાદ રાજા હિરણ્યકશિપુના નાનકડા પુત્ર હતા. તેઓ ભગવાન વિષ્ણુના મોટા ભક્ત હતા અને દિવસ-રાત “નારાયણ… નારાયણ…” નામ લેતા. તેમના મિત્રો પણ તેમની સાથે ભજન ગાતા.",
+       "hi": "प्रह्लाद राजा हिरण्यकशिपु के नन्हे पुत्र थे। वे भगवान विष्णु के बड़े भक्त थे और दिन-रात “नारायण… नारायण…” नाम लेते थे। उनके मित्र भी उनके साथ भजन गाते थे।",
+       "en": "Prahlad was the little son of King Hiranyakashipu. He was a great devotee of Lord Vishnu and chanted “Narayan… Narayan…” day and night. His friends also sang bhajans with him."},
+     "shot": {"who": ["prahlad"], "setting": "a school courtyard under a peepal tree in a royal city, sunny morning", "action": "little Prahlad sits among his friends with folded hands, eyes shining, singing Narayan's name while others clap", "expression": "joyful devotion", "camera": "medium shot at child level"}},
+    {"id": 2, "mood": "tense-brave",
+     "text": {
+       "gu": "રાજા હિરણ્યકશિપુને પોતાની શક્તિનું અભિમાન હતું. તે પોતાને જ ભગવાન માનતો અને પ્રહ્લાદને વિષ્ણુનું નામ લેવાની ના પાડતો. છતાં નાનકડા પ્રહ્લાદ ડર્યા નહીં અને શાંતિથી કહ્યું, “ભગવાન તો બધે જ છે.”",
+       "hi": "राजा हिरण्यकशिपु को अपनी शक्ति पर अभिमान था। वह स्वयं को ही भगवान मानता और प्रह्लाद को विष्णु का नाम लेने से मना करता था। फिर भी नन्हे प्रह्लाद डरे नहीं और शांति से बोले, “भगवान तो हर जगह हैं।”",
+       "en": "King Hiranyakashipu was proud of his power. He thought himself to be God and told Prahlad not to say Vishnu's name. Yet little Prahlad was not afraid and said calmly, “God is everywhere.”"},
+     "shot": {"who": ["prahlad"], "setting": "a grand but gloomy royal court with tall pillars and torches", "action": "a tall angry king in a heavy crown (Hiranyakashipu, stern but not scary) points a finger while little Prahlad stands steady with folded hands", "expression": "king: stern; Prahlad: calm, fearless", "camera": "low-angle shot of the king, then Prahlad small but centred"}},
+    {"id": 3, "mood": "steady-trusting",
+     "text": {
+       "gu": "રાજાએ પ્રહ્લાદને ડરાવવાનો અને ઘણી રીતે રોકવાનો પ્રયત્ન કર્યો. પણ દરેક વખતે પ્રહ્લાદની શ્રદ્ધા વધુ મજબૂત થતી ગઈ અને ભગવાને તેમની રક્ષા કરી. પ્રહ્લાદને કોઈ ઈજા ન થઈ.",
+       "hi": "राजा ने प्रह्लाद को डराने और कई तरह से रोकने का प्रयास किया। पर हर बार प्रह्लाद की श्रद्धा और मज़बूत होती गई और भगवान ने उनकी रक्षा की। प्रह्लाद को कोई हानि नहीं हुई।",
+       "en": "The king tried to scare and stop Prahlad in many ways. But each time Prahlad's faith grew stronger, and God protected him. Prahlad was not harmed at all."},
+     "shot": {"who": ["prahlad"], "setting": "a palace garden at dusk with a soft divine glow surrounding the boy", "action": "Prahlad sits calmly in meditation, a gentle golden light shielding him as storms and shadows pass harmlessly around", "expression": "peaceful, trusting", "camera": "medium shot, glowing aura"}},
+    {"id": 4, "mood": "faith-glowing",
+     "text": {
+       "gu": "એક વાર રાજાની બહેન હોલિકા પ્રહ્લાદને ખોળામાં લઈને અગ્નિમાં બેઠી, પણ ભગવાનની કૃપાથી પ્રહ્લાદને કંઈ ન થયું. દર વર્ષે હોળીનો તહેવાર આ કથાની યાદ અપાવે છે કે સત્યની જીત થાય છે.",
+       "hi": "एक बार राजा की बहन होलिका प्रह्लाद को गोद में लेकर अग्नि में बैठी, पर भगवान की कृपा से प्रह्लाद को कुछ नहीं हुआ। हर साल होली का त्योहार इस कथा की याद दिलाता है कि सत्य की जीत होती है।",
+       "en": "Once the king's sister Holika sat in a fire with Prahlad on her lap, but by God's grace nothing happened to Prahlad. Every year the festival of Holi reminds us of this story, that truth wins."},
+     "shot": {"who": ["prahlad"], "setting": "a bonfire ground at night with villagers watching from a safe distance, golden-orange fire light", "action": "Prahlad sits peacefully with folded hands in the glowing fire circle, safe and smiling, a protective soft golden light around him (no harm shown to anyone)", "expression": "Prahlad: serene and smiling", "camera": "medium shot with glowing fire and sparks"}},
+    {"id": 5, "mood": "triumphant-gentle",
+     "text": {
+       "gu": "અંતે ભગવાન વિષ્ણુ નૃસિંહ સ્વરૂપે થાંભલામાંથી પ્રગટ થયા અને ભક્ત પ્રહ્લાદની રક્ષા કરી. પ્રહ્લાદ આપણને ભક્તિ, નીડરતા અને સત્યમાં વિશ્વાસ શીખવે છે.",
+       "hi": "अंत में भगवान विष्णु नृसिंह रूप में खंभे से प्रकट हुए और भक्त प्रह्लाद की रक्षा की। प्रह्लाद हमें भक्ति, निडरता और सत्य में विश्वास सिखाते हैं।",
+       "en": "At last Lord Vishnu appeared from a pillar as Narasimha and protected his devotee Prahlad. Prahlad teaches us devotion, fearlessness and trust in truth."},
+     "shot": {"who": ["prahlad", "vishnu"], "setting": "a grand hall with a glowing golden pillar splitting open with a bright divine light", "action": "a golden Narasimha form (kind and powerful) emerges from the pillar in a burst of light while little Prahlad bows with folded hands, completely unafraid", "expression": "Prahlad: radiant faith; Narasimha: protective", "camera": "dramatic wide shot with golden light (no violence)"}}
+  ],
+  "lesson": {"gu": "પ્રહ્લાદ આપણને શીખવે છે: સત્ય અને ભક્તિમાં વિશ્વાસ રાખો અને ડર્યા વગર સાચા માર્ગે ચાલો.", "hi": "प्रह्लाद हमें सिखाते हैं: सत्य और भक्ति में विश्वास रखो और बिना डरे सही मार्ग पर चलो।", "en": "Prahlad teaches us: trust truth and devotion, and walk the right path without fear."},
+  "points": [
+    {"gu": "ભક્તિ: ભગવાનનું નામ", "hi": "भक्ति: भगवान का नाम", "en": "Devotion: God's name"},
+    {"gu": "નીડરતા: સત્યમાં વિશ્વાસ", "hi": "निडरता: सत्य में विश्वास", "en": "Fearlessness: trust in truth"},
+    {"gu": "હોળી: સત્યની જીતનો તહેવાર", "hi": "होली: सत्य की जीत का त्योहार", "en": "Holi: festival of truth's victory"}
+  ],
+  "words": [
+    {"gu": "ભક્ત = ભગવાનને પ્રેમ કરનાર", "hi": "भक्त = भगवान से प्रेम करने वाला", "en": "Bhakt = one who loves God"},
+    {"gu": "નૃસિંહ = અડધા સિંહ અડધા માનવ ભગવાન", "hi": "नृसिंह = आधे सिंह आधे मानव भगवान", "en": "Narasimha = God as half lion, half man"}
+  ],
+  "quiz": [
+    {"q": {"gu": "પ્રહ્લાદ કોના ભક્ત હતા?", "hi": "प्रह्लाद किसके भक्त थे?", "en": "Whose devotee was Prahlad?"},
+     "a": {"gu": ["ભગવાન વિષ્ણુ", "ઇન્દ્ર", "રાવણ"], "hi": ["भगवान विष्णु", "इन्द्र", "रावण"], "en": ["Lord Vishnu", "Indra", "Ravan"]}},
+    {"q": {"gu": "કયો તહેવાર પ્રહ્લાદની કથાની યાદ અપાવે છે?", "hi": "कौन-सा त्योहार प्रह्लाद की कथा की याद दिलाता है?", "en": "Which festival reminds us of Prahlad's story?"},
+     "a": {"gu": ["હોળી", "ઉત્તરાયણ", "રક્ષાબંધન"], "hi": ["होली", "उत्तरायण", "रक्षाबंधन"], "en": ["Holi", "Uttarayan", "Rakshabandhan"]}},
+    {"q": {"gu": "ભગવાન કયા સ્વરૂપે પ્રગટ થયા?", "hi": "भगवान किस रूप में प्रकट हुए?", "en": "In which form did God appear?"},
+     "a": {"gu": ["નૃસિંહ", "મત્સ્ય", "વામન"], "hi": ["नृसिंह", "मत्स्य", "वामन"], "en": ["Narasimha", "Matsya", "Vamana"]}}
+  ]
+}

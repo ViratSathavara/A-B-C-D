@@ -1,0 +1,56 @@
+{
+  "id": "abcd-G", "char": "ganesh",
+  "source": "Shiva Purana and Ganesh Purana traditions; Mahabharata writing legend; parikrama story (Puranic tradition)",
+  "status": "draft-reviewed-by-claude",
+  "tag": {"gu": "વિઘ્નહર્તા", "hi": "विघ्नहर्ता", "en": "Remover of Obstacles"},
+  "scenes": [
+    {"id": 1, "mood": "warm-loving",
+     "text": {
+       "gu": "ભગવાન ગણેશ માતા પાર્વતી અને ભગવાન શિવના પુત્ર છે. પુરાણોની એક કથા પ્રમાણે, માતા પાર્વતીએ પોતાના ઉબટનમાંથી એક સુંદર બાળક બનાવ્યો અને તેને પ્રાણ આપ્યા. તે બાળક માતાને ખૂબ ચાહતો હતો.",
+       "hi": "भगवान गणेश माता पार्वती और भगवान शिव के पुत्र हैं। पुराणों की एक कथा के अनुसार, माता पार्वती ने अपने उबटन से एक सुंदर बालक बनाया और उसमें प्राण डाले। वह बालक माता से बहुत प्रेम करता था।",
+       "en": "Lord Ganesh is the son of Mother Parvati and Lord Shiva. According to one story in the Puranas, Mother Parvati made a beautiful boy from the turmeric paste she used for her bath and gave him life. The boy loved his mother dearly."},
+     "shot": {"who": ["uma", "ganesh"], "setting": "Mount Kailash palace garden with snow peaks and flowers, soft morning light", "action": "Goddess Parvati lovingly shapes a small boy from golden turmeric paste in her hands, a gentle glow giving the boy life", "expression": "Parvati: tender and loving; baby Ganesh: opening his eyes with a happy smile", "camera": "close warm medium shot, golden glow"}},
+    {"id": 2, "mood": "loyal-brave",
+     "text": {
+       "gu": "માતાએ કહ્યું, “બેટા, હું સ્નાન કરવા જાઉં છું. દરવાજે ઊભો રહેજે અને કોઈને અંદર આવવા દેતો નહીં.” બાળક દરવાજે ચોકી કરતો રહ્યો. તે માતાની આજ્ઞા પાળવા બહુ મક્કમ હતો.",
+       "hi": "माता ने कहा, “बेटा, मैं स्नान करने जा रही हूँ। दरवाज़े पर खड़े रहना और किसी को अंदर मत आने देना।” बालक दरवाज़े पर पहरा देता रहा। वह माता की आज्ञा मानने के लिए बहुत दृढ़ था।",
+       "en": "The Mother said, “My son, I am going to bathe. Stand at the door and do not let anyone in.” The boy kept guard at the door. He was firm in obeying his mother's word."},
+     "shot": {"who": ["ganesh"], "setting": "a decorated entrance of a Kailash palace with flowers and lamps, soft light", "action": "the little boy (Ganesh as a child with a human face) stands at the door holding a small stick, arms spread, protecting the entrance", "expression": "serious, loyal, cute determination", "camera": "front medium shot at his eye level"}},
+    {"id": 3, "mood": "surprised-blessing",
+     "text": {
+       "gu": "થોડી વારે ભગવાન શિવ આવ્યા. બાળક તેમને ઓળખતો ન હતો, એટલે તેણે અંદર જવા ન દીધા. પછી જ્યારે શિવજીને સાચી વાત સમજાઈ, ત્યારે તેમણે બાળકને હાથીનું મુખ આપીને ફરી જીવન આપ્યું. ત્યારે ભગવાન શિવે આશીર્વાદ આપ્યા કે સૌથી પહેલાં ગણેશની પૂજા થશે.",
+       "hi": "थोड़ी देर में भगवान शिव आए। बालक उन्हें पहचानता नहीं था, इसलिए उसने उन्हें अंदर नहीं जाने दिया। फिर जब शिवजी को सच्ची बात समझ में आई, तब उन्होंने बालक को हाथी का मुख देकर फिर से जीवन दिया। तब भगवान शिव ने आशीर्वाद दिया कि सबसे पहले गणेश की पूजा होगी।",
+       "en": "After some time Lord Shiva arrived. The boy did not know him, so he did not let him in. When Shiva understood the truth, he gave the boy the head of an elephant and made him live again. Then Lord Shiva blessed him that Ganesh would be worshipped first of all."},
+     "shot": {"who": ["shiva", "ganesh", "uma"], "setting": "Kailash palace courtyard with flower garlands and a glowing divine light", "action": "Lord Shiva places a gentle hand on the boy, who now has an elephant head and a happy smile; Parvati folds her hands with joy", "expression": "Shiva: kind and proud; Ganesh: delighted; Parvati: grateful tears of joy", "camera": "medium shot with glowing light rays"}},
+    {"id": 4, "mood": "playful-sweet",
+     "text": {
+       "gu": "ગણેશજીને લાડુ અને મોદક ખૂબ ગમે છે. તેમનું વાહન નાનકડો ઉંદર છે અને તેમનું પેટ ગોળ છે. તેઓ ખૂબ બુદ્ધિશાળી અને દયાળુ છે, એટલે કોઈ પણ સારું કામ શરૂ કરતા પહેલાં આપણે તેમને યાદ કરીએ છીએ.",
+       "hi": "गणेश जी को लड्डू और मोदक बहुत पसंद हैं। उनका वाहन छोटा-सा चूहा है और उनका पेट गोल है। वे बहुत बुद्धिमान और दयालु हैं, इसलिए कोई भी अच्छा काम शुरू करने से पहले हम उन्हें याद करते हैं।",
+       "en": "Ganesh loves laddus and modaks. His vehicle is a tiny mouse and he has a round tummy. He is very wise and kind, so before starting any good work we remember him."},
+     "shot": {"who": ["ganesh"], "setting": "a festive Ganesh Chaturthi room with flowers, marigold garlands, lamps and a plate of modaks", "action": "Ganesh sits on a lotus seat holding a modak in one hand while his small mouse friend nibbles a laddu beside him", "expression": "Ganesh: joyful, twinkling eyes; mouse: happy", "camera": "close medium shot, warm festive glow"}},
+    {"id": 5, "mood": "wise-clever",
+     "text": {
+       "gu": "એક વાર ગણેશજી અને ભાઈ કાર્તિકેય વચ્ચે શરત થઈ કે જે આખી પૃથ્વીની પરિક્રમા પહેલાં કરશે તે જીતશે. કાર્તિકેય મોર પર ઊડી ગયા. ગણેશજીએ માતા-પિતાની પરિક્રમા કરી અને કહ્યું, “મારા માટે માતા-પિતા જ આખી દુનિયા છે.” શિવ-પાર્વતી ખુશ થઈ ગયા.",
+       "hi": "एक बार गणेश जी और भाई कार्तिकेय के बीच शर्त लगी कि जो पूरी पृथ्वी की परिक्रमा पहले करेगा वही जीतेगा। कार्तिकेय मोर पर उड़ चले। गणेश जी ने माता-पिता की परिक्रमा की और कहा, “मेरे लिए माता-पिता ही पूरी दुनिया हैं।” शिव-पार्वती बहुत प्रसन्न हुए।",
+       "en": "Once Ganesh and his brother Kartikeya made a bet: whoever circled the whole Earth first would win. Kartikeya flew off on his peacock. Ganesh walked around his parents and said, “For me my parents are the whole world.” Shiva and Parvati were delighted."},
+     "shot": {"who": ["ganesh", "shiva", "uma"], "setting": "Mount Kailash with snow peaks and a clear sky; a distant peacock with Kartikeya flying off in the background", "action": "Ganesh walks around his seated parents with folded hands, the mouse following; Shiva and Parvati smile warmly", "expression": "Ganesh: sweet and sure; Shiva and Parvati: proud", "camera": "wide shot, golden light"}}
+  ],
+  "lesson": {"gu": "ગણેશજી આપણને શીખવે છે: બુદ્ધિથી વિચારો, ધીરજ રાખો અને માતા-પિતાનો આદર કરો.", "hi": "गणेश जी हमें सिखाते हैं: बुद्धि से सोचो, धैर्य रखो और माता-पिता का आदर करो।", "en": "Ganesh teaches us: think with wisdom, be patient and respect your parents."},
+  "points": [
+    {"gu": "બુદ્ધિ: સમજીને વિચારવું", "hi": "बुद्धि: समझदारी से सोचना", "en": "Wisdom: think carefully"},
+    {"gu": "આદર: માતા-પિતા", "hi": "आदर: माता-पिता", "en": "Respect: parents"},
+    {"gu": "શુભ શરૂઆત: સારા કામની શરૂઆતમાં પ્રાર્થના", "hi": "शुभ आरंभ: अच्छे काम से पहले प्रार्थना", "en": "Good beginnings: pray before good work"}
+  ],
+  "words": [
+    {"gu": "વિઘ્નહર્તા = અડચણ દૂર કરનાર", "hi": "विघ्नहर्ता = बाधाएँ दूर करने वाले", "en": "Vighnaharta = remover of obstacles"},
+    {"gu": "પરિક્રમા = ફરતે ફરવું", "hi": "परिक्रमा = चारों ओर घूमना", "en": "Parikrama = walking around"}
+  ],
+  "quiz": [
+    {"q": {"gu": "ગણેશજીનું વાહન કયું છે?", "hi": "गणेश जी का वाहन कौन-सा है?", "en": "What is Ganesh's vehicle?"},
+     "a": {"gu": ["ઉંદર", "સિંહ", "મોર"], "hi": ["चूहा", "सिंह", "मोर"], "en": ["A mouse", "A lion", "A peacock"]}},
+    {"q": {"gu": "ગણેશજીને કઈ મીઠાઈ ખૂબ ગમે છે?", "hi": "गणेश जी को कौन-सी मिठाई बहुत पसंद है?", "en": "Which sweet does Ganesh love?"},
+     "a": {"gu": ["મોદક", "જલેબી", "ખીર"], "hi": ["मोदक", "जलेबी", "खीर"], "en": ["Modak", "Jalebi", "Kheer"]}},
+    {"q": {"gu": "ગણેશજીએ પૃથ્વીને બદલે કોની પરિક્રમા કરી?", "hi": "गणेश जी ने पृथ्वी की जगह किसकी परिक्रमा की?", "en": "Whom did Ganesh walk around instead of the Earth?"},
+     "a": {"gu": ["માતા-પિતાની", "નદીની", "પર્વતની"], "hi": ["माता-पिता की", "नदी की", "पर्वत की"], "en": ["His parents", "A river", "A mountain"]}}
+  ]
+}

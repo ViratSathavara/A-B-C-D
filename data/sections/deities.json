@@ -1,0 +1,1031 @@
+{
+ "items": [
+  {
+   "id": "brahma",
+   "char": "brahma",
+   "vahan": {
+    "gu": "હંસ",
+    "hi": "हंस",
+    "en": "Hans (swan)"
+   },
+   "loves": {
+    "gu": "વેદ અને જ્ઞાન",
+    "hi": "वेद और ज्ञान",
+    "en": "The Vedas and knowledge"
+   },
+   "mantra": {
+    "sa": "ॐ ब्रह्मणे नमः",
+    "say": {
+     "gu": "ઓમ બ્રહ્મણે નમઃ",
+     "hi": "ॐ ब्रह्मणे नमः",
+     "en": "Om Brahmane Namah"
+    },
+    "meaning": {
+     "gu": "સર્જનહાર બ્રહ્માજીને નમસ્કાર",
+     "hi": "सृजनकर्ता ब्रह्मा जी को नमस्कार",
+     "en": "Salutations to Brahma, the creator"
+    }
+   },
+   "scenes": [
+    {
+     "id": 1,
+     "text": {
+      "gu": "બ્રહ્માજી સૃષ્ટિના સર્જક છે. તેમને ચાર મુખ છે, જે ચાર વેદનું પ્રતીક છે.",
+      "hi": "ब्रह्मा जी सृष्टि के रचयिता हैं। उनके चार मुख हैं, जो चार वेदों के प्रतीक हैं।",
+      "en": "Brahma is the creator of the universe. His four faces stand for the four Vedas."
+     },
+     "shot": {
+      "who": [
+       "brahma"
+      ],
+      "setting": "a glowing golden lotus floating in a calm cosmic sky",
+      "action": "Brahma sits on the lotus with his four faces, hands holding a Veda book and a water pot",
+      "expression": "serene and wise",
+      "camera": "wide dreamy shot"
+     }
+    },
+    {
+     "id": 2,
+     "text": {
+      "gu": "તેમનું વાહન હંસ છે. હંસ દૂધ અને પાણીને જુદાં કરી શકે છે, એટલે તે સારા-ખોટાને ઓળખવાની શીખ આપે છે.",
+      "hi": "उनका वाहन हंस है। हंस दूध और पानी को अलग कर सकता है, इसलिए वह अच्छे-बुरे को पहचानने की सीख देता है।",
+      "en": "His vehicle is the swan. A swan can separate milk from water, so it teaches us to tell good from bad."
+     },
+     "shot": {
+      "who": [
+       "brahma"
+      ],
+      "setting": "a calm lotus lake at sunrise",
+      "action": "Brahma rides a graceful white swan across the water",
+      "expression": "gentle smile",
+      "camera": "medium shot"
+     }
+    },
+    {
+     "id": 3,
+     "text": {
+      "gu": "બ્રહ્માજીને જ્ઞાનના દેવ પણ કહે છે. તેમની પાસેથી આપણે નવું શીખવાની અને સુંદર વસ્તુઓ બનાવવાની પ્રેરણા લઈએ છીએ.",
+      "hi": "ब्रह्मा जी को ज्ञान के देवता भी कहते हैं। उनसे हम नया सीखने और सुंदर चीज़ें रचने की प्रेरणा लेते हैं।",
+      "en": "Brahma is also the god of knowledge. From him we take inspiration to learn new things and create beautiful ones."
+     },
+     "shot": {
+      "who": [
+       "brahma"
+      ],
+      "setting": "a heavenly study hall of floating palm-leaf scrolls",
+      "action": "Brahma gives a glowing book to a sage child who bows",
+      "expression": "Brahma: kind; child: eager",
+      "camera": "medium warm shot"
+     }
+    }
+   ],
+   "lesson": {
+    "gu": "બ્રહ્માજી આપણને શીખવે છે: નવું શીખો અને સારું રચો.",
+    "hi": "ब्रह्मा जी हमें सिखाते हैं: नया सीखो और अच्छा रचो।",
+    "en": "Brahma teaches us: keep learning and create something good."
+   }
+  },
+  {
+   "id": "vishnu",
+   "char": "vishnu",
+   "vahan": {
+    "gu": "ગરુડ",
+    "hi": "गरुड़",
+    "en": "Garuda"
+   },
+   "loves": {
+    "gu": "તુલસી અને શંખ",
+    "hi": "तुलसी और शंख",
+    "en": "Tulsi and the conch"
+   },
+   "mantra": {
+    "sa": "ॐ नमो भगवते वासुदेवाय",
+    "say": {
+     "gu": "ઓમ નમો ભગવતે વાસુદેવાય",
+     "hi": "ॐ नमो भगवते वासुदेवाय",
+     "en": "Om Namo Bhagavate Vasudevaya"
+    },
+    "meaning": {
+     "gu": "ભગવાન વાસુદેવને નમસ્કાર",
+     "hi": "भगवान वासुदेव को नमस्कार",
+     "en": "Salutations to Lord Vasudeva"
+    }
+   },
+   "scenes": [
+    {
+     "id": 1,
+     "text": {
+      "gu": "ભગવાન વિષ્ણુ સૃષ્ટિનું પાલન કરે છે. તેમના ચાર હાથમાં શંખ, ચક્ર, ગદા અને કમળ છે.",
+      "hi": "भगवान विष्णु सृष्टि का पालन करते हैं। उनके चार हाथों में शंख, चक्र, गदा और कमल हैं।",
+      "en": "Lord Vishnu preserves the universe. In his four hands he holds a conch, discus, mace and lotus."
+     },
+     "shot": {
+      "who": [
+       "vishnu"
+      ],
+      "setting": "a calm milky ocean with a glowing lotus",
+      "action": "Vishnu rests on the serpent Sheshnag with Lakshmi massaging his feet, holding his four symbols",
+      "expression": "peaceful, kind",
+      "camera": "wide serene shot"
+     }
+    },
+    {
+     "id": 2,
+     "text": {
+      "gu": "તેમનું વાહન ગરુડ છે, એક શક્તિશાળી પક્ષી. જ્યારે કોઈ સંકટમાં હોય ત્યારે વિષ્ણુ ગરુડ પર બેસી મદદ કરવા દોડે છે.",
+      "hi": "उनका वाहन गरुड़ है, एक शक्तिशाली पक्षी। जब कोई संकट में होता है तो विष्णु गरुड़ पर बैठकर मदद करने दौड़ते हैं।",
+      "en": "His vehicle is Garuda, a mighty bird. When someone is in trouble Vishnu rides Garuda to help."
+     },
+     "shot": {
+      "who": [
+       "vishnu"
+      ],
+      "setting": "the sky above green hills at sunrise",
+      "action": "Vishnu rides a great golden eagle-like Garuda over hills",
+      "expression": "focused and caring",
+      "camera": "wide aerial shot"
+     }
+    },
+    {
+     "id": 3,
+     "text": {
+      "gu": "જ્યારે દુનિયામાં અધર્મ વધે ત્યારે વિષ્ણુ અવતાર લે છે. રામ અને કૃષ્ણ તેમના જ અવતાર છે.",
+      "hi": "जब दुनिया में अधर्म बढ़ता है तब विष्णु अवतार लेते हैं। राम और कृष्ण उन्हीं के अवतार हैं।",
+      "en": "When adharma grows in the world, Vishnu takes an avatar. Ram and Krishna are his avatars."
+     },
+     "shot": {
+      "who": [
+       "vishnu",
+       "ram",
+       "krishna"
+      ],
+      "setting": "a glowing cloud above earth",
+      "action": "Vishnu blesses with raised hand while soft images of Ram and Krishna glow beside him",
+      "expression": "calm",
+      "camera": "medium divine shot"
+     }
+    }
+   ],
+   "lesson": {
+    "gu": "વિષ્ણુ ભગવાન આપણને શીખવે છે: બધાનું ધ્યાન રાખો અને જરૂર પડે ત્યારે મદદ કરો.",
+    "hi": "भगवान विष्णु हमें सिखाते हैं: सबका ध्यान रखो और ज़रूरत पड़ने पर मदद करो।",
+    "en": "Lord Vishnu teaches us: care for all and help when needed."
+   }
+  },
+  {
+   "id": "shiva",
+   "char": "shiva",
+   "vahan": {
+    "gu": "નંદી બળદ",
+    "hi": "नंदी बैल",
+    "en": "Nandi the bull"
+   },
+   "loves": {
+    "gu": "બિલ્વપત્ર અને રુદ્રાક્ષ",
+    "hi": "बेलपत्र और रुद्राक्ष",
+    "en": "Bilva leaves and rudraksh"
+   },
+   "mantra": {
+    "sa": "ॐ नमः शिवाय",
+    "say": {
+     "gu": "ઓમ નમઃ શિવાય",
+     "hi": "ॐ नमः शिवाय",
+     "en": "Om Namah Shivaya"
+    },
+    "meaning": {
+     "gu": "કલ્યાણકારી શિવને નમસ્કાર",
+     "hi": "कल्याणकारी शिव को नमस्कार",
+     "en": "Salutations to Shiva, the giver of good"
+    }
+   },
+   "scenes": [
+    {
+     "id": 1,
+     "text": {
+      "gu": "ભગવાન શિવ કૈલાસ પર્વત પર ધ્યાન કરે છે. તેમને મહાદેવ અને ભોલેનાથ પણ કહે છે કારણ કે તેઓ ખૂબ ભોળા છે.",
+      "hi": "भगवान शिव कैलाश पर्वत पर ध्यान करते हैं। उन्हें महादेव और भोलेनाथ भी कहते हैं क्योंकि वे बहुत भोले हैं।",
+      "en": "Lord Shiva meditates on Mount Kailash. He is also called Mahadev and Bholenath because he is so innocent-hearted."
+     },
+     "shot": {
+      "who": [
+       "shiva"
+      ],
+      "setting": "snowy Kailash peaks at dawn",
+      "action": "Shiva sits in meditation with closed eyes, a crescent moon on his head and the Ganga in his hair",
+      "expression": "deeply peaceful",
+      "camera": "wide majestic shot"
+     }
+    },
+    {
+     "id": 2,
+     "text": {
+      "gu": "શિવજીના હાથમાં ત્રિશૂલ અને ડમરુ છે. ગળામાં નાગ, માથે ચંદ્ર અને જટામાં ગંગા છે.",
+      "hi": "शिव जी के हाथ में त्रिशूल और डमरू है। गले में नाग, माथे पर चंद्र और जटा में गंगा है।",
+      "en": "Shiva holds a trident and a damru. He has a snake around his neck, a moon on his head and the Ganga in his hair."
+     },
+     "shot": {
+      "who": [
+       "shiva"
+      ],
+      "setting": "a rocky terrace on Kailash",
+      "action": "Shiva plays the damru with a gentle smile while Nandi sits near",
+      "expression": "gentle joy",
+      "camera": "medium shot"
+     }
+    },
+    {
+     "id": 3,
+     "text": {
+      "gu": "શિવજીએ સમુદ્રમંથન વખતે નીકળેલું વિષ પોતે પી લીધું અને બધાની રક્ષા કરી. એટલે તેમનું ગળું નીલું થયું અને તે ‘નીલકંઠ’ કહેવાયા.",
+      "hi": "शिव जी ने समुद्र मंथन के समय निकला विष स्वयं पी लिया और सबकी रक्षा की। इसलिए उनका गला नीला हुआ और वे ‘नीलकंठ’ कहलाए।",
+      "en": "During the churning of the ocean, Shiva drank the poison that came out and protected everyone. His throat turned blue and he became ‘Neelkanth’."
+     },
+     "shot": {
+      "who": [
+       "shiva"
+      ],
+      "setting": "a vast ocean with gods and demons holding a serpent rope in the distance",
+      "action": "Shiva calmly holds a cup of dark glow near his blue throat while gods bow with thanks",
+      "expression": "calm compassion",
+      "camera": "dramatic but gentle wide shot"
+     }
+    }
+   ],
+   "lesson": {
+    "gu": "શિવજી આપણને શીખવે છે: બીજાના ભલા માટે ત્યાગ કરો અને શાંત રહો.",
+    "hi": "शिव जी हमें सिखाते हैं: दूसरों के भले के लिए त्याग करो और शांत रहो।",
+    "en": "Lord Shiva teaches us: sacrifice for others' good and stay calm."
+   }
+  },
+  {
+   "id": "ganesh",
+   "char": "ganesh",
+   "vahan": {
+    "gu": "ઉંદર (મૂષક)",
+    "hi": "चूहा (मूषक)",
+    "en": "Mouse (Mushak)"
+   },
+   "loves": {
+    "gu": "મોદક અને દુર્વા",
+    "hi": "मोदक और दूर्वा",
+    "en": "Modak and durva grass"
+   },
+   "mantra": {
+    "sa": "ॐ गं गणपतये नमः",
+    "say": {
+     "gu": "ઓમ ગં ગણપતયે નમઃ",
+     "hi": "ॐ गं गणपतये नमः",
+     "en": "Om Gam Ganapataye Namah"
+    },
+    "meaning": {
+     "gu": "વિઘ્નહર્તા ગણપતિને નમસ્કાર",
+     "hi": "विघ्नहर्ता गणपति को नमस्कार",
+     "en": "Salutations to Ganapati, remover of obstacles"
+    }
+   },
+   "scenes": [
+    {
+     "id": 1,
+     "text": {
+      "gu": "ગણેશજી શિવ-પાર્વતીના પુત્ર છે. તેમનું માથું હાથીનું અને પેટ મોટું છે. તેમને વિઘ્નહર્તા કહે છે.",
+      "hi": "गणेश जी शिव-पार्वती के पुत्र हैं। उनका सिर हाथी का और पेट बड़ा है। उन्हें विघ्नहर्ता कहते हैं।",
+      "en": "Ganesh is the son of Shiva and Parvati. He has an elephant head and a round tummy. He is called the remover of obstacles."
+     },
+     "shot": {
+      "who": [
+       "ganesh"
+      ],
+      "setting": "a decorated festival pavilion with flowers",
+      "action": "Ganesh sits happily on a lotus seat holding a modak and an axe-like goad",
+      "expression": "cheerful and kind",
+      "camera": "medium shot"
+     }
+    },
+    {
+     "id": 2,
+     "text": {
+      "gu": "કોઈ પણ કામ શરૂ કરતાં પહેલાં આપણે ગણેશજીને યાદ કરીએ છીએ. તેમનું નાનું વાહન ઉંદર આપણને શીખવે છે કે નાના પણ મોટા કામ કરી શકે છે.",
+      "hi": "कोई भी काम शुरू करने से पहले हम गणेश जी को याद करते हैं। उनका छोटा वाहन चूहा सिखाता है कि छोटे भी बड़े काम कर सकते हैं।",
+      "en": "Before starting any task we remember Ganesh. His small vehicle, the mouse, teaches that even the small can do great things."
+     },
+     "shot": {
+      "who": [
+       "ganesh"
+      ],
+      "setting": "a school-going child's desk with books",
+      "action": "a child folds hands before a tiny Ganesh idol while a small mouse watches",
+      "expression": "child: hopeful; Ganesh: warm",
+      "camera": "medium shot"
+     }
+    },
+    {
+     "id": 3,
+     "text": {
+      "gu": "ગણેશ ચતુર્થીએ ઘરે ગણપતિ બાપ્પાને લાવીને પૂજા કરે છે, મોદક ધરાવે છે અને ‘ગણપતિ બાપ્પા મોરયા’ બોલીને વિદાય આપે છે.",
+      "hi": "गणेश चतुर्थी पर घर में गणपति बप्पा को लाकर पूजा करते हैं, मोदक चढ़ाते हैं और ‘गणपति बप्पा मोरया’ बोलकर विदा करते हैं।",
+      "en": "On Ganesh Chaturthi people bring Ganpati home, worship him, offer modaks and bid farewell saying ‘Ganpati Bappa Morya’."
+     },
+     "shot": {
+      "who": [
+       "ganesh"
+      ],
+      "setting": "a festive street procession with drums and flowers",
+      "action": "Ganesh idol is carried joyfully by happy children and families",
+      "expression": "all: joyful",
+      "camera": "wide festive shot"
+     }
+    }
+   ],
+   "lesson": {
+    "gu": "ગણેશજી આપણને શીખવે છે: બુદ્ધિથી કામ કરો અને અવરોધથી ડરો નહીં.",
+    "hi": "गणेश जी हमें सिखाते हैं: बुद्धि से काम करो और बाधा से डरो नहीं।",
+    "en": "Ganesh teaches us: use your wisdom and do not fear obstacles."
+   }
+  },
+  {
+   "id": "hanuman",
+   "char": "hanuman",
+   "vahan": {
+    "gu": "વાહન નથી, તેઓ પોતે ઊડી શકે છે",
+    "hi": "वाहन नहीं, वे स्वयं उड़ सकते हैं",
+    "en": "No vehicle — he can fly himself"
+   },
+   "loves": {
+    "gu": "રામનું નામ અને લાડુ",
+    "hi": "राम का नाम और लड्डू",
+    "en": "Ram's name and laddu"
+   },
+   "mantra": {
+    "sa": "ॐ हनुमते नमः",
+    "say": {
+     "gu": "ઓમ હનુમતે નમઃ",
+     "hi": "ॐ हनुमते नमः",
+     "en": "Om Hanumate Namah"
+    },
+    "meaning": {
+     "gu": "બળ અને ભક્તિવાળા હનુમાનજીને નમસ્કાર",
+     "hi": "बल और भक्ति वाले हनुमान जी को नमस्कार",
+     "en": "Salutations to Hanuman, full of strength and devotion"
+    }
+   },
+   "scenes": [
+    {
+     "id": 1,
+     "text": {
+      "gu": "હનુમાનજી પવનદેવના પુત્ર છે અને અંજની માતાના લાડલા. નાનપણમાં તેમણે સૂર્યને ફળ સમજી પકડવા છલાંગ મારી હતી.",
+      "hi": "हनुमान जी पवनदेव के पुत्र हैं और अंजनी माता के लाड़ले। बचपन में उन्होंने सूर्य को फल समझकर पकड़ने के लिए छलांग लगाई थी।",
+      "en": "Hanuman is the son of the Wind God and the darling of Mother Anjani. As a child he leapt up to catch the Sun, thinking it was a fruit."
+     },
+     "shot": {
+      "who": [
+       "hanuman"
+      ],
+      "setting": "a sunrise sky above green hills",
+      "action": "baby Hanuman leaps joyfully towards the golden Sun with outstretched hands",
+      "expression": "pure curious joy",
+      "camera": "wide playful shot"
+     }
+    },
+    {
+     "id": 2,
+     "text": {
+      "gu": "હનુમાનજી શ્રીરામના પરમ ભક્ત છે. તેમણે સીતાજીને શોધ્યાં અને સંજીવની બુટ્ટી લાવ્યા.",
+      "hi": "हनुमान जी श्रीराम के परम भक्त हैं। उन्होंने सीता जी को खोजा और संजीवनी बूटी लाए।",
+      "en": "Hanuman is Shri Ram's greatest devotee. He found Sita and brought the Sanjeevani herb."
+     },
+     "shot": {
+      "who": [
+       "hanuman",
+       "ram"
+      ],
+      "setting": "a seashore at sunrise",
+      "action": "Hanuman bows to Ram with folded hands, Ram places a hand on his head",
+      "expression": "Hanuman: devoted; Ram: loving",
+      "camera": "medium warm shot"
+     }
+    },
+    {
+     "id": 3,
+     "text": {
+      "gu": "તેઓ ખૂબ બળવાન હોવા છતાં નમ્ર છે. એક સાથે ‘જય શ્રીરામ’ બોલવાથી આપણને હિંમત અને શાંતિ મળે છે.",
+      "hi": "वे बहुत बलवान होने पर भी विनम्र हैं। साथ मिलकर ‘जय श्रीराम’ बोलने से हमें साहस और शांति मिलती है।",
+      "en": "Despite his great strength he is humble. Saying ‘Jai Shri Ram’ together gives us courage and peace."
+     },
+     "shot": {
+      "who": [
+       "hanuman"
+      ],
+      "setting": "a village Hanuman temple at dusk",
+      "action": "children chant with folded hands while Hanuman's statue glows softly",
+      "expression": "calm courage",
+      "camera": "medium shot"
+     }
+    }
+   ],
+   "lesson": {
+    "gu": "હનુમાનજી આપણને શીખવે છે: બળવાન હો તો પણ નમ્ર રહો અને ભક્તિથી સેવા કરો.",
+    "hi": "हनुमान जी हमें सिखाते हैं: बलवान होकर भी विनम्र रहो और भक्ति से सेवा करो।",
+    "en": "Hanuman teaches us: stay humble even when strong and serve with devotion."
+   }
+  },
+  {
+   "id": "kartikeya",
+   "char": "kartikeya",
+   "vahan": {
+    "gu": "મોર",
+    "hi": "मोर",
+    "en": "Peacock"
+   },
+   "loves": {
+    "gu": "વેલ (ભાલો) અને મોર",
+    "hi": "वेल (भाला) और मोर",
+    "en": "His spear (Vel) and peacock"
+   },
+   "mantra": {
+    "sa": "ॐ शरवणभवाय नमः",
+    "say": {
+     "gu": "ઓમ શરવણભવાય નમઃ",
+     "hi": "ॐ शरवणभवाय नमः",
+     "en": "Om Sharavanabhavaya Namah"
+    },
+    "meaning": {
+     "gu": "કાર્તિકેયજીને નમસ્કાર",
+     "hi": "कार्तिकेय जी को नमस्कार",
+     "en": "Salutations to Lord Kartikeya"
+    }
+   },
+   "scenes": [
+    {
+     "id": 1,
+     "text": {
+      "gu": "કાર્તિકેયજી શિવ-પાર્વતીના પુત્ર છે. તેમને મુરુગન, સ્કંદ અને ષડાનન પણ કહે છે.",
+      "hi": "कार्तिकेय जी शिव-पार्वती के पुत्र हैं। उन्हें मुरुगन, स्कंद और षडानन भी कहते हैं।",
+      "en": "Kartikeya is the son of Shiva and Parvati. He is also called Murugan, Skanda and Shadanan."
+     },
+     "shot": {
+      "who": [
+       "kartikeya"
+      ],
+      "setting": "a hilltop temple at sunrise",
+      "action": "Kartikeya stands holding his spear with his peacock beside him",
+      "expression": "calm strength",
+      "camera": "wide heroic shot"
+     }
+    },
+    {
+     "id": 2,
+     "text": {
+      "gu": "તેઓ દેવોના સેનાપતિ છે અને બહાદુરીથી ધર્મની રક્ષા કરે છે. તેમનું વાહન સુંદર મોર છે.",
+      "hi": "वे देवताओं के सेनापति हैं और वीरता से धर्म की रक्षा करते हैं। उनका वाहन सुंदर मोर है।",
+      "en": "He is the commander of the gods and protects dharma bravely. His vehicle is a beautiful peacock."
+     },
+     "shot": {
+      "who": [
+       "kartikeya"
+      ],
+      "setting": "a mountain path in golden light",
+      "action": "Kartikeya rides his peacock with his spear raised calmly",
+      "expression": "brave, kind",
+      "camera": "medium shot"
+     }
+    },
+    {
+     "id": 3,
+     "text": {
+      "gu": "દક્ષિણ ભારતમાં કાર્તિકેયજીની મુરુગન રૂપે ખૂબ પૂજા થાય છે. તેઓ યુવાનોને હિંમત અને શિસ્ત શીખવે છે.",
+      "hi": "दक्षिण भारत में कार्तिकेय जी की मुरुगन रूप में बहुत पूजा होती है। वे युवाओं को साहस और अनुशासन सिखाते हैं।",
+      "en": "In South India Kartikeya is widely worshipped as Murugan. He teaches the young courage and discipline."
+     },
+     "shot": {
+      "who": [
+       "kartikeya"
+      ],
+      "setting": "a festive South Indian temple courtyard",
+      "action": "devotees carry decorated kavadi and bow to Kartikeya's idol",
+      "expression": "devotees: joyful",
+      "camera": "wide festive shot"
+     }
+    }
+   ],
+   "lesson": {
+    "gu": "કાર્તિકેયજી આપણને શીખવે છે: હિંમત અને શિસ્ત રાખો.",
+    "hi": "कार्तिकेय जी हमें सिखाते हैं: साहस और अनुशासन रखो।",
+    "en": "Kartikeya teaches us: have courage and discipline."
+   }
+  },
+  {
+   "id": "durga",
+   "char": "durga",
+   "vahan": {
+    "gu": "સિંહ",
+    "hi": "सिंह",
+    "en": "Lion"
+   },
+   "loves": {
+    "gu": "લાલ ફૂલ અને ચુંદડી",
+    "hi": "लाल फूल और चुनरी",
+    "en": "Red flowers and chunri"
+   },
+   "mantra": {
+    "sa": "ॐ दुं दुर्गायै नमः",
+    "say": {
+     "gu": "ઓમ દું દુર્ગાયૈ નમઃ",
+     "hi": "ॐ दुं दुर्गायै नमः",
+     "en": "Om Dum Durgayai Namah"
+    },
+    "meaning": {
+     "gu": "માતા દુર્ગાને નમસ્કાર",
+     "hi": "माँ दुर्गा को नमस्कार",
+     "en": "Salutations to Mother Durga"
+    }
+   },
+   "scenes": [
+    {
+     "id": 1,
+     "text": {
+      "gu": "માતા દુર્ગા શક્તિનું રૂપ છે. તેમને દશ હાથ છે અને દરેક હાથમાં અલગ શસ્ત્ર છે.",
+      "hi": "माँ दुर्गा शक्ति का रूप हैं। उनके दस हाथ हैं और हर हाथ में अलग शस्त्र है।",
+      "en": "Mother Durga is the form of shakti. She has ten arms and each arm holds a different weapon."
+     },
+     "shot": {
+      "who": [
+       "durga"
+      ],
+      "setting": "a decorated Navratri pavilion",
+      "action": "Durga stands on her lion, calm and protective, with hands raised in blessing",
+      "expression": "calm strength",
+      "camera": "medium majestic shot"
+     }
+    },
+    {
+     "id": 2,
+     "text": {
+      "gu": "તેમનું વાહન સિંહ છે. મહિષાસુર જેવા અધર્મી રાક્ષસને હરાવી તેમણે બધાને ભયમાંથી મુક્ત કર્યા.",
+      "hi": "उनका वाहन सिंह है। महिषासुर जैसे अधर्मी राक्षस को हराकर उन्होंने सबको भय से मुक्त किया।",
+      "en": "Her vehicle is the lion. She defeated the demon Mahishasur and freed everyone from fear."
+     },
+     "shot": {
+      "who": [
+       "durga"
+      ],
+      "setting": "a golden hall in the clouds",
+      "action": "Durga rides her lion; soft light overcomes a dark shadow (no violence)",
+      "expression": "fearless",
+      "camera": "wide dramatic shot"
+     }
+    },
+    {
+     "id": 3,
+     "text": {
+      "gu": "નવરાત્રિમાં નવ દિવસ સુધી માતાની પૂજા અને ગરબા થાય છે. આપણે માતા પાસે હિંમત અને રક્ષાનો આશીર્વાદ માંગીએ છીએ.",
+      "hi": "नवरात्रि में नौ दिनों तक माँ की पूजा और गरबा होता है। हम माँ से साहस और रक्षा का आशीर्वाद माँगते हैं।",
+      "en": "During Navratri, Mother is worshipped for nine days with garba. We ask her for courage and protection."
+     },
+     "shot": {
+      "who": [
+       "durga"
+      ],
+      "setting": "a village Navratri ground with lamps and garba",
+      "action": "children dance garba in a circle around a glowing Durga idol",
+      "expression": "all: joyful",
+      "camera": "wide festive shot"
+     }
+    }
+   ],
+   "lesson": {
+    "gu": "માતા દુર્ગા આપણને શીખવે છે: સાચા માટે હિંમતથી ઊભા રહો.",
+    "hi": "माँ दुर्गा हमें सिखाती हैं: सही के लिए साहस से खड़े रहो।",
+    "en": "Mother Durga teaches us: stand up bravely for what is right."
+   }
+  },
+  {
+   "id": "lakshmi",
+   "char": "lakshmi",
+   "vahan": {
+    "gu": "ઘુવડ (અને હાથી)",
+    "hi": "उल्लू (और हाथी)",
+    "en": "Owl (and elephants)"
+   },
+   "loves": {
+    "gu": "કમળ અને સિક્કા",
+    "hi": "कमल और सिक्के",
+    "en": "Lotus and coins"
+   },
+   "mantra": {
+    "sa": "ॐ महालक्ष्म्यै नमः",
+    "say": {
+     "gu": "ઓમ મહાલક્ષ્મ્યૈ નમઃ",
+     "hi": "ॐ महालक्ष्म्यै नमः",
+     "en": "Om Mahalakshmyai Namah"
+    },
+    "meaning": {
+     "gu": "માતા લક્ષ્મીને નમસ્કાર",
+     "hi": "माँ लक्ष्मी को नमस्कार",
+     "en": "Salutations to Mother Lakshmi"
+    }
+   },
+   "scenes": [
+    {
+     "id": 1,
+     "text": {
+      "gu": "માતા લક્ષ્મી ધન અને સમૃદ્ધિનાં દેવી છે. તેઓ કમળ પર બેસે છે અને ભગવાન વિષ્ણુનાં પત્ની છે.",
+      "hi": "माँ लक्ष्मी धन और समृद्धि की देवी हैं। वे कमल पर बैठती हैं और भगवान विष्णु की पत्नी हैं।",
+      "en": "Mother Lakshmi is the goddess of wealth and prosperity. She sits on a lotus and is Lord Vishnu's wife."
+     },
+     "shot": {
+      "who": [
+       "lakshmi"
+      ],
+      "setting": "a golden pond of lotuses",
+      "action": "Lakshmi sits on a lotus with golden coins flowing from her hand and elephants pouring water",
+      "expression": "gentle smile",
+      "camera": "wide golden shot"
+     }
+    },
+    {
+     "id": 2,
+     "text": {
+      "gu": "દિવાળીએ લક્ષ્મી પૂજન થાય છે. ઘર સાફ કરીને દીવા પ્રગટાવાય છે જેથી લક્ષ્મીજી પ્રસન્ન થઈને ઘરમાં આવે.",
+      "hi": "दीवाली पर लक्ष्मी पूजन होता है। घर साफ़ करके दीप जलाए जाते हैं ताकि लक्ष्मी जी प्रसन्न होकर घर में आएँ।",
+      "en": "On Diwali Lakshmi puja is done. Homes are cleaned and lamps lit so that Lakshmi may happily come in."
+     },
+     "shot": {
+      "who": [
+       "lakshmi"
+      ],
+      "setting": "a clean decorated doorstep with rangoli",
+      "action": "a family places diyas and welcomes Lakshmi with folded hands",
+      "expression": "hopeful joy",
+      "camera": "medium festive shot"
+     }
+    },
+    {
+     "id": 3,
+     "text": {
+      "gu": "સાચી સંપત્તિ ફક્ત પૈસા નથી, પણ મહેનત, પ્રમાણિકતા અને સંતોષ છે. લક્ષ્મીજી ત્યાં રહે છે જ્યાં સ્વચ્છતા અને પ્રેમ છે.",
+      "hi": "सच्ची संपत्ति केवल पैसा नहीं, बल्कि परिश्रम, ईमानदारी और संतोष है। लक्ष्मी जी वहाँ रहती हैं जहाँ स्वच्छता और प्रेम है।",
+      "en": "True wealth is not only money but hard work, honesty and contentment. Lakshmi lives where there is cleanliness and love."
+     },
+     "shot": {
+      "who": [
+       "lakshmi"
+      ],
+      "setting": "a happy home with a lit lamp",
+      "action": "Lakshmi blesses a child who shares sweets with neighbours",
+      "expression": "warm",
+      "camera": "medium shot"
+     }
+    }
+   ],
+   "lesson": {
+    "gu": "લક્ષ્મીજી આપણને શીખવે છે: મહેનત કરો, પ્રમાણિક રહો અને વહેંચીને ખાઓ.",
+    "hi": "लक्ष्मी जी हमें सिखाती हैं: परिश्रम करो, ईमानदार रहो और बाँटकर खाओ।",
+    "en": "Lakshmi teaches us: work hard, be honest and share."
+   }
+  },
+  {
+   "id": "saraswati",
+   "char": "saraswati",
+   "vahan": {
+    "gu": "હંસ (અને મોર)",
+    "hi": "हंस (और मोर)",
+    "en": "Swan (and peacock)"
+   },
+   "loves": {
+    "gu": "વીણા અને પુસ્તક",
+    "hi": "वीणा और पुस्तक",
+    "en": "Veena and books"
+   },
+   "mantra": {
+    "sa": "ॐ ऐं सरस्वत्यै नमः",
+    "say": {
+     "gu": "ઓમ ઐં સરસ્વત્યૈ નમઃ",
+     "hi": "ॐ ऐं सरस्वत्यै नमः",
+     "en": "Om Aim Saraswatyai Namah"
+    },
+    "meaning": {
+     "gu": "વિદ્યાદેવી સરસ્વતીને નમસ્કાર",
+     "hi": "विद्या की देवी सरस्वती को नमस्कार",
+     "en": "Salutations to Saraswati, goddess of knowledge"
+    }
+   },
+   "scenes": [
+    {
+     "id": 1,
+     "text": {
+      "gu": "માતા સરસ્વતી વિદ્યા, સંગીત અને કલાનાં દેવી છે. તેઓ સફેદ સાડી પહેરી કમળ પર બેસે છે.",
+      "hi": "माँ सरस्वती विद्या, संगीत और कला की देवी हैं। वे सफ़ेद साड़ी पहनकर कमल पर बैठती हैं।",
+      "en": "Mother Saraswati is the goddess of knowledge, music and arts. She wears a white saree and sits on a lotus."
+     },
+     "shot": {
+      "who": [
+       "saraswati"
+      ],
+      "setting": "a calm white lotus lake at sunrise",
+      "action": "Saraswati plays the veena with a gentle smile and a swan beside her",
+      "expression": "serene",
+      "camera": "wide serene shot"
+     }
+    },
+    {
+     "id": 2,
+     "text": {
+      "gu": "વસંત પંચમીએ બાળકો પુસ્તકો અને કલમની પૂજા કરે છે અને વિદ્યાનો આશીર્વાદ માંગે છે.",
+      "hi": "वसंत पंचमी पर बच्चे पुस्तकों और कलम की पूजा करते हैं और विद्या का आशीर्वाद माँगते हैं।",
+      "en": "On Vasant Panchami children worship their books and pens and ask for the blessing of knowledge."
+     },
+     "shot": {
+      "who": [
+       "saraswati"
+      ],
+      "setting": "a yellow-decorated classroom with flowers",
+      "action": "children place their books and pens before Saraswati's idol and fold hands",
+      "expression": "hopeful",
+      "camera": "medium shot"
+     }
+    },
+    {
+     "id": 3,
+     "text": {
+      "gu": "હંસ આપણને શીખવે છે કે સાચું-ખોટું ઓળખવું, અને વીણા શીખવે છે કે સંગીતથી મન શાંત થાય છે.",
+      "hi": "हंस हमें सिखाता है कि सही-गलत पहचानना, और वीणा सिखाती है कि संगीत से मन शांत होता है।",
+      "en": "The swan teaches us to know right from wrong, and the veena teaches that music calms the mind."
+     },
+     "shot": {
+      "who": [
+       "saraswati"
+      ],
+      "setting": "a bright garden",
+      "action": "Saraswati teaches a child to play a simple tune on the veena",
+      "expression": "warm",
+      "camera": "medium shot"
+     }
+    }
+   ],
+   "lesson": {
+    "gu": "સરસ્વતીજી આપણને શીખવે છે: ખંતથી ભણો અને નમ્ર રહો.",
+    "hi": "सरस्वती जी हमें सिखाती हैं: लगन से पढ़ो और विनम्र रहो।",
+    "en": "Saraswati teaches us: study with focus and stay humble."
+   }
+  },
+  {
+   "id": "parvati",
+   "char": "uma",
+   "vahan": {
+    "gu": "સિંહ",
+    "hi": "सिंह",
+    "en": "Lion"
+   },
+   "loves": {
+    "gu": "શિવજી અને ગણેશજી",
+    "hi": "शिव जी और गणेश जी",
+    "en": "Shiva and Ganesh"
+   },
+   "mantra": {
+    "sa": "ॐ पार्वत्यै नमः",
+    "say": {
+     "gu": "ઓમ પાર્વત્યૈ નમઃ",
+     "hi": "ॐ पार्वत्यै नमः",
+     "en": "Om Parvatyai Namah"
+    },
+    "meaning": {
+     "gu": "માતા પાર્વતીને નમસ્કાર",
+     "hi": "माँ पार्वती को नमस्कार",
+     "en": "Salutations to Mother Parvati"
+    }
+   },
+   "scenes": [
+    {
+     "id": 1,
+     "text": {
+      "gu": "માતા પાર્વતી પર્વતરાજ હિમાલયનાં પુત્રી છે. તેમણે કઠિન તપસ્યા કરી ભગવાન શિવને પામ્યાં.",
+      "hi": "माँ पार्वती पर्वतराज हिमालय की पुत्री हैं। उन्होंने कठिन तपस्या करके भगवान शिव को पाया।",
+      "en": "Mother Parvati is the daughter of the mountain king Himalaya. She won Lord Shiva through hard tapasya."
+     },
+     "shot": {
+      "who": [
+       "uma"
+      ],
+      "setting": "a quiet Himalayan forest",
+      "action": "Parvati meditates with folded hands under a tree, a soft glow around her",
+      "expression": "determined, calm",
+      "camera": "wide serene shot"
+     }
+    },
+    {
+     "id": 2,
+     "text": {
+      "gu": "તેઓ ગણેશ અને કાર્તિકેયનાં માતા છે. માતાનો પ્રેમ ખૂબ ઊંડો અને નિઃસ્વાર્થ હોય છે.",
+      "hi": "वे गणेश और कार्तिकेय की माता हैं। माँ का प्रेम बहुत गहरा और निःस्वार्थ होता है।",
+      "en": "She is the mother of Ganesh and Kartikeya. A mother's love is deep and selfless."
+     },
+     "shot": {
+      "who": [
+       "uma",
+       "ganesh"
+      ],
+      "setting": "a warm Kailash home",
+      "action": "Parvati lovingly feeds little Ganesh a sweet",
+      "expression": "loving",
+      "camera": "medium shot"
+     }
+    },
+    {
+     "id": 3,
+     "text": {
+      "gu": "નવરાત્રિમાં માતાનાં રૂપોની પૂજા થાય છે. પાર્વતીજી દયા, ધીરજ અને પ્રેમનું પ્રતીક છે.",
+      "hi": "नवरात्रि में माता के रूपों की पूजा होती है। पार्वती जी दया, धैर्य और प्रेम का प्रतीक हैं।",
+      "en": "During Navratri the forms of the Mother are worshipped. Parvati stands for kindness, patience and love."
+     },
+     "shot": {
+      "who": [
+       "uma"
+      ],
+      "setting": "a decorated temple at dusk",
+      "action": "devotees offer flowers to Parvati's idol with folded hands",
+      "expression": "peaceful",
+      "camera": "medium shot"
+     }
+    }
+   ],
+   "lesson": {
+    "gu": "પાર્વતીજી આપણને શીખવે છે: ધીરજથી મહેનત કરો અને પ્રેમથી પરિવારને જોડી રાખો.",
+    "hi": "पार्वती जी हमें सिखाती हैं: धैर्य से परिश्रम करो और प्रेम से परिवार को जोड़े रखो।",
+    "en": "Parvati teaches us: work with patience and hold your family together with love."
+   }
+  },
+  {
+   "id": "sita",
+   "char": "sita",
+   "vahan": {
+    "gu": "વાહન નથી, ધરતીમાતાનાં પુત્રી",
+    "hi": "वाहन नहीं, धरती माता की पुत्री",
+    "en": "No vehicle — a daughter of Mother Earth"
+   },
+   "loves": {
+    "gu": "ફૂલો અને બગીચો",
+    "hi": "फूल और बगीचा",
+    "en": "Flowers and gardens"
+   },
+   "mantra": {
+    "sa": "ॐ सीतायै नमः",
+    "say": {
+     "gu": "ઓમ સીતાયૈ નમઃ",
+     "hi": "ॐ सीतायै नमः",
+     "en": "Om Sitayai Namah"
+    },
+    "meaning": {
+     "gu": "માતા સીતાને નમસ્કાર",
+     "hi": "माँ सीता को नमस्कार",
+     "en": "Salutations to Mother Sita"
+    }
+   },
+   "scenes": [
+    {
+     "id": 1,
+     "text": {
+      "gu": "સીતાજી રાજા જનકની પુત્રી અને શ્રીરામનાં પત્ની છે. તેમને ધરતીમાંથી પ્રાપ્ત થયાં એટલે તેમને ભૂમિજા કહે છે.",
+      "hi": "सीता जी राजा जनक की पुत्री और श्रीराम की पत्नी हैं। वे धरती से प्राप्त हुईं इसलिए उन्हें भूमिजा कहते हैं।",
+      "en": "Sita is the daughter of King Janak and the wife of Shri Ram. Found from the earth, she is called Bhumija."
+     },
+     "shot": {
+      "who": [
+       "sita"
+      ],
+      "setting": "a green farm field at dawn",
+      "action": "Sita smiles holding a flower, standing in a field",
+      "expression": "gentle",
+      "camera": "medium warm shot"
+     }
+    },
+    {
+     "id": 2,
+     "text": {
+      "gu": "સીતાજીએ રામ સાથે વનમાં જઈ સાદગીથી રહી બતાવ્યું કે પ્રેમ અને વફાદારી સૌથી મોટી સંપત્તિ છે.",
+      "hi": "सीता जी ने राम के साथ वन जाकर सादगी से रहकर दिखाया कि प्रेम और निष्ठा सबसे बड़ी संपत्ति हैं।",
+      "en": "By going to the forest with Ram and living simply, Sita showed that love and loyalty are the greatest wealth."
+     },
+     "shot": {
+      "who": [
+       "sita",
+       "ram"
+      ],
+      "setting": "a forest hut",
+      "action": "Sita and Ram sit peacefully outside their hut",
+      "expression": "content",
+      "camera": "medium cosy shot"
+     }
+    },
+    {
+     "id": 3,
+     "text": {
+      "gu": "અશોક વાટિકામાં સીતાજીએ ધીરજ ન ગુમાવી. તેઓ આપણને મુશ્કેલીમાં શાંત અને મજબૂત રહેવાનું શીખવે છે.",
+      "hi": "अशोक वाटिका में सीता जी ने धैर्य नहीं खोया। वे हमें कठिनाई में शांत और मज़बूत रहना सिखाती हैं।",
+      "en": "In Ashok Vatika Sita did not lose patience. She teaches us to stay calm and strong in difficulty."
+     },
+     "shot": {
+      "who": [
+       "sita"
+      ],
+      "setting": "a quiet garden at dusk",
+      "action": "Sita sits with folded hands and a soft glow of hope",
+      "expression": "calm courage",
+      "camera": "medium shot"
+     }
+    }
+   ],
+   "lesson": {
+    "gu": "સીતાજી આપણને શીખવે છે: ધીરજ અને સત્ય સાથે મજબૂત રહો.",
+    "hi": "सीता जी हमें सिखाती हैं: धैर्य और सत्य के साथ मज़बूत रहो।",
+    "en": "Sita teaches us: stay strong with patience and truth."
+   }
+  },
+  {
+   "id": "radha",
+   "char": "radha",
+   "vahan": {
+    "gu": "વાહન નથી, કૃષ્ણભક્તિ જ સાથી",
+    "hi": "वाहन नहीं, कृष्णभक्ति ही साथी",
+    "en": "No vehicle — devotion to Krishna is her companion"
+   },
+   "loves": {
+    "gu": "કૃષ્ણની વાંસળી અને ફૂલ",
+    "hi": "कृष्ण की बाँसुरी और फूल",
+    "en": "Krishna's flute and flowers"
+   },
+   "mantra": {
+    "sa": "ॐ राधिकायै नमः",
+    "say": {
+     "gu": "ઓમ રાધિકાયૈ નમઃ",
+     "hi": "ॐ राधिकायै नमः",
+     "en": "Om Radhikayai Namah"
+    },
+    "meaning": {
+     "gu": "શ્રી રાધાજીને નમસ્કાર",
+     "hi": "श्री राधा जी को नमस्कार",
+     "en": "Salutations to Shri Radha"
+    }
+   },
+   "scenes": [
+    {
+     "id": 1,
+     "text": {
+      "gu": "રાધાજી શ્રીકૃષ્ણનાં પરમ ભક્ત છે. તેમના પ્રેમમાં સ્વાર્થ ન હતો, માત્ર ભક્તિ હતી.",
+      "hi": "राधा जी श्रीकृष्ण की परम भक्त हैं। उनके प्रेम में स्वार्थ नहीं था, केवल भक्ति थी।",
+      "en": "Radha is Shri Krishna's supreme devotee. Her love had no selfishness, only devotion."
+     },
+     "shot": {
+      "who": [
+       "radha",
+       "krishna"
+      ],
+      "setting": "a Vrindavan grove with blooming trees",
+      "action": "Radha and young Krishna stand together under a tree, Krishna plays his flute",
+      "expression": "both: joyful",
+      "camera": "medium warm shot"
+     }
+    },
+    {
+     "id": 2,
+     "text": {
+      "gu": "વૃંદાવનમાં રાધા-કૃષ્ણ સાથે રમતા, ગાતા અને નાચતા. રાસલીલા ભક્તિ અને આનંદનું સુંદર રૂપ છે.",
+      "hi": "वृंदावन में राधा-कृष्ण साथ खेलते, गाते और नाचते थे। रासलीला भक्ति और आनंद का सुंदर रूप है।",
+      "en": "In Vrindavan, Radha and Krishna played, sang and danced together. The raas is a beautiful form of devotion and joy."
+     },
+     "shot": {
+      "who": [
+       "radha",
+       "krishna"
+      ],
+      "setting": "a moonlit Vrindavan grove",
+      "action": "Radha, Krishna and friends dance in a circle with gentle steps",
+      "expression": "all: joyful",
+      "camera": "wide musical shot"
+     }
+    },
+    {
+     "id": 3,
+     "text": {
+      "gu": "‘રાધે રાધે’ બોલવું એટલે પ્રેમ અને શાંતિને યાદ કરવી. રાધાજી આપણને શીખવે છે કે સાચો પ્રેમ નિઃસ્વાર્થ હોય છે.",
+      "hi": "‘राधे राधे’ बोलना यानी प्रेम और शांति को याद करना। राधा जी हमें सिखाती हैं कि सच्चा प्रेम निःस्वार्थ होता है।",
+      "en": "Saying ‘Radhe Radhe’ is remembering love and peace. Radha teaches us that true love is selfless."
+     },
+     "shot": {
+      "who": [
+       "radha"
+      ],
+      "setting": "a village temple at sunset",
+      "action": "children greet each other with ‘Radhe Radhe’ and folded hands",
+      "expression": "happy",
+      "camera": "medium shot"
+     }
+    }
+   ],
+   "lesson": {
+    "gu": "રાધાજી આપણને શીખવે છે: સ્વાર્થ વગર પ્રેમ અને ભક્તિ કરો.",
+    "hi": "राधा जी हमें सिखाती हैं: निःस्वार्थ प्रेम और भक्ति करो।",
+    "en": "Radha teaches us: love and devote yourself without selfishness."
+   }
+  }
+ ]
+}

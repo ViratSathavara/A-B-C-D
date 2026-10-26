@@ -1,0 +1,619 @@
+{
+ "items": [
+  {
+   "letter": "अ",
+   "char": "ayodhya",
+   "text": {
+    "hi": "अयोध्या श्रीराम की जन्मभूमि है। सरयू नदी के किनारे बसा यह नगर सूर्यवंश की राजधानी था।",
+    "gu": "અયોધ્યા શ્રીરામની જન્મભૂમિ છે. સરયૂ નદીના કિનારે વસેલું આ નગર સૂર્યવંશની રાજધાની હતું.",
+    "en": "Ayodhya is the birthplace of Shri Ram. This city on the river Saryu was the capital of the Surya dynasty."
+   },
+   "shot": {
+    "subject": "a grand golden city with temple spires and flags",
+    "setting": "the banks of the Saryu at sunrise"
+   }
+  },
+  {
+   "letter": "आ",
+   "char": "adi_shankaracharya",
+   "text": {
+    "hi": "आदि शंकराचार्य महान संत थे। उन्होंने पूरे भारत में चार मठ बनाकर ज्ञान का प्रकाश फैलाया।",
+    "gu": "આદિ શંકરાચાર્ય મહાન સંત હતા. તેમણે આખા ભારતમાં ચાર મઠ સ્થાપી જ્ઞાનનો પ્રકાશ ફેલાવ્યો.",
+    "en": "Adi Shankaracharya was a great saint. He set up four mathas across India and spread the light of knowledge."
+   },
+   "shot": {
+    "subject": "a serene young monk in saffron robes with a staff and rudraksh",
+    "setting": "a mountain path with a small temple"
+   }
+  },
+  {
+   "letter": "इ",
+   "char": "indraprastha",
+   "text": {
+    "hi": "इन्द्रप्रस्थ पांडवों की सुंदर राजधानी थी। वह यमुना के किनारे बसी बहुत भव्य नगरी थी।",
+    "gu": "ઇન્દ્રપ્રસ્થ પાંડવોની સુંદર રાજધાની હતી. તે યમુનાના કિનારે વસેલી ખૂબ ભવ્ય નગરી હતી.",
+    "en": "Indraprastha was the beautiful capital of the Pandavas. It was a very grand city on the banks of the Yamuna."
+   },
+   "shot": {
+    "subject": "a shining palace city with arches and gardens",
+    "setting": "a river valley at sunrise"
+   }
+  },
+  {
+   "letter": "ई",
+   "char": "ishavasya",
+   "text": {
+    "hi": "ईशावास्य उपनिषद सिखाता है कि सब कुछ ईश्वर का है। इसलिए हमें लालच नहीं करना चाहिए।",
+    "gu": "ઈશાવાસ્ય ઉપનિષદ શીખવે છે કે બધું ઈશ્વરનું છે. એટલે આપણે લોભ ન કરવો જોઈએ.",
+    "en": "The Isha Upanishad teaches that everything belongs to God. So we should not be greedy."
+   },
+   "shot": {
+    "subject": "a sage holding a palm-leaf manuscript beside a glowing diya",
+    "setting": "a forest ashram"
+   }
+  },
+  {
+   "letter": "उ",
+   "char": "ujjain",
+   "text": {
+    "hi": "उज्जैन शिव जी के महाकाल मंदिर का नगर है। यहाँ क्षिप्रा किनारे कुंभ का मेला लगता है।",
+    "gu": "ઉજ્જૈન શિવજીના મહાકાલ મંદિરનું નગર છે. અહીં ક્ષિપ્રા કિનારે કુંભ મેળો ભરાય છે.",
+    "en": "Ujjain is the city of Shiva's Mahakal temple. A Kumbh fair is held here on the Kshipra's bank."
+   },
+   "shot": {
+    "subject": "a grand Mahakal-style temple with a flag",
+    "setting": "the river bank at dusk with lamps"
+   }
+  },
+  {
+   "letter": "ऊ",
+   "char": "usha",
+   "text": {
+    "hi": "ऊषा भोर की देवी है। जब वह आती है तो अंधेरा हटता है और नया दिन शुरू होता है।",
+    "gu": "ઊષા સવારની દેવી છે. તે આવે ત્યારે અંધારું જાય છે અને નવો દિવસ શરૂ થાય છે.",
+    "en": "Usha is the goddess of dawn. When she comes the darkness leaves and a new day begins."
+   },
+   "shot": {
+    "subject": "a gentle glowing lady of dawn in pink and gold sky robes",
+    "setting": "a golden sunrise over hills"
+   }
+  },
+  {
+   "letter": "ऋ",
+   "char": "rigveda",
+   "text": {
+    "hi": "ऋग्वेद सबसे प्राचीन वेद है। इसमें सूर्य, अग्नि और प्रकृति की सुंदर प्रार्थनाएँ हैं।",
+    "gu": "ઋગ્વેદ સૌથી પ્રાચીન વેદ છે. તેમાં સૂર્ય, અગ્નિ અને પ્રકૃતિની સુંદર પ્રાર્થનાઓ છે.",
+    "en": "The Rigveda is the oldest Veda. It holds beautiful prayers to the Sun, Fire and nature."
+   },
+   "shot": {
+    "subject": "an old palm-leaf manuscript on a wooden stand beside a lamp",
+    "setting": "a quiet hermitage by a stream"
+   }
+  },
+  {
+   "letter": "ए",
+   "char": "eknath",
+   "text": {
+    "hi": "संत एकनाथ महाराष्ट्र के संत थे। वे सबके साथ प्रेम करते और सेवा में विश्वास रखते थे।",
+    "gu": "સંત એકનાથ મહારાષ્ટ્રના સંત હતા. તેઓ બધા સાથે પ્રેમ કરતા અને સેવામાં માનતા.",
+    "en": "Sant Eknath was a saint of Maharashtra. He loved everyone and believed in service."
+   },
+   "shot": {
+    "subject": "a gentle saint in a white dhoti with a tilak and a tambura",
+    "setting": "a village by a river with a small temple"
+   }
+  },
+  {
+   "letter": "ऐ",
+   "char": "aishwarya",
+   "text": {
+    "hi": "ऐश्वर्य यानी सुख-समृद्धि। लक्ष्मी जी की पूजा से हम प्रसन्नता और मेहनत से धन पाने की सीख लेते हैं।",
+    "gu": "ઐશ્વર્ય એટલે સુખ-સમૃદ્ધિ. લક્ષ્મીજીની પૂજાથી આપણે મહેનત અને આનંદથી સંપત્તિ મેળવવાની શીખ લઈએ છીએ.",
+    "en": "Aishwarya means prosperity. Worshipping Lakshmi reminds us to earn wealth with hard work and happiness."
+   },
+   "shot": {
+    "subject": "a golden pot overflowing with coins and flowers",
+    "setting": "a decorated Diwali doorstep"
+   }
+  },
+  {
+   "letter": "ओ",
+   "char": "jagannath_puri",
+   "text": {
+    "hi": "ओडिशा के जगन्नाथ पुरी में भगवान जगन्नाथ की रथयात्रा निकलती है। यह बहुत सुंदर और बड़ा उत्सव है।",
+    "gu": "ઓડિશાના જગન્નાથ પુરીમાં ભગવાન જગન્નાથની રથયાત્રા નીકળે છે. તે ખૂબ સુંદર મોટો ઉત્સવ છે.",
+    "en": "In Jagannath Puri, Odisha, the Rath Yatra of Lord Jagannath takes place. It is a grand and beautiful festival."
+   },
+   "shot": {
+    "subject": "a colourful temple with a flag and a huge chariot",
+    "setting": "the sea shore at sunrise"
+   }
+  },
+  {
+   "letter": "औ",
+   "char": "audarya",
+   "text": {
+    "hi": "औदार्य यानी उदारता। जो खुले मन से दूसरों को देता है, वह सबका प्रिय बन जाता है।",
+    "gu": "ઔદાર્ય એટલે ઉદારતા. જે ખુલ્લા મનથી બીજાને આપે છે તે બધાનો પ્રિય બને છે.",
+    "en": "Audarya means generosity. One who gives with an open heart becomes loved by everyone."
+   },
+   "shot": {
+    "subject": "a child giving a share of fruit to another child with a bright smile",
+    "setting": "a village lane at morning"
+   }
+  },
+  {
+   "letter": "अं",
+   "char": "angad",
+   "text": {
+    "hi": "अंगद बाली के पुत्र थे। वे राम के दूत बनकर रावण की सभा में गए और दृढ़ता से खड़े रहे।",
+    "gu": "અંગદ વાલીના પુત્ર હતા. તેઓ રામના દૂત બનીને રાવણની સભામાં ગયા અને દૃઢતાથી ઊભા રહ્યા.",
+    "en": "Angad was the son of Vali. He went as Ram's messenger to Ravan's court and stood firm."
+   },
+   "shot": {
+    "subject": "a strong young vanara with a golden armband standing tall",
+    "setting": "a palace court with tall pillars"
+   }
+  },
+  {
+   "letter": "अः",
+   "char": "namah",
+   "text": {
+    "hi": "‘नमः’ शब्द के अंत में अः आता है। ‘ॐ नमः शिवाय’ में हम शिव जी को प्रणाम करते हैं।",
+    "gu": "‘નમઃ’ શબ્દના અંતે અઃ આવે છે. ‘ઓમ નમઃ શિવાય’માં આપણે શિવજીને પ્રણામ કરીએ છીએ.",
+    "en": "The word ‘Namah’ ends with the sound ‘ah’. In ‘Om Namah Shivaya’ we bow to Lord Shiva."
+   },
+   "shot": {
+    "subject": "a child with folded hands in namaste before a Shiva idol",
+    "setting": "a quiet temple corner"
+   },
+   "exempt": true,
+   "why": "No Hindi word begins with अः; it appears at the end of words like नमः."
+  },
+  {
+   "letter": "क",
+   "char": "kailash",
+   "text": {
+    "hi": "कैलाश पर्वत शिव जी का निवास माना जाता है। वह बर्फ से ढका और बहुत शांत है।",
+    "gu": "કૈલાસ પર્વત શિવજીનું નિવાસ ગણાય છે. તે બરફથી ઢંકાયેલો અને ખૂબ શાંત છે.",
+    "en": "Mount Kailash is believed to be Shiva's home. It is covered in snow and very peaceful."
+   },
+   "shot": {
+    "subject": "a majestic snow-covered peak glowing in soft morning light",
+    "setting": "clear blue sky with soft clouds"
+   }
+  },
+  {
+   "letter": "ख",
+   "char": "kheer",
+   "text": {
+    "hi": "खीर दूध, चावल और चीनी से बनती है। यह प्रसाद में और त्योहारों में बनाई जाती है।",
+    "gu": "ખીર દૂધ, ચોખા અને ખાંડથી બને છે. તે પ્રસાદમાં અને તહેવારોમાં બનાવાય છે.",
+    "en": "Kheer is made of milk, rice and sugar. It is prepared as prasad and on festivals."
+   },
+   "shot": {
+    "subject": "a bowl of creamy kheer with nuts",
+    "setting": "a festive kitchen"
+   }
+  },
+  {
+   "letter": "ग",
+   "char": "ganga",
+   "text": {
+    "hi": "गंगा पवित्र नदी है। वह हिमालय से निकलकर लाखों लोगों को जल और जीवन देती है।",
+    "gu": "ગંગા પવિત્ર નદી છે. તે હિમાલયથી નીકળી લાખો લોકોને પાણી અને જીવન આપે છે.",
+    "en": "The Ganga is a holy river. She flows from the Himalayas and gives water and life to millions."
+   },
+   "shot": {
+    "subject": "a sparkling silver-blue river flowing from the mountains",
+    "setting": "a green valley with a ghat and diyas"
+   }
+  },
+  {
+   "letter": "घ",
+   "char": "ghatotkach",
+   "text": {
+    "hi": "घटोत्कच भीम के पुत्र थे। वे बलशाली थे और पांडवों की रक्षा में हमेशा आगे रहे।",
+    "gu": "ઘટોત્કચ ભીમના પુત્ર હતા. તેઓ બળવાન હતા અને પાંડવોની રક્ષામાં હંમેશાં આગળ રહ્યા.",
+    "en": "Ghatotkacha was the son of Bhima. He was strong and always stood ready to protect the Pandavas."
+   },
+   "shot": {
+    "subject": "a tall, friendly, strong young warrior with curly hair and a kind face",
+    "setting": "a forest edge at dusk"
+   }
+  },
+  {
+   "letter": "च",
+   "char": "chitrakoot",
+   "text": {
+    "hi": "चित्रकूट वह वन है जहाँ राम, सीता और लक्ष्मण ने समय बिताया। यहाँ मंदाकिनी नदी बहती है।",
+    "gu": "ચિત્રકૂટ તે વન છે જ્યાં રામ, સીતા અને લક્ષ્મણે સમય વિતાવ્યો. અહીં મંદાકિની નદી વહે છે.",
+    "en": "Chitrakoot is the forest where Ram, Sita and Laxman stayed. The Mandakini river flows here."
+   },
+   "shot": {
+    "subject": "a calm forest hill with a river and a small hut",
+    "setting": "a golden morning light"
+   }
+  },
+  {
+   "letter": "छ",
+   "char": "chhath",
+   "text": {
+    "hi": "छठ पूजा में उगते और डूबते सूर्य को अर्घ्य देते हैं। यह प्रकृति और सूर्य के प्रति आभार है।",
+    "gu": "છઠ પૂજામાં ઉગતા અને આથમતા સૂર્યને અર્ઘ્ય આપે છે. તે પ્રકૃતિ અને સૂર્ય પ્રત્યે આભાર છે.",
+    "en": "In Chhath Puja people offer water to the rising and setting Sun. It is gratitude for nature and the Sun."
+   },
+   "shot": {
+    "subject": "a family standing in a river holding bamboo baskets with fruits towards the sun",
+    "setting": "a golden sunrise river scene"
+   }
+  },
+  {
+   "letter": "ज",
+   "char": "jatayu",
+   "text": {
+    "hi": "जटायु बूढ़ा पर साहसी गिद्ध था। उसने सीता जी को बचाने के लिए रावण से लड़ाई की।",
+    "gu": "જટાયુ વૃદ્ધ પણ સાહસી ગીધ હતો. તેણે સીતાજીને બચાવવા રાવણ સામે લડત આપી.",
+    "en": "Jatayu was an old but brave vulture. He fought Ravan to rescue Sita."
+   },
+   "shot": {
+    "subject": "a big noble vulture with outspread wings in the sky",
+    "setting": "a forest sky at sunrise"
+   }
+  },
+  {
+   "letter": "झ",
+   "char": "jhansi_rani",
+   "text": {
+    "hi": "झाँसी की रानी लक्ष्मीबाई बहुत वीर थीं। उन्होंने अपनी मातृभूमि की रक्षा के लिए साहस दिखाया।",
+    "gu": "ઝાંસીની રાણી લક્ષ્મીબાઈ ખૂબ વીર હતી. તેમણે માતૃભૂમિની રક્ષા માટે હિંમત બતાવી.",
+    "en": "Rani Lakshmibai of Jhansi was very brave. She showed courage to protect her motherland."
+   },
+   "shot": {
+    "subject": "a brave queen in a turban on a horse holding a sword and her child tied on her back",
+    "setting": "a fort on a hill at dawn"
+   }
+  },
+  {
+   "letter": "ट",
+   "char": "tapkeshwar",
+   "text": {
+    "hi": "टपकेश्वर महादेव देहरादून की गुफा में है। यहाँ शिवलिंग पर ऊपर से जल की बूँदें टपकती हैं।",
+    "gu": "ટપકેશ્વર મહાદેવ દેહરાદૂનની ગુફામાં છે. અહીં શિવલિંગ પર ઉપરથી પાણીનાં ટીપાં ટપકે છે.",
+    "en": "Tapkeshwar Mahadev is in a cave in Dehradun. Drops of water fall on the Shivling from above."
+   },
+   "shot": {
+    "subject": "a cave Shivling with water drops dripping from the roof",
+    "setting": "a quiet green cave entrance"
+   }
+  },
+  {
+   "letter": "ठ",
+   "char": "thandai",
+   "text": {
+    "hi": "ठंडाई दूध, बादाम और इलायची से बनने वाला ठंडा पेय है। होली पर यह प्रेम से परोसा जाता है।",
+    "gu": "ઠંડાઈ દૂધ, બદામ અને એલચીથી બનતું ઠંડું પીણું છે. હોળી પર તે પ્રેમથી પીરસાય છે.",
+    "en": "Thandai is a cool drink of milk, almonds and cardamom. It is served with love on Holi."
+   },
+   "shot": {
+    "subject": "a pitcher and cups of creamy thandai with petals",
+    "setting": "a festive courtyard with colours"
+   }
+  },
+  {
+   "letter": "ड",
+   "char": "dandiya",
+   "text": {
+    "hi": "डांडिया गुजरात का नृत्य है। नवरात्रि में सब लोग रंगीन कपड़े पहनकर डंडियों से नाचते हैं।",
+    "gu": "ડાંડિયા ગુજરાતનું નૃત્ય છે. નવરાત્રિમાં બધા રંગીન કપડાં પહેરીને દાંડિયાથી નાચે છે.",
+    "en": "Dandiya is a dance of Gujarat. During Navratri everyone dances with sticks in bright clothes."
+   },
+   "shot": {
+    "subject": "children dancing with colourful dandiya sticks",
+    "setting": "a Navratri festival ground with lights"
+   }
+  },
+  {
+   "letter": "ढ",
+   "char": "kabir",
+   "text": {
+    "hi": "ढाई आखर प्रेम का पढ़े सो पंडित होय — संत कबीर ने कहा कि प्रेम के ढाई अक्षर समझ लें तो सब समझ आ जाता है।",
+    "gu": "ઢાઈ અક્ષર પ્રેમના — સંત કબીરે કહ્યું કે પ્રેમના અઢી અક્ષર સમજી લઈએ તો બધું સમજાઈ જાય.",
+    "en": "‘Dhai aakhar prem ka’ — Sant Kabir said that if we understand two-and-a-half letters of love, we understand everything."
+   },
+   "shot": {
+    "subject": "a saint weaver in a simple white turban sitting at a loom with a smile",
+    "setting": "a village lane in the morning"
+   }
+  },
+  {
+   "letter": "ण",
+   "char": "pranam",
+   "text": {
+    "hi": "‘प्रणाम’ शब्द के बीच में ‘ण’ आता है। बड़ों को प्रणाम करने से आशीर्वाद मिलता है।",
+    "gu": "‘પ્રણામ’ શબ્દના વચ્ચે ‘ણ’ આવે છે. વડીલોને પ્રણામ કરવાથી આશીર્વાદ મળે છે.",
+    "en": "The word ‘Pranam’ has ‘ṇa’ in the middle. Bowing to elders brings blessings."
+   },
+   "shot": {
+    "subject": "a child touching the feet of a smiling grandfather",
+    "setting": "a courtyard at sunrise"
+   },
+   "exempt": true,
+   "why": "Hindi ण never begins a word; it appears in the middle, as in प्रणाम."
+  },
+  {
+   "letter": "त",
+   "char": "tulsidas",
+   "text": {
+    "hi": "तुलसीदास जी ने रामचरितमानस लिखी। उनकी चौपाइयाँ आज भी घर-घर में गाई जाती हैं।",
+    "gu": "તુલસીદાસજીએ રામચરિતમાનસ લખી. તેમની ચોપાઈઓ આજે પણ ઘરોમાં ગવાય છે.",
+    "en": "Tulsidas wrote the Ramcharitmanas. His verses are still sung in homes today."
+   },
+   "shot": {
+    "subject": "a saint with a quill and palm-leaf pages and a gentle smile",
+    "setting": "a riverside hut"
+   }
+  },
+  {
+   "letter": "थ",
+   "char": "thaneshwar",
+   "text": {
+    "hi": "थानेश्वर कुरुक्षेत्र का प्राचीन तीर्थ है। यहाँ महादेव का मंदिर है और लोग श्रद्धा से आते हैं।",
+    "gu": "થાનેશ્વર કુરુક્ષેત્રનું પ્રાચીન તીર્થ છે. અહીં મહાદેવનું મંદિર છે અને લોકો શ્રદ્ધાથી આવે છે.",
+    "en": "Thaneshwar is an ancient pilgrimage place in Kurukshetra. It has a Mahadev temple where people come with faith."
+   },
+   "shot": {
+    "subject": "a serene Shiva temple beside a pond",
+    "setting": "a clear morning"
+   }
+  },
+  {
+   "letter": "द",
+   "char": "dwarka",
+   "text": {
+    "hi": "द्वारका श्रीकृष्ण की नगरी है। यह समुद्र के किनारे बसी थी और बहुत सुंदर थी।",
+    "gu": "દ્વારકા શ્રીકૃષ્ણની નગરી છે. તે સમુદ્ર કિનારે વસેલી અને ખૂબ સુંદર હતી.",
+    "en": "Dwarka is the city of Shri Krishna. It stood by the sea and was very beautiful."
+   },
+   "shot": {
+    "subject": "a golden city beside the sea with a tall temple flag",
+    "setting": "a sunrise over the ocean"
+   }
+  },
+  {
+   "letter": "ध",
+   "char": "dhanvantari",
+   "text": {
+    "hi": "धन्वंतरि आयुर्वेद के देवता हैं। वे अमृत कलश और औषधियाँ लेकर समुद्र मंथन से प्रकट हुए।",
+    "gu": "ધન્વંતરિ આયુર્વેદના દેવ છે. તેઓ અમૃત કળશ અને ઔષધિઓ સાથે સમુદ્રમંથનથી પ્રગટ થયા.",
+    "en": "Dhanvantari is the god of Ayurveda. He appeared from the churning of the ocean with the nectar pot and herbs."
+   },
+   "shot": {
+    "subject": "a kind four-armed deity in white holding a kalash and herbs",
+    "setting": "a glowing ocean sky"
+   }
+  },
+  {
+   "letter": "न",
+   "char": "narmada",
+   "text": {
+    "hi": "नर्मदा पवित्र नदी है। कहा जाता है कि उसके दर्शन मात्र से मन शांत हो जाता है।",
+    "gu": "નર્મદા પવિત્ર નદી છે. કહેવાય છે કે તેના દર્શનથી જ મન શાંત થાય છે.",
+    "en": "The Narmada is a holy river. It is said that just seeing her calms the mind."
+   },
+   "shot": {
+    "subject": "a wide serene river with stone ghats",
+    "setting": "a green valley with soft light"
+   }
+  },
+  {
+   "letter": "प",
+   "char": "patanjali",
+   "text": {
+    "hi": "पतंजलि ने योग के सूत्र लिखे। योग हमारे शरीर और मन को स्वस्थ और शांत रखता है।",
+    "gu": "પતંજલિએ યોગસૂત્રો લખ્યાં. યોગ આપણા શરીર અને મનને સ્વસ્થ અને શાંત રાખે છે.",
+    "en": "Patanjali wrote the Yoga Sutras. Yoga keeps our body and mind healthy and calm."
+   },
+   "shot": {
+    "subject": "a sage in a yoga pose with a gentle glow",
+    "setting": "a green hermitage garden"
+   }
+  },
+  {
+   "letter": "फ",
+   "char": "phagun",
+   "text": {
+    "hi": "फागुन में होली आती है। रंग उड़ते हैं और सब मिलकर प्रेम और खुशी मनाते हैं।",
+    "gu": "ફાગણમાં હોળી આવે છે. રંગ ઊડે છે અને બધા સાથે પ્રેમ અને ખુશી ઊજવે છે.",
+    "en": "Holi comes in the month of Phagun. Colours fly and everyone celebrates love and joy together."
+   },
+   "shot": {
+    "subject": "children throwing coloured gulal powder into the air",
+    "setting": "a sunny village square"
+   }
+  },
+  {
+   "letter": "ब",
+   "char": "badrinath",
+   "text": {
+    "hi": "बद्रीनाथ हिमालय में भगवान विष्णु का पवित्र धाम है। यह बर्फीले पहाड़ों के बीच बसा है।",
+    "gu": "બદ્રીનાથ હિમાલયમાં ભગવાન વિષ્ણુનું પવિત્ર ધામ છે. તે બરફીલા પર્વતો વચ્ચે વસેલું છે.",
+    "en": "Badrinath is a holy abode of Lord Vishnu in the Himalayas. It stands among snowy mountains."
+   },
+   "shot": {
+    "subject": "a colourful temple with snowy peaks behind",
+    "setting": "a clear mountain morning"
+   }
+  },
+  {
+   "letter": "भ",
+   "char": "bharat",
+   "text": {
+    "hi": "भरत जी राम के भाई थे। उन्होंने राम की खड़ाऊँ को सिंहासन पर रखकर प्रेम से सेवा की।",
+    "gu": "ભરતજી રામના ભાઈ હતા. તેમણે રામની ખડાઉ સિંહાસન પર મૂકીને પ્રેમથી સેવા કરી.",
+    "en": "Bharat was Ram's brother. He placed Ram's sandals on the throne and served with love."
+   },
+   "shot": {
+    "subject": "a humble prince in simple clothes holding wooden sandals on his head",
+    "setting": "a forest path at sunrise"
+   }
+  },
+  {
+   "letter": "म",
+   "char": "mathura",
+   "text": {
+    "hi": "मथुरा श्रीकृष्ण की जन्मभूमि है। यहाँ यमुना बहती है और जन्माष्टमी बड़े उत्साह से मनाई जाती है।",
+    "gu": "મથુરા શ્રીકૃષ્ણની જન્મભૂમિ છે. અહીં યમુના વહે છે અને જન્માષ્ટમી ઉત્સાહથી ઊજવાય છે.",
+    "en": "Mathura is the birthplace of Shri Krishna. The Yamuna flows here and Janmashtami is celebrated with joy."
+   },
+   "shot": {
+    "subject": "a temple city with ghats on the Yamuna",
+    "setting": "a lamp-lit evening"
+   }
+  },
+  {
+   "letter": "य",
+   "char": "yamuna",
+   "text": {
+    "hi": "यमुना नदी श्रीकृष्ण को बहुत प्रिय है। उसके किनारे उन्होंने गायें चराईं और बाँसुरी बजाई।",
+    "gu": "યમુના નદી શ્રીકૃષ્ણને ખૂબ પ્રિય છે. તેના કિનારે તેમણે ગાયો ચરાવી અને વાંસળી વગાડી.",
+    "en": "The Yamuna river is dear to Shri Krishna. On her banks he grazed cows and played his flute."
+   },
+   "shot": {
+    "subject": "a calm blue-dark river with kadamba trees and a flute on the bank",
+    "setting": "a golden evening"
+   }
+  },
+  {
+   "letter": "र",
+   "char": "rameshwaram",
+   "text": {
+    "hi": "रामेश्वरम में श्रीराम ने शिवलिंग की पूजा की थी। यह चार धामों में से एक है।",
+    "gu": "રામેશ્વરમમાં શ્રીરામે શિવલિંગની પૂજા કરી હતી. તે ચાર ધામમાંનું એક છે.",
+    "en": "At Rameshwaram Shri Ram worshipped the Shivling. It is one of the four dhams."
+   },
+   "shot": {
+    "subject": "a long-pillared temple corridor and the sea",
+    "setting": "a blue seaside morning"
+   }
+  },
+  {
+   "letter": "ल",
+   "char": "lota",
+   "text": {
+    "hi": "लोटा पीतल या ताँबे का छोटा बर्तन है। इससे सूर्य को जल और भगवान को अभिषेक करते हैं।",
+    "gu": "લોટો પિત્તળ કે તાંબાનું નાનું વાસણ છે. તેનાથી સૂર્યને જળ અને ભગવાનનો અભિષેક કરાય છે.",
+    "en": "A lota is a small brass or copper pot. We use it to offer water to the Sun and to bathe the deity."
+   },
+   "shot": {
+    "subject": "a shiny brass lota with a little water spilling",
+    "setting": "a sunny courtyard"
+   }
+  },
+  {
+   "letter": "व",
+   "char": "valmiki",
+   "text": {
+    "hi": "वाल्मीकि ऋषि ने रामायण लिखी। पहले वे डाकू थे, पर नारद जी के उपदेश से तपस्या कर महर्षि बने।",
+    "gu": "વાલ્મીકિ ઋષિએ રામાયણ લખી. પહેલાં તેઓ ડાકુ હતા, પણ નારદજીના ઉપદેશથી તપસ્યા કરી મહર્ષિ બન્યા.",
+    "en": "Sage Valmiki wrote the Ramayana. He was once a robber, but after Narad's teaching he did tapasya and became a great sage."
+   },
+   "shot": {
+    "subject": "a white-bearded sage writing on a palm-leaf with a quill, an ant-hill behind him",
+    "setting": "a riverside hermitage"
+   }
+  },
+  {
+   "letter": "श",
+   "char": "sheshnag",
+   "text": {
+    "hi": "शेषनाग भगवान विष्णु की शैय्या हैं। वे हजार फनों से धरती को सँभाले रखते हैं।",
+    "gu": "શેષનાગ ભગવાન વિષ્ણુની શૈયા છે. તેઓ હજાર ફેણથી ધરતીને સંભાળે છે.",
+    "en": "Sheshnag is Lord Vishnu's bed. With a thousand hoods he is said to hold up the earth."
+   },
+   "shot": {
+    "subject": "a large friendly serpent with many hoods coiled like a bed",
+    "setting": "a glowing milky ocean"
+   }
+  },
+  {
+   "letter": "ष",
+   "char": "kartikeya",
+   "text": {
+    "hi": "षडानन यानी कार्तिकेय जी के छह मुख हैं। वे शिव-पार्वती के पुत्र और देवताओं के सेनापति हैं।",
+    "gu": "ષડાનન એટલે કાર્તિકેયજી, જેમનાં છ મુખ છે. તેઓ શિવ-પાર્વતીના પુત્ર અને દેવોના સેનાપતિ છે.",
+    "en": "Shadanan, Kartikeya, has six faces. He is the son of Shiva and Parvati and the commander of the gods."
+   },
+   "shot": {
+    "subject": "a young six-faced god standing beside a peacock with a spear",
+    "setting": "a mountain sunrise"
+   }
+  },
+  {
+   "letter": "स",
+   "char": "saryu",
+   "text": {
+    "hi": "सरयू नदी अयोध्या के पास बहती है। राम और भरत इसके किनारे खेले थे।",
+    "gu": "સરયૂ નદી અયોધ્યા પાસે વહે છે. રામ અને ભરત તેના કિનારે રમ્યા હતા.",
+    "en": "The river Saryu flows by Ayodhya. Ram and Bharat played on its banks."
+   },
+   "shot": {
+    "subject": "a calm river with stone steps and lamps",
+    "setting": "a sunrise with birds"
+   }
+  },
+  {
+   "letter": "ह",
+   "char": "haridwar",
+   "text": {
+    "hi": "हरिद्वार में गंगा पहाड़ों से मैदान में उतरती है। यहाँ शाम को गंगा आरती होती है।",
+    "gu": "હરિદ્વારમાં ગંગા પહાડોથી મેદાનમાં ઊતરે છે. અહીં સાંજે ગંગા આરતી થાય છે.",
+    "en": "At Haridwar the Ganga comes down from the mountains to the plains. A Ganga aarti is performed here in the evening."
+   },
+   "shot": {
+    "subject": "a ghat with floating diyas and bells",
+    "setting": "a river dusk"
+   }
+  },
+  {
+   "letter": "क्ष",
+   "char": "kshipra",
+   "text": {
+    "hi": "क्षिप्रा नदी उज्जैन से बहती है। यहाँ हर बारह वर्ष में कुंभ स्नान का मेला लगता है।",
+    "gu": "ક્ષિપ્રા નદી ઉજ્જૈનમાંથી વહે છે. અહીં દર બાર વર્ષે કુંભ સ્નાનનો મેળો ભરાય છે.",
+    "en": "The river Kshipra flows through Ujjain. A Kumbh bathing fair is held here every twelve years."
+   },
+   "shot": {
+    "subject": "a calm river with steps and pilgrims bathing at sunrise",
+    "setting": "a temple tower behind"
+   }
+  },
+  {
+   "letter": "त्र",
+   "char": "trishul",
+   "text": {
+    "hi": "त्रिशूल शिव जी का शस्त्र है। इसके तीन फल सत्य, कर्म और ज्ञान के प्रतीक हैं।",
+    "gu": "ત્રિશૂલ શિવજીનું શસ્ત્ર છે. તેના ત્રણ ફળાં સત્ય, કર્મ અને જ્ઞાનના પ્રતીક છે.",
+    "en": "The trishul is Shiva's trident. Its three prongs stand for truth, action and knowledge."
+   },
+   "shot": {
+    "subject": "a gleaming trident with a damru and a flower",
+    "setting": "a snowy Kailash backdrop"
+   }
+  },
+  {
+   "letter": "ज्ञ",
+   "char": "gyaneshwar",
+   "text": {
+    "hi": "संत ज्ञानेश्वर ने कम उम्र में गीता पर ज्ञानेश्वरी लिखी। वे बहुत ज्ञानी और दयालु थे।",
+    "gu": "સંત જ્ઞાનેશ્વરે નાની ઉંમરે ગીતા પર જ્ઞાનેશ્વરી લખી. તેઓ ખૂબ જ્ઞાની અને દયાળુ હતા.",
+    "en": "Sant Dnyaneshwar wrote the Dnyaneshwari on the Gita at a young age. He was very wise and kind."
+   },
+   "shot": {
+    "subject": "a young saint with a gentle face and a palm-leaf book",
+    "setting": "a village temple garden"
+   }
+  }
+ ]
+}
