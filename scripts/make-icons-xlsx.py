@@ -70,6 +70,9 @@ I = [
 ("Empty and system","sys-empty","Nothing here yet","Empty lists","256x256","Lottie / PNG","a lotus bud sways","none","a closed lotus bud on a small leaf"),
 ]
 
+import json
+json.dump([{'s':'icons','f':f'art/icons/{i}.png','l':name,'p':f'{STYLE} Subject: {subj}.','r':None,'ratio':'1:1'} for (g,i,name,where,size,fmt,idle,tap,subj) in I],
+          open(os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))),'art/icons.json'),'w'),ensure_ascii=False)
 F='Arial'; thin=Side(style='thin',color='DDDDDD'); box=Border(left=thin,right=thin,top=thin,bottom=thin)
 hf=PatternFill('solid',fgColor='17124A')
 wb=Workbook(); sm=wb.active; sm.title='Summary'; ws=wb.create_sheet('Icons')
